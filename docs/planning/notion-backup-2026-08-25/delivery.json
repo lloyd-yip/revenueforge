@@ -1,0 +1,4026 @@
+[
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8120-b1ff-d3d77a8d3b92",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-04-06T13:36:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "RevenueForge \u2014 Delivery Model",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "RevenueForge \u2014 Delivery Model",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "ca621dc2-23fa-47f6-8550-ce94c967bb97",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "REFACTOR STATUS: Refactored for the consulting-led pivot (Debate #4). The old fixed 4-phase 90-day timeline (Map/Build/Calibrate/Causality) and the \"consulting-as-an-upsell-above-the-product-stack\" offer structure are dead \u2014 both assumed the same 3 products get built in the same order for every client. The new spine is a constraint-protected delivery loop: diagnose \u2192 route \u2192 architect \u2192 build \u2192 adopt \u2192 re-diagnose \u2192 ratchet. Surviving principles (consulting = R&D, continuous-value-not-a-black-box, SOP-as-training-data) are re-pointed below. Pricing/offer structure now lives on the Pricing page. See the SUPERSEDED log at the bottom.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "REFACTOR STATUS: Refactored for the consulting-led pivot (Debate #4). The old fixed 4-phase 90-day timeline (Map/Build/Calibrate/Causality) and the \"consulting-as-an-upsell-above-the-product-stack\" offer structure are dead \u2014 both assumed the same 3 products get built in the same order for every client. The new spine is a constraint-protected delivery loop: diagnose \u2192 route \u2192 architect \u2192 build \u2192 adopt \u2192 re-diagnose \u2192 ratchet. Surviving principles (consulting = R&D, continuous-value-not-a-black-box, SOP-as-training-data) are re-pointed below. Pricing/offer structure now lives on the Pricing page. See the SUPERSEDED log at the bottom.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd04"
+   },
+   "color": "blue_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8163-a9d0-c3b8f3d3d0da",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Core Idea",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Core Idea",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81c4-bf5e-f4519e28c7b5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Delivery is a ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Delivery is a ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "throughput problem",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "throughput problem",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ", not a timeline. The scarce resource is Lloyd's diagnosis + architecture ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ", not a timeline. The scarce resource is Lloyd's diagnosis + architecture ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "judgment",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "judgment",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 not build capacity (the factory scales that) and not Lloyd's ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 not build capacity (the factory scales that) and not Lloyd's ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "labor",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "labor",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (the menu + spec library scale that). So the entire spine is engineered around one rule: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (the menu + spec library scale that). So the entire spine is engineered around one rule: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd's time per engagement must fall as the menu matures.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd's time per engagement must fall as the menu matures.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Every step is sorted into a delegatable shell (team / automated / library) and an irreducible core that only needs Lloyd's judgment \u2014 never his hands.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Every step is sorted into a delegatable shell (team / automated / library) and an irreducible core that only needs Lloyd's judgment \u2014 never his hands.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81e0-ab0c-e14cb04315e4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Macro View \u2014 The 7-Step Spine",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Macro View \u2014 The 7-Step Spine",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "8d98a0ec-7b69-420e-ae5a-e32c63699f22",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Read this table as: what scales without Lloyd (left) vs. what only Lloyd's judgment can do (right). The right column shrinks over time as Rule-of-3 promotes custom builds into the menu.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Read this table as: what scales without Lloyd (left) vs. what only Lloyd's judgment can do (right). The right column shrinks over time as Rule-of-3 promotes custom builds into the menu.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83e\udded"
+   },
+   "color": "gray_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "7f64cd0d-94fa-4a0d-be7e-e885597b5e6e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": true,
+  "in_trash": false,
+  "type": "table",
+  "table": {
+   "table_width": 3,
+   "has_column_header": true,
+   "has_row_header": false
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "2161d781-81e4-4bfa-b95c-f4214c9974d3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Governing principle: Lloyd's hours-per-client must trend DOWN quarter over quarter even as client count rises. Steps 1, 4, 5, 6 need zero Lloyd. Steps 2, 3, 7 need only his judgment, and the share of work needing that judgment shrinks every time Rule-of-3 fires. If hours-per-client aren't falling, the spine is broken \u2014 and the fix is always \"templatize more,\" never \"Lloyd works more.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Governing principle: Lloyd's hours-per-client must trend DOWN quarter over quarter even as client count rises. Steps 1, 4, 5, 6 need zero Lloyd. Steps 2, 3, 7 need only his judgment, and the share of work needing that judgment shrinks every time Rule-of-3 fires. If hours-per-client aren't falling, the spine is broken \u2014 and the fix is always \"templatize more,\" never \"Lloyd works more.\"",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd11"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "b4645b10-81d0-42eb-8edf-a812b2b98e4a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "5eb03a26-aa8a-41dc-826e-07f29195cbfa",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Deeper Breakdown",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Deeper Breakdown",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8173-a699-d9434b8dc790",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 1 \u2014 Diagnose",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 1 \u2014 Diagnose",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81e8-93bf-c609f1eb1010",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "A standardized scan across the fixed revenue surface \u2014 the same 5\u20137 dimensions every time (revenue visibility, rep quality/coaching, conversion/close, follow-up, top-of-funnel/SDR, content/marketing, digital footprint). Same instrument every client \u2192 comparable results \u2192 builds the cross-client benchmark.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "A standardized scan across the fixed revenue surface \u2014 the same 5\u20137 dimensions every time (revenue visibility, rep quality/coaching, conversion/close, follow-up, top-of-funnel/SDR, content/marketing, digital footprint). Same instrument every client \u2192 comparable results \u2192 builds the cross-client benchmark.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81db-a768-ec01fbe88ab5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Delegatable shell:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Delegatable shell:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Data collection",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Data collection",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (pull CRM export, call-recording sample, pipeline snapshot, footprint, rep activity logs \u2014 checklist-driven, no judgment). ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (pull CRM export, call-recording sample, pipeline snapshot, footprint, rep activity logs \u2014 checklist-driven, no judgment). ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "First-pass scoring",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "First-pass scoring",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (each dimension scored against the rubric, e.g. \"0 automated touches after a call = red\" \u2014 rules, not opinion).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (each dimension scored against the rubric, e.g. \"0 automated touches after a call = red\" \u2014 rules, not opinion).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-814a-b7e8-c1e57008172d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd core:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd core:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " none. He never touches raw data collection.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " none. He never touches raw data collection.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8103-a7ac-c3fa9f5c7b05",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Output:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Output:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " a scored gap-card per dimension, red/amber/green with raw evidence attached.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " a scored gap-card per dimension, red/amber/green with raw evidence attached.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8105-a7f2-fc5b9700f393",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Failure mode:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Failure mode:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " garbage CRM data producing false greens. The checklist must flag low-confidence inputs (\"only 11 calls available\") so they aren't scored as clean.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " garbage CRM data producing false greens. The checklist must flag low-confidence inputs (\"only 11 calls available\") so they aren't scored as clean.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8165-b261-e2bc8f63a54c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 2 \u2014 Route + Novelty Gate",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 2 \u2014 Route + Novelty Gate",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8121-8138-d27bd89869e6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Turning scored gaps into a build plan by mapping each red/amber gap to a known menu asset \u2014 and explicitly catching the ones that don't map.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Turning scored gaps into a build plan by mapping each red/amber gap to a known menu asset \u2014 and explicitly catching the ones that don't map.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8143-ae34-ceb21204196e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Delegatable shell:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Delegatable shell:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " auto-map each gap to its default menu asset (\"weak rep coaching \u2192 Call Grader\"; \"no follow-up \u2192 DealForge sequence\"; \"no visibility \u2192 Revenue Dashboard\"). Most gaps resolve here.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " auto-map each gap to its default menu asset (\"weak rep coaching \u2192 Call Grader\"; \"no follow-up \u2192 DealForge sequence\"; \"no visibility \u2192 Revenue Dashboard\"). Most gaps resolve here.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8105-9d07-f4e54bd62ded",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd core (~20 min):",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd core (~20 min):",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " review only the gaps the mapper couldn't confidently route. Three calls per flagged gap: (a) it's actually a menu item the mapper missed; (b) genuinely custom \u2192 opens a custom-spec ticket; (c) out of scope / not a revenue problem \u2192 declined.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " review only the gaps the mapper couldn't confidently route. Three calls per flagged gap: (a) it's actually a menu item the mapper missed; (b) genuinely custom \u2192 opens a custom-spec ticket; (c) out of scope / not a revenue problem \u2192 declined.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8180-8d1c-dd9aadec5626",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Output:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Output:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " routed build plan = {menu builds} + {0\u2013N custom builds, each with a logged novelty justification}.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " routed build plan = {menu builds} + {0\u2013N custom builds, each with a logged novelty justification}.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "260a4f84-c8a4-408d-94cf-d0039380e1d9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it matters:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it matters:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " this is the single valve that keeps customization rate down. Custom cannot enter delivery without passing Lloyd's 20-min review and being logged \u2014 so \"the client asked for something weird\" can't silently balloon scope.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " this is the single valve that keeps customization rate down. Custom cannot enter delivery without passing Lloyd's 20-min review and being logged \u2014 so \"the client asked for something weird\" can't silently balloon scope.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-813a-80ae-c80de80b6d4b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 3 \u2014 Architect",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 3 \u2014 Architect",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81c2-9d27-e5bffe8b411d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Producing the build spec the factory works from. The spec is the interface between Lloyd's brain and the dev team \u2014 the actual scarce asset.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Producing the build spec the factory works from. The spec is the interface between Lloyd's brain and the dev team \u2014 the actual scarce asset.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-810f-b077-c7891f300fcd",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Delegatable shell:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Delegatable shell:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " for every menu item a versioned spec template already exists (schema, integration points, acceptance criteria, known edge cases). The factory pulls it from the library and self-serves. No Lloyd for menu builds.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " for every menu item a versioned spec template already exists (schema, integration points, acceptance criteria, known edge cases). The factory pulls it from the library and self-serves. No Lloyd for menu builds.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-817c-b395-d4b71fd13929",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd core:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd core:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " authors a spec only for custom builds flagged in Step 2. That finished custom spec becomes a library candidate (feeds the Rule-of-3 ratchet).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " authors a spec only for custom builds flagged in Step 2. That finished custom spec becomes a library candidate (feeds the Rule-of-3 ratchet).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-813b-9e48-ee6955eddb54",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Output:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Output:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " a build packet per item = spec + acceptance criteria + client-specific config values.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " a build packet per item = spec + acceptance criteria + client-specific config values.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "61bd97eb-8928-47d3-9a6b-b0039bd0960d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Constraint note:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Constraint note:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " this is the deliberate bottleneck. The point of the menu/library is that this step is ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " this is the deliberate bottleneck. The point of the menu/library is that this step is ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "empty",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "empty",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " for most of an engagement. If Lloyd is writing specs on every engagement, the library is too thin \u2014 the signal is to templatize, not to hire more architects.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " for most of an engagement. If Lloyd is writing specs on every engagement, the library is too thin \u2014 the signal is to templatize, not to hire more architects.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81e2-9e76-c173b947d7c8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 4 \u2014 Build Sprint",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 4 \u2014 Build Sprint",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-819c-b0b6-e4b8a8176ef2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The factory (Geri + Nico/contract devs) executes the build packets.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The factory (Geri + Nico/contract devs) executes the build packets.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8102-8de1-d0812fdcdcad",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Delegatable shell:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Delegatable shell:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " devs build against spec + acceptance criteria. \"Done\" is defined before they start \u2014 no guessing what Lloyd wanted.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " devs build against spec + acceptance criteria. \"Done\" is defined before they start \u2014 no guessing what Lloyd wanted.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8131-a52a-dce46c802c6c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd core:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd core:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " none during the build. His judgment was already spent in Steps 2\u20133.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " none during the build. His judgment was already spent in Steps 2\u20133.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-812a-89ed-cb1e8fa395bf",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T13:36:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "QA boundary:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "QA boundary:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " acceptance-criteria sign-off is runnable by the factory against the spec without Lloyd. Lloyd only inspects builds that fail their own criteria or are net-new custom (first time a spec runs). Once a menu spec has shipped clean ~3 times, it's trusted and Lloyd stops inspecting it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " acceptance-criteria sign-off is runnable by the factory against the spec without Lloyd. Lloyd only inspects builds that fail their own criteria or are net-new custom (first time a spec runs). Once a menu spec has shipped clean ~3 times, it's trusted and Lloyd stops inspecting it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "500a7bcb-3166-4d17-91a9-b5cc89323579",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Output:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Output:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " a working system, criteria-verified.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " a working system, criteria-verified.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "dcbdef37-7f5a-403a-a612-5aef0f8037ee",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 5 \u2014 Train / Adopt",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 5 \u2014 Train / Adopt",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "f49f7530-0712-474f-b42f-7f639043de1f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Getting the client's team to actually use the thing. The most underweighted step \u2014 and the one that matters most under the new pricing model.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Getting the client's team to actually use the thing. The most underweighted step \u2014 and the one that matters most under the new pricing model.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "2e73b2f7-37e9-443f-878c-032c62bd030c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Delegatable shell:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Delegatable shell:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " onboarding sessions, SOP install, usage tracking with explicit adoption thresholds (e.g. \"80% of reps logging next-steps within 14 days\").",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " onboarding sessions, SOP install, usage tracking with explicit adoption thresholds (e.g. \"80% of reps logging next-steps within 14 days\").",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "4e07c89d-d2c3-41c1-957b-fa7918d1d8b9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd core:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd core:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " none, unless adoption stalls and it's a strategic/relationship save.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " none, unless adoption stalls and it's a strategic/relationship save.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "bfb44c3d-9892-4271-a9db-bbcea4b96ca0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it has teeth now:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it has teeth now:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " a built system nobody uses = the client drops to the floor tier with no felt value = ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " a built system nobody uses = the client drops to the floor tier with no felt value = ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "churn off the floor, which Pricing named as the only enemy.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "churn off the floor, which Pricing named as the only enemy.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Un-adopted builds are incidents, not \"client's choice.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Un-adopted builds are incidents, not \"client's choice.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "6ee35774-3ea9-4372-a3c0-deb23a153f75",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Output:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Output:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " confirmed usage above threshold; logged as the \"result\" half of the fix-efficacy record (problem \u2192 fix \u2192 did it get used + did the metric move).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " confirmed usage above threshold; logged as the \"result\" half of the fix-efficacy record (problem \u2192 fix \u2192 did it get used + did the metric move).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "c32aeb94-095c-4b98-85e7-87d49f047394",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 6 \u2014 Re-diagnose / Expand",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 6 \u2014 Re-diagnose / Expand",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "ea68dec0-81cf-4504-b8f1-b97785ef8023",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The pulse that drives the oscillation model from Pricing. The Step 1 audit re-runs on a cadence, surfacing the next-biggest gap now the first is closed.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The pulse that drives the oscillation model from Pricing. The Step 1 audit re-runs on a cadence, surfacing the next-biggest gap now the first is closed.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3462e755-ec7b-499d-99e0-2cfda4b7a078",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Delegatable shell:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Delegatable shell:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " the same Step 1 instrument, re-run automatically on schedule. Cheap because standardized.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " the same Step 1 instrument, re-run automatically on schedule. Cheap because standardized.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "574c6bf0-4839-4356-a8d9-192cdfba9ea5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd core:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd core:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " review only \u2014 \"is there a gap big enough to justify re-entering the build tier?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " review only \u2014 \"is there a gap big enough to justify re-entering the build tier?\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "77a56511-5240-458d-a83c-8ed1a394fe49",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Output:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Output:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " either (a) a new build plan \u2192 client re-expands from floor into build tier (the NRR>100% mechanic), or (b) \"nothing build-worthy this cycle\" \u2192 client stays on the floor, still a re-expansion candidate next pulse.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " either (a) a new build plan \u2192 client re-expands from floor into build tier (the NRR>100% mechanic), or (b) \"nothing build-worthy this cycle\" \u2192 client stays on the floor, still a re-expansion candidate next pulse.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "0285e619-da57-4f41-a890-126fe55a2a52",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "This is what makes the floor an annuity instead of a goodbye.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "This is what makes the floor an annuity instead of a goodbye.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "e66cb246-1305-4e9b-82f8-6988f42ecd6f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 7 \u2014 Rule-of-3 Ratchet",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 7 \u2014 Rule-of-3 Ratchet",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "728606ca-cd34-4334-92e3-35c7a4676ffd",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The mechanism that makes the whole system cheaper to run over time. Productization isn't a separate initiative \u2014 it's a step in the delivery loop.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The mechanism that makes the whole system cheaper to run over time. Productization isn't a separate initiative \u2014 it's a step in the delivery loop.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "1da392f2-5cd4-4577-9e62-e42591023a2c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Delegatable shell:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Delegatable shell:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " a counter on every custom build. When the same custom build is authored for a 3rd client, it's flagged for promotion: templatize the spec, add it to the library, give it acceptance criteria.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " a counter on every custom build. When the same custom build is authored for a 3rd client, it's flagged for promotion: templatize the spec, add it to the library, give it acceptance criteria.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "0edbbbe0-4205-4280-bc0b-8eed80280e1f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd core:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd core:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " approve the promotion (one decision) + sanity-check the templatized spec once.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " approve the promotion (one decision) + sanity-check the templatized spec once.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "c8951bc4-3446-4445-8963-7261073a0af2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Output:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Output:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " a new menu asset + library spec. ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " a new menu asset + library spec. ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Effect: customization rate falls and Lloyd's per-engagement hours drop every quarter.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Effect: customization rate falls and Lloyd's per-engagement hours drop every quarter.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8110-ad0f-cdc5e8b84ef2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T19:38:00.000Z",
+  "last_edited_time": "2026-04-06T19:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81df-af8f-d6874b6b4096",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T19:38:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "What The Factory Is",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "What The Factory Is",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "8fbff39b-d6f9-440f-a44f-d28ef27d52a4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The factory is the dev team (Geri + Nico/contract devs) executing builds against Lloyd's architecture specs. The ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The factory is the dev team (Geri + Nico/contract devs) executing builds against Lloyd's architecture specs. The ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "spec library is the factory's input",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "spec library is the factory's input",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 for menu items the factory self-serves; only custom builds require a Lloyd-authored spec. This is what makes build volume not the constraint: you scale the factory by adding devs, and Lloyd's judgment is spent only on routing novel gaps and authoring custom specs. The spec (with acceptance criteria) is also the QA contract \u2014 it defines \"done\" before a dev starts.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 for menu items the factory self-serves; only custom builds require a Lloyd-authored spec. This is what makes build volume not the constraint: you scale the factory by adding devs, and Lloyd's judgment is spent only on routing novel gaps and authoring custom specs. The spec (with acceptance criteria) is also the QA contract \u2014 it defines \"done\" before a dev starts.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-810e-a16a-cf5e42c790e9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T19:38:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Surviving Principles (Re-pointed)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Surviving Principles (Re-pointed)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81a1-ae5c-e1ef64ac0ea7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T19:38:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Consulting = R&D.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Consulting = R&D.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Every engagement produces a labeled fix-efficacy record (problem \u2192 fix \u2192 result), captured at Step 5. This is the moat from Business Strategy \u2014 delivery is the mechanism that generates it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Every engagement produces a labeled fix-efficacy record (problem \u2192 fix \u2192 result), captured at Step 5. This is the moat from Business Strategy \u2014 delivery is the mechanism that generates it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81e6-b564-d7409be50ad5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T19:38:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Continuous value, never a black box.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Continuous value, never a black box.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " The old page was right that a client should never experience a long silent wait. The new spine delivers this structurally: Step 1 produces a diagnostic artifact fast, and every build sprint ships a working system the client adopts. The principle survives; the rigid \"4 named deliverables in 90 days\" framing does not.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " The old page was right that a client should never experience a long silent wait. The new spine delivers this structurally: Step 1 produces a diagnostic artifact fast, and every build sprint ships a working system the client adopts. The principle survives; the rigid \"4 named deliverables in 90 days\" framing does not.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81a2-91cc-d1136faadf22",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T19:38:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "SOP / standardization is training-data infrastructure, not overhead.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "SOP / standardization is training-data infrastructure, not overhead.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " The standardized audit (Step 1) and the spec library (Step 3) ARE the standardization \u2014 they make the AI/agent layer and the benchmark possible.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " The standardized audit (Step 1) and the spec library (Step 3) ARE the standardization \u2014 they make the AI/agent layer and the benchmark possible.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81a7-b0ec-c2b9ceabc7b1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T19:38:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Offer & Pricing \u2014 See Dedicated Page",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Offer & Pricing \u2014 See Dedicated Page",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "f8d7b366-961f-4cbf-9775-bb91d93eb43b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The old offer-structure section (Foundation Build + Intelligence retainer + Argus-included + Consulting/CompeteIQ upsells) is dead. Pricing was fully refactored in Debate #3 and lives on its own page (Pricing): Pilot \u2192 Build Tier \u2192 Floor/Platform Tier, with the portfolio/oscillation model. Note the inversion: consulting is NOT an upsell above a product stack \u2014 consulting IS the engagement.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The old offer-structure section (Foundation Build + Intelligence retainer + Argus-included + Consulting/CompeteIQ upsells) is dead. Pricing was fully refactored in Debate #3 and lives on its own page (Pricing): Pilot \u2192 Build Tier \u2192 Floor/Platform Tier, with the portfolio/oscillation model. Note the inversion: consulting is NOT an upsell above a product stack \u2014 consulting IS the engagement.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u27a1\ufe0f"
+   },
+   "color": "gray_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8141-bbdd-f2253b48c714",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-04-06T19:38:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Still Open (Handled in Later Debates)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Still Open (Handled in Later Debates)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "9dbbf533-2d2d-4c82-9189-585c3a448dff",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The audit instrument itself",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The audit instrument itself",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 Step 1's rubric + scoring is its own design problem. Built in Debate #7 (Revenue Intelligence Audit). This spine assumes it exists.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 Step 1's rubric + scoring is its own design problem. Built in Debate #7 (Revenue Intelligence Audit). This spine assumes it exists.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "83457213-3720-424f-9941-dd010a2c89a8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Who runs Step 5 adoption",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Who runs Step 5 adoption",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " when Lloyd and Geri are both heads-down \u2014 a capacity question for Debate #11 (Org).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " when Lloyd and Geri are both heads-down \u2014 a capacity question for Debate #11 (Org).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "02c06416-69d0-4a8c-8d8c-acae5b445a45",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "dedbdcca-addd-4df1-854b-c5f93cd350e9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\ud83d\uddc4\ufe0f SUPERSEDED \u2014 Removed / Inverted in the Consulting-Led Pivot",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\ud83d\uddc4\ufe0f SUPERSEDED \u2014 Removed / Inverted in the Consulting-Led Pivot",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "faa2ea9e-e9c3-47d4-90c1-c5454ed5e7a2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Removed because they contradict the consulting-led model. The Supabase key is retained as a record of what was superseded \u2014 the brain-DB row should be deprecated/rewritten.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Removed because they contradict the consulting-led model. The Supabase key is retained as a record of what was superseded \u2014 the brain-DB row should be deprecated/rewritten.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd25"
+   },
+   "color": "red_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "c8db18b2-73f7-4fec-ab30-990597e80d71",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Fixed 4-Phase Delivery Timeline (Map/Build/Calibrate/Causality, 90 days)",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Fixed 4-Phase Delivery Timeline (Map/Build/Calibrate/Causality, 90 days)",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 REMOVED. Assumed the same 3 products built in the same order for every client. Replaced by the constraint-protected spine (custom routing per client). The \"continuous value, no black box\" principle survives; the rigid phase names do not.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 REMOVED. Assumed the same 3 products built in the same order for every client. Replaced by the constraint-protected spine (custom routing per client). The \"continuous value, no black box\" principle survives; the rigid phase names do not.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "7749b37f-403b-4db6-96f2-c717d002b78c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Compliance Dashboard as the universal Week-2 deliverable",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Compliance Dashboard as the universal Week-2 deliverable",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 DEMOTED. It's now one example menu asset, not the spine. Lives in the Workflow Catalog (Debate #5).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 DEMOTED. It's now one example menu asset, not the spine. Lives in the Workflow Catalog (Debate #5).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "6c7a49e3-2ac8-450b-81bc-5f49e57bc0c3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "CRM Strategy \u2014 GHL-first cohort plan",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "CRM Strategy \u2014 GHL-first cohort plan",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 DEMOTED to an implementation detail of relevant menu assets, not a delivery-model pillar. (GHL-native depth is still real and still a credibility point.)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 DEMOTED to an implementation detail of relevant menu assets, not a delivery-model pillar. (GHL-native depth is still real and still a credibility point.)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "71466a7c-c0bc-4203-8c6a-e373c01bf3d4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Scaling Model \u2014 SOP \u2192 app \u2192 AI layer (3 phases)",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Scaling Model \u2014 SOP \u2192 app \u2192 AI layer (3 phases)",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 folded into \"Surviving Principles\" (SOP-as-training-data) and the Rule-of-3 ratchet. The standalone 3-phase framing is removed.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 folded into \"Surviving Principles\" (SOP-as-training-data) and the Rule-of-3 ratchet. The standalone 3-phase framing is removed.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "e122de02-4a83-4cf2-b2e5-0d87b06fdeb9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81ae-a45f-f7ad6de34524"
+  },
+  "created_time": "2026-05-31T18:46:00.000Z",
+  "last_edited_time": "2026-05-31T18:46:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Updated Offer Structure (April 2026)",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Updated Offer Structure (April 2026)",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (key: product_rf_offer_structure_three_layer_revised) \u2014 REMOVED. Consulting was framed as an upsell above a product stack; that inverts under the new model. Replaced by the Pricing page. Argus-as-included-hero-product is repositioned in Debate #9 (Vigil).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (key: product_rf_offer_structure_three_layer_revised) \u2014 REMOVED. Consulting was framed as an upsell above a product stack; that inverts under the new model. Replaced by the Pricing page. Argus-as-included-hero-product is repositioned in Debate #9 (Vigil).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ }
+]

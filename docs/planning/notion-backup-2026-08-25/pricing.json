@@ -1,0 +1,2276 @@
+[
+ {
+  "object": "block",
+  "id": "0f43cc43-c68e-4c0e-90d8-04f53a525d7a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "REFACTOR STATUS: This page is the output of Debate #3 (Pricing) in the consulting-led pivot. It replaces the old product-led pricing (setup fee + software-maintenance MRR + Vigil add-on) that lived inside Business Strategy. That old model is dead \u2014 see the change log at the bottom.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "REFACTOR STATUS: This page is the output of Debate #3 (Pricing) in the consulting-led pivot. It replaces the old product-led pricing (setup fee + software-maintenance MRR + Vigil add-on) that lived inside Business Strategy. That old model is dead \u2014 see the change log at the bottom.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd04"
+   },
+   "color": "blue_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "9e319bed-3771-423a-ae54-be6d8fbd76f9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Core Pricing Philosophy",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Core Pricing Philosophy",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "54710a1e-7762-4e51-a05d-36b152c7ef80",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "RevenueForge does not sell software seats and it does not sell hours. It sells a ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "RevenueForge does not sell software seats and it does not sell hours. It sells a ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Fractional Chief AI Revenue Officer",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Fractional Chief AI Revenue Officer",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 an operator who diagnoses the revenue/sales/marketing gaps, architects the fix, and ships custom AI systems against them. Pricing has to hold two truths at once:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 an operator who diagnoses the revenue/sales/marketing gaps, architects the fix, and ships custom AI systems against them. Pricing has to hold two truths at once:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "f36620c9-77cc-4f02-99f8-fe61b1564fd5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The build work is revenue-dense and time-dense.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The build work is revenue-dense and time-dense.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " When Lloyd is actively diagnosing + architecting + a dev is building, that engagement is worth a lot and consumes a lot of the scarce resource (Lloyd's throughput). This is the high-ticket retainer.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " When Lloyd is actively diagnosing + architecting + a dev is building, that engagement is worth a lot and consumes a lot of the scarce resource (Lloyd's throughput). This is the high-ticket retainer.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "c23c636f-be13-4316-ad0c-7248c131e375",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The systems we install are software layers the client keeps using forever.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The systems we install are software layers the client keeps using forever.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " A Revenue Dashboard, a Call Grader, an AI SDR, a DealForge follow-up engine \u2014 once installed, the client depends on them daily. Keeping them alive (hosting, access, light upkeep, the compounding agent layer watching their data) is near-zero marginal cost to us but high ongoing value to them.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " A Revenue Dashboard, a Call Grader, an AI SDR, a DealForge follow-up engine \u2014 once installed, the client depends on them daily. Keeping them alive (hosting, access, light upkeep, the compounding agent layer watching their data) is near-zero marginal cost to us but high ongoing value to them.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "0ce349c8-38ed-4989-b0de-aceef4ce48ed",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The pricing model is built directly on that split: a ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The pricing model is built directly on that split: a ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "build-driven retainer",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "build-driven retainer",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " that rides high while we're actively building, and a ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " that rides high while we're actively building, and a ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "maintenance/platform floor",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "maintenance/platform floor",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " the client drops to \u2014 but never off \u2014 when the build work pauses.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " the client drops to \u2014 but never off \u2014 when the build work pauses.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "e7634eee-ed58-4f34-8a45-30b607b5e898",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "a4afa883-6638-4be3-a354-8e6129cc46de",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Three Tiers",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Three Tiers",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "d4a406dc-3d94-4e24-8b00-10582e88f2f8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Tier 0 \u2014 The Pilot (entry)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Tier 0 \u2014 The Pilot (entry)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "12ca6aaa-d7aa-441a-9d59-6f8ec5a3222b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "3-month commitment, $8,000/mo minimum \u2192 $24,000 upfront minimum.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "3-month commitment, $8,000/mo minimum \u2192 $24,000 upfront minimum.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "04bf55c4-7af1-46ae-80d6-c334fc54882a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "This is the front door. No standalone audit SKU, no cheap trial. The first engagement is a real build sprint with a real operator attached.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "This is the front door. No standalone audit SKU, no cheap trial. The first engagement is a real build sprint with a real operator attached.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "b3261e86-41a5-448e-bb77-d3b3552d31d4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why $8k floor + 3-month lock: it filters for the ICP (a firm that can comfortably carry ~$10k/mo) and it buys enough runway to actually ship something that produces a result \u2014 which is what earns the expansion into the ongoing build tier.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why $8k floor + 3-month lock: it filters for the ICP (a firm that can comfortably carry ~$10k/mo) and it buys enough runway to actually ship something that produces a result \u2014 which is what earns the expansion into the ongoing build tier.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "1688a321-ce07-449a-a267-8a003b4e2a1d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The pilot is priced as a commitment, not a discount. The price-anchor for everything downstream.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The pilot is priced as a commitment, not a discount. The price-anchor for everything downstream.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "4d56ddcb-887e-47c6-b29a-c82a14c0d0b6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Tier 1 \u2014 The Build Tier (the engine)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Tier 1 \u2014 The Build Tier (the engine)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "64c06105-ac99-4aac-9308-5b7c0ff6c29a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "$8,000\u2013$15,000/mo",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "$8,000\u2013$15,000/mo",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " while we are actively consulting + architecting + building.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " while we are actively consulting + architecting + building.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "9d049087-a64b-4753-ba83-ff16bf4e20a2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "This is what you pay for ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "This is what you pay for ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd's diagnosis + architecture throughput + the dev team executing the builds",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd's diagnosis + architecture throughput + the dev team executing the builds",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ". It is revenue-dense and time-dense.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ". It is revenue-dense and time-dense.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "846698a0-1f8e-458f-b76f-6df8eb06649c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd-bottlenecked by design.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd-bottlenecked by design.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " The constraint on this tier is not build capacity (devs scale that) \u2014 it's Lloyd's (and Geri's) diagnosis + architecture throughput. So we run only a few build-tier engagements concurrently. This is the deliberate scarcity that protects quality and price.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " The constraint on this tier is not build capacity (devs scale that) \u2014 it's Lloyd's (and Geri's) diagnosis + architecture throughput. So we run only a few build-tier engagements concurrently. This is the deliberate scarcity that protects quality and price.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "eefa601d-7c1b-4df9-899b-b62122cc65fc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "A client sits in the build tier as long as there is a meaningful next system to build. When the backlog of high-value builds is temporarily exhausted, they oscillate down to the floor \u2014 they do not churn.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "A client sits in the build tier as long as there is a meaningful next system to build. When the backlog of high-value builds is temporarily exhausted, they oscillate down to the floor \u2014 they do not churn.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "deed7dff-0513-4929-b4ae-927c9be536e1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Tier 2 \u2014 The Floor / Platform Tier (the annuity)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Tier 2 \u2014 The Floor / Platform Tier (the annuity)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "57e7f0b4-446f-4108-a509-06ab36fd2423",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "$2,000\u2013$3,000/mo",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "$2,000\u2013$3,000/mo",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 a price-discovery starting anchor, to be calibrated.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 a price-discovery starting anchor, to be calibrated.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "bcf02c20-adc8-40b2-a503-b3a924859ff7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "This is software access + the compounding agent layer (the persistent layer watching their CRM/pipeline/content). It is ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "This is software access + the compounding agent layer (the persistent layer watching their CRM/pipeline/content). It is ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "value-priced, not cost-priced",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "value-priced, not cost-priced",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 the client is paying to keep systems they now depend on, not paying for our time.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 the client is paying to keep systems they now depend on, not paying for our time.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "ada20cae-67cb-484f-a7f1-28eaf217670c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Near-zero marginal cost to us, high margin-per-hour.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Near-zero marginal cost to us, high margin-per-hour.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " This is the scalable annuity. Less work for us to maintain, more efficient per hour than the build tier even though it bills less per month.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " This is the scalable annuity. Less work for us to maintain, more efficient per hour than the build tier even though it bills less per month.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "915e51f0-0292-4e66-8e5d-0383cac7b9ad",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it's sticky / why they can't just cancel:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it's sticky / why they can't just cancel:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " every system is delivered as a software layer. Cancelling means losing the Revenue Dashboard, the Call Grader, the AI SDR, the follow-up engine \u2014 and the accumulated history/calibration inside the agent layer. \"Maintenance\" is just another word for ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " every system is delivered as a software layer. Cancelling means losing the Revenue Dashboard, the Call Grader, the AI SDR, the follow-up engine \u2014 and the accumulated history/calibration inside the agent layer. \"Maintenance\" is just another word for ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "keeping access.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "keeping access.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " The longer they stay, the more the agent layer has learned about their specific business, the more expensive leaving becomes.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " The longer they stay, the more the agent layer has learned about their specific business, the more expensive leaving becomes.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "9a77db93-697f-42dd-be88-5edd7e7507a1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "7679e1f4-7f7a-4846-aea3-da204f1e76f2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Portfolio / Oscillation Model \u2014 How the Cliff Dissolves",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Portfolio / Oscillation Model \u2014 How the Cliff Dissolves",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "4101c895-94f1-441b-8951-77b68b38d40e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The structural problem in any build-driven retainer: when the builds pause, revenue falls off a cliff ($15k \u2192 $0). The naive fix is to pretend builds never end. The real fix is to design for the oscillation.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The structural problem in any build-driven retainer: when the builds pause, revenue falls off a cliff ($15k \u2192 $0). The naive fix is to pretend builds never end. The real fix is to design for the oscillation.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83e\udde0"
+   },
+   "color": "purple_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "5cf67460-940f-4342-b5ad-45efb5ca5f85",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Two revenue layers, not one.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Two revenue layers, not one.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Build tier = revenue-dense, time-dense, Lloyd-bottlenecked, few at a time. Floor tier = scalable, high-margin annuity, many at a time. A client is never \"done\" \u2014 they move ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Build tier = revenue-dense, time-dense, Lloyd-bottlenecked, few at a time. Floor tier = scalable, high-margin annuity, many at a time. A client is never \"done\" \u2014 they move ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "between",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "between",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " layers.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " layers.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "8ac409ea-9b32-4b43-9fec-1e34be1c6262",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Episodic re-entry.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Episodic re-entry.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " A continuous-diagnosis pulse (the standardized audit, run on a cadence against each client) keeps surfacing new revenue gaps. When a gap big enough to justify a build appears, the client re-enters the build tier. Revenue oscillates up; then settles back to the floor; then oscillates up again.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " A continuous-diagnosis pulse (the standardized audit, run on a cadence against each client) keeps surfacing new revenue gaps. When a gap big enough to justify a build appears, the client re-enters the build tier. Revenue oscillates up; then settles back to the floor; then oscillates up again.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "92089e9e-1868-43b1-a155-b5ab634637d6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "NRR > 100% via re-expansion.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "NRR > 100% via re-expansion.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Net revenue retention comes from re-expanding floor clients back into build tier \u2014 not from never letting them descend. Descending to the floor is healthy; it's the annuity working.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Net revenue retention comes from re-expanding floor clients back into build tier \u2014 not from never letting them descend. Descending to the floor is healthy; it's the annuity working.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "02d9bce8-5790-4065-a76b-8e8e849e3fa9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The only enemy is churn off the floor.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The only enemy is churn off the floor.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " As long as a client stays on the floor, they are a re-expansion candidate forever. Losing them off the floor is the single failure mode that matters. Everything in delivery should be oriented around floor retention, not around keeping builds artificially alive.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " As long as a client stays on the floor, they are a re-expansion candidate forever. Losing them off the floor is the single failure mode that matters. Everything in delivery should be oriented around floor retention, not around keeping builds artificially alive.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "b84e0862-5766-46cf-a06d-037758d16d44",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "de7b351b-af24-4c7a-80eb-26127e2f65b4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Ownership Note \u2014 Geri as Profit-Share Partner",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Ownership Note \u2014 Geri as Profit-Share Partner",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "825da71c-07d6-4e38-b1b9-32f2c5d148c5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Geri is treated as a business partner, not a contractor. Target pitch: ~65\u201370% Lloyd / ~30\u201335% Geri profit-share. NOT YET NEGOTIATED. Future expenses (e.g., additional devs like Nico) are deducted from the partnership before the split. Dev cost beyond the two founders is currently unknown. Full ownership/comp structure is debated in Item #11 (Org).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Geri is treated as a business partner, not a contractor. Target pitch: ~65\u201370% Lloyd / ~30\u201335% Geri profit-share. NOT YET NEGOTIATED. Future expenses (e.g., additional devs like Nico) are deducted from the partnership before the split. Dev cost beyond the two founders is currently unknown. Full ownership/comp structure is debated in Item #11 (Org).",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83e\udd1d"
+   },
+   "color": "gray_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "44f77787-2529-427d-88bd-c58f09299534",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "a7d3d477-d035-4fb9-bea0-77d4c656f71c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Known Unknowns \u2014 Deferred to Debate #11 (Org / Capacity)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Known Unknowns \u2014 Deferred to Debate #11 (Org / Capacity)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "07e6a985-d3fc-492d-8a2a-243073d000c0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The pricing model is structurally locked. What is NOT yet modeled is the capacity math that tells us how many clients we can carry at each tier. That requires three instrument-variables we don't have hard numbers on yet:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The pricing model is structurally locked. What is NOT yet modeled is the capacity math that tells us how many clients we can carry at each tier. That requires three instrument-variables we don't have hard numbers on yet:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "2d42e9f0-445e-4264-8849-731247c07f92",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd-hours to diagnose + architect",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd-hours to diagnose + architect",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " one engagement (the true bottleneck on the build tier).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " one engagement (the true bottleneck on the build tier).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "13666cea-133e-4e77-b4a8-7f6f2c0d8973",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Floor-maintenance hours per client per month",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Floor-maintenance hours per client per month",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (sets how many floor clients one person can carry \u2192 the annuity ceiling).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (sets how many floor clients one person can carry \u2192 the annuity ceiling).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "da3e2c93-6008-4b24-9b3d-c299f8b8c7e6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Build-tier margin-per-hour",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Build-tier margin-per-hour",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " vs floor-tier margin-per-hour (Lloyd's open question: build bills more but eats more time; floor bills less but is more efficient \u2014 which actually wins per hour?).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " vs floor-tier margin-per-hour (Lloyd's open question: build bills more but eats more time; floor bills less but is more efficient \u2014 which actually wins per hour?).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "ea43b3a5-56c2-491f-8fe4-c8f844a1e2e7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The $2\u20133k floor is a price-discovery anchor, not a final number. It gets calibrated once we have real maintenance-hour data and a few clients through the cycle.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The $2\u20133k floor is a price-discovery anchor, not a final number. It gets calibrated once we have real maintenance-hour data and a few clients through the cycle.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u23ed\ufe0f"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "9f453522-f2a4-4420-892d-7d9b9b861fbc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "f61ba7a0-18b8-499a-838c-284287aef261",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Change Log \u2014 What Died From the Old Model",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Change Log \u2014 What Died From the Old Model",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "11b0c91b-94d9-4cc4-bc05-3978a63e2b2c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "37137653-3f91-8184-857b-c5c18a65d046"
+  },
+  "created_time": "2026-05-31T18:23:00.000Z",
+  "last_edited_time": "2026-05-31T18:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": true,
+  "in_trash": false,
+  "type": "table",
+  "table": {
+   "table_width": 2,
+   "has_column_header": true,
+   "has_row_header": false
+  },
+  "archived": false
+ }
+]

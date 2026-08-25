@@ -1,0 +1,2093 @@
+[
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8184-8002-d4aa0c485696",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-06T13:35:00.000Z",
+  "last_edited_time": "2026-04-06T13:35:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "RevenueForge \u2014 Business Strategy",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "RevenueForge \u2014 Business Strategy",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "0add72f4-2dd8-4d0a-8a14-1d18fa617309",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "REFACTOR STATUS: This page has been refactored for the consulting-led pivot (Fractional Chief AI Revenue Officer / CAIRO). The old product-led strategy \u2014 \"build Vigil first, sell consulting to fund it,\" the three-product launch order, the setup-fee + maintenance-MRR pricing, and the Vigil-dependent scaling math \u2014 has been removed or inverted. What survives is re-pointed at the new model. See the SUPERSEDED log at the bottom for exactly what changed and why. Pricing now lives on its own page; ICP now lives on its own page.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "REFACTOR STATUS: This page has been refactored for the consulting-led pivot (Fractional Chief AI Revenue Officer / CAIRO). The old product-led strategy \u2014 \"build Vigil first, sell consulting to fund it,\" the three-product launch order, the setup-fee + maintenance-MRR pricing, and the Vigil-dependent scaling math \u2014 has been removed or inverted. What survives is re-pointed at the new model. See the SUPERSEDED log at the bottom for exactly what changed and why. Pricing now lives on its own page; ICP now lives on its own page.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd04"
+   },
+   "color": "blue_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81ba-9d1e-dbeba19ca5e7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-06T21:26:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Strategic Core \u2014 Consulting IS the Moat",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Strategic Core \u2014 Consulting IS the Moat",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "fddefbef-7cbf-4236-aa0c-63a1af99ab30",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The single most important inversion from the old model: consulting is NOT an acquisition mechanic for a product. Consulting IS the business and IS the moat. Every engagement diagnoses a real revenue gap, ships a fix, and produces a labeled outcome (problem type \u2192 fix \u2192 dollar result). That cross-client library of what-actually-works is the asset no competitor without an operating consulting practice can replicate.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The single most important inversion from the old model: consulting is NOT an acquisition mechanic for a product. Consulting IS the business and IS the moat. Every engagement diagnoses a real revenue gap, ships a fix, and produces a labeled outcome (problem type \u2192 fix \u2192 dollar result). That cross-client library of what-actually-works is the asset no competitor without an operating consulting practice can replicate.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd11"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-812c-b858-f9cf0457ac67",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-06T21:26:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "RevenueForge sells a Fractional Chief AI Revenue Officer: an operator who personally carried a revenue number, paired with a real build team, who diagnoses the revenue/sales/marketing gaps and ships custom AI systems against them. The durable advantage is not any one tool \u2014 it's the operator credibility plus the compounding fix-efficacy library plus the factory that productizes both the builds and the diagnosis.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "RevenueForge sells a Fractional Chief AI Revenue Officer: an operator who personally carried a revenue number, paired with a real build team, who diagnoses the revenue/sales/marketing gaps and ships custom AI systems against them. The durable advantage is not any one tool \u2014 it's the operator credibility plus the compounding fix-efficacy library plus the factory that productizes both the builds and the diagnosis.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-814a-bab6-db8ff9d12573",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-06T21:26:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pitch Sequence \u2014 Symptom to Causality",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pitch Sequence \u2014 Symptom to Causality",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "ecfb3faf-e0cd-4353-ac19-8853f41c1219",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The correct pitch sequence: symptom hook \u2192 mechanism reveal \u2192 the CAIRO engagement as the obvious answer \u2192 Day 90 proof. NOT leading with a product name or a tool.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The correct pitch sequence: symptom hook \u2192 mechanism reveal \u2192 the CAIRO engagement as the obvious answer \u2192 Day 90 proof. NOT leading with a product name or a tool.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "617860f4-dce9-496f-9a73-f6e18eb062d9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 1 \u2014 Symptom hook: name the specific revenue leak / AI-gap matching the prospect's trigger event",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 1 \u2014 Symptom hook: name the specific revenue leak / AI-gap matching the prospect's trigger event",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-816a-8eed-e8dbe6e00d33",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 2 \u2014 Mechanism reveal: the causality gap (why their current tools and team haven't solved it)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 2 \u2014 Mechanism reveal: the causality gap (why their current tools and team haven't solved it)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "b4781366-d950-4cd0-839b-414fcc3729cc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 3 \u2014 The engagement: a Fractional CAIRO who diagnoses and builds the fix, as the obvious answer to a problem they now understand",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 3 \u2014 The engagement: a Fractional CAIRO who diagnoses and builds the fix, as the obvious answer to a problem they now understand",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-819a-9a80-e768b110062b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Step 4 \u2014 Day 90 proof: a concrete shipped system + result that makes the abstract promise tangible",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Step 4 \u2014 Day 90 proof: a concrete shipped system + result that makes the abstract promise tangible",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "b9c0747b-0ad9-4207-8d6c-6509005c4c8a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Anti-pattern: Opening with a product/tool name \u2014 technically accurate, completely unconvincing. No pain activated. Lead with the symptom, not the software.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Anti-pattern: Opening with a product/tool name \u2014 technically accurate, completely unconvincing. No pain activated. Lead with the symptom, not the software.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u26a0\ufe0f"
+   },
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81e7-9614-ebd4b1aae5cb",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "ICP \u2014 See Dedicated Page",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "ICP \u2014 See Dedicated Page",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "34d0a35c-395d-41e9-80da-150d41e15fb4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The beachhead/ICP definition has moved to its own page (Ideal Customer Profile) and was fully refactored in Debate #2: situation-first, not size-first. Core: founder-led B2B, lean team (3\u201315 reps), no internal RevOps/AI function, founder feels behind on AI, can comfortably pay ~$10k/mo. Derived range: $5\u201320M core, $3M hard floor, $25M soft ceiling. See that page for the full derivation.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The beachhead/ICP definition has moved to its own page (Ideal Customer Profile) and was fully refactored in Debate #2: situation-first, not size-first. Core: founder-led B2B, lean team (3\u201315 reps), no internal RevOps/AI function, founder feels behind on AI, can comfortably pay ~$10k/mo. Derived range: $5\u201320M core, $3M hard floor, $25M soft ceiling. See that page for the full derivation.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u27a1\ufe0f"
+   },
+   "color": "gray_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "9570f817-3409-4d85-9220-ea98d3520ba2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Competitive Moat \u2014 Three Compounding Layers",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Competitive Moat \u2014 Three Compounding Layers",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8185-8ecb-d942d42f21fb",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Three layers that compound over time. A competitor launching today cannot replicate any of them for 12\u201318+ months.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Three layers that compound over time. A competitor launching today cannot replicate any of them for 12\u201318+ months.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8154-a411-eaee1c22fec8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Layer 1 \u2014 Operator credibility (Day 1): Lloyd has held CRO-level revenue responsibility at a multi-million-dollar B2B firm. Speaks as a peer who carried the number, not a vendor. Pure consultants and pure dev shops cannot replicate this. Never lead with the credential \u2014 let the diagnosis speak, then the credential confirms it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Layer 1 \u2014 Operator credibility (Day 1): Lloyd has held CRO-level revenue responsibility at a multi-million-dollar B2B firm. Speaks as a peer who carried the number, not a vendor. Pure consultants and pure dev shops cannot replicate this. Never lead with the credential \u2014 let the diagnosis speak, then the credential confirms it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81f9-bd30-ef3b49772359",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Layer 2 \u2014 Cross-client benchmark data (Client 10+): every engagement adds to a benchmark dataset across the $5\u201320M range. By client 10, we can tell a prospect what \"good\" looks like at their stage \u2014 a claim no competitor without the dataset can make.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Layer 2 \u2014 Cross-client benchmark data (Client 10+): every engagement adds to a benchmark dataset across the $5\u201320M range. By client 10, we can tell a prospect what \"good\" looks like at their stage \u2014 a claim no competitor without the dataset can make.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "041efb53-af39-4f88-ac7f-b204f475011a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Layer 3 \u2014 Fix-efficacy library (strongest, compounds every engagement): each engagement = a labeled outcome (problem type \u2192 AI fix \u2192 dollar result). This makes the next diagnosis sharper and the next build faster. It is the direct payoff of running a real consulting practice \u2014 and the reason consulting is the moat, not a cost.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Layer 3 \u2014 Fix-efficacy library (strongest, compounds every engagement): each engagement = a labeled outcome (problem type \u2192 AI fix \u2192 dollar result). This makes the next diagnosis sharper and the next build faster. It is the direct payoff of running a real consulting practice \u2014 and the reason consulting is the moat, not a cost.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "7a1a33be-ee4a-4a12-a8a6-f37f81707133",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Anti-pattern (INVERTED from old model): treating consulting as a distraction from a product. The old strategy said \"build the product first, consulting is just acquisition.\" That is dead. Consulting IS the mechanism that generates Layer 3 \u2014 the most defensible asset in the business.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Anti-pattern (INVERTED from old model): treating consulting as a distraction from a product. The old strategy said \"build the product first, consulting is just acquisition.\" That is dead. Consulting IS the mechanism that generates Layer 3 \u2014 the most defensible asset in the business.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u26a0\ufe0f"
+   },
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81c0-9ebf-fa83f9c855fe",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Offer & Pricing \u2014 See Dedicated Page",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Offer & Pricing \u2014 See Dedicated Page",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "7ee230a3-cf31-45aa-bd79-ddd82c51ab5f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pricing has moved to its own page (Pricing) and was fully refactored in Debate #3. Summary: Pilot (3mo, $8k/mo min, $24k upfront) \u2192 Build Tier ($8\u201315k/mo, Lloyd-bottlenecked, run few at once) \u2192 Floor/Platform Tier ($2\u20133k/mo price-discovery anchor, software-access + compounding agent layer, value-priced). The build-pause cliff is dissolved via a portfolio/oscillation model \u2014 clients descend to the floor and re-expand into builds (NRR>100%). The old setup-fee + maintenance-MRR + Vigil-add-on structure is dead.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pricing has moved to its own page (Pricing) and was fully refactored in Debate #3. Summary: Pilot (3mo, $8k/mo min, $24k upfront) \u2192 Build Tier ($8\u201315k/mo, Lloyd-bottlenecked, run few at once) \u2192 Floor/Platform Tier ($2\u20133k/mo price-discovery anchor, software-access + compounding agent layer, value-priced). The build-pause cliff is dissolved via a portfolio/oscillation model \u2014 clients descend to the floor and re-expand into builds (NRR>100%). The old setup-fee + maintenance-MRR + Vigil-add-on structure is dead.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u27a1\ufe0f"
+   },
+   "color": "gray_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-817e-af15-ea0e2a402398",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Bottleneck & The Escape Hatch",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Bottleneck & The Escape Hatch",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "f5600718-354d-4480-a43e-88b4613d8607",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The real ceiling is NOT build capacity \u2014 devs scale that. The ceiling is Lloyd's (and Geri's) diagnosis + architecture throughput. The escape hatch is to STANDARDIZE the diagnosis (the Revenue Intelligence Audit becomes a repeatable 5\u20137-part diagnostic surface) so it scales beyond Lloyd's hours \u2014 not to delegate the diagnosis away out the gate, since the diagnosis quality IS the product.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The real ceiling is NOT build capacity \u2014 devs scale that. The ceiling is Lloyd's (and Geri's) diagnosis + architecture throughput. The escape hatch is to STANDARDIZE the diagnosis (the Revenue Intelligence Audit becomes a repeatable 5\u20137-part diagnostic surface) so it scales beyond Lloyd's hours \u2014 not to delegate the diagnosis away out the gate, since the diagnosis quality IS the product.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83e\udea4"
+   },
+   "color": "orange_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81d0-b1e0-e09a1b6434b0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Business Ceiling Thesis \u2014 What Raises the Ceiling",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Business Ceiling Thesis \u2014 What Raises the Ceiling",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8150-9c2b-df985279e141",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The ceiling on a pure operator-led consulting practice is throughput-bound (one operator's diagnosis hours). Two levers raise it without sacrificing quality:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The ceiling on a pure operator-led consulting practice is throughput-bound (one operator's diagnosis hours). Two levers raise it without sacrificing quality:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8173-89d5-f456a3d9a70f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Factory \u2014 a dev team executing builds against Lloyd's architecture, so build volume is not the constraint.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Factory \u2014 a dev team executing builds against Lloyd's architecture, so build volume is not the constraint.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8173-950a-c33b1f62c47e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Productization (Rule of 3) \u2014 the moment the same workflow is requested by a 3rd client, it exits custom and enters the productization queue. Productized workflows + a standardized audit are what let revenue scale faster than Lloyd's hours.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Productization (Rule of 3) \u2014 the moment the same workflow is requested by a 3rd client, it exits custom and enters the productization queue. Productized workflows + a standardized audit are what let revenue scale faster than Lloyd's hours.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "21665a7d-fbd4-426c-b0c7-8891aabba293",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The old \"$500K\u2013$2M MRR ceiling\" math was built on a product-led, Vigil-dependent, CreativeIQ-loop assumption and specific setup-fee + retainer arithmetic. That math is removed \u2014 it does not describe this business. Capacity and ceiling math will be rebuilt in Debate #11 (Org) from real throughput data.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The old \"$500K\u2013$2M MRR ceiling\" math was built on a product-led, Vigil-dependent, CreativeIQ-loop assumption and specific setup-fee + retainer arithmetic. That math is removed \u2014 it does not describe this business. Capacity and ceiling math will be rebuilt in Debate #11 (Org) from real throughput data.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u26a0\ufe0f"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81a3-add7-ec3652a70fc3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Switching Costs \u2014 Why Clients Stay",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Switching Costs \u2014 Why Clients Stay",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8186-90ea-ca71ae0e08e0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Every system we install is delivered as a software layer the client uses daily \u2014 a Revenue Dashboard, a Call Grader, an AI SDR, a follow-up engine \u2014 plus the compounding agent layer watching their data. Cancelling means losing the systems AND the accumulated history/calibration the agent layer has built up about their specific business. The longer they stay, the more it has learned, the more expensive leaving becomes. This is the stickiness baked into the Floor/Platform tier (see Pricing).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Every system we install is delivered as a software layer the client uses daily \u2014 a Revenue Dashboard, a Call Grader, an AI SDR, a follow-up engine \u2014 plus the compounding agent layer watching their data. Cancelling means losing the systems AND the accumulated history/calibration the agent layer has built up about their specific business. The longer they stay, the more it has learned, the more expensive leaving becomes. This is the stickiness baked into the Floor/Platform tier (see Pricing).",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8177-9c45-e0bff854f7c1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Revenue Causality Chain \u2014 The Full-Stack Proof",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Revenue Causality Chain \u2014 The Full-Stack Proof",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81bc-994a-de5826ecb59d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The differentiated capability is closing the loop across the whole revenue engine: content angle \u2192 lead quality \u2192 show rate \u2192 rep call behavior \u2192 close outcome \u2192 follow-up. This is the dogfounding arc \u2014 RevenueForge rebuilt its own revenue function this way (visibility \u2192 Revenue Dashboard; rep quality \u2192 Call Grader; show-rate/close \u2192 DealForge; follow-up \u2192 AI SDR) and the arc is proof-of-method, not a fixed menu.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The differentiated capability is closing the loop across the whole revenue engine: content angle \u2192 lead quality \u2192 show rate \u2192 rep call behavior \u2192 close outcome \u2192 follow-up. This is the dogfounding arc \u2014 RevenueForge rebuilt its own revenue function this way (visibility \u2192 Revenue Dashboard; rep quality \u2192 Call Grader; show-rate/close \u2192 DealForge; follow-up \u2192 AI SDR) and the arc is proof-of-method, not a fixed menu.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "4b8dbad9-877c-43e6-8ad6-6ea3d71e7903",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Example insight (only possible with a full-stack engagement active): \"Your Instagram leads show at 78% and close at 42%. Your Meta leads show at 51% but close at 61%. The specific call behavior explaining the gap is X.\" Per-rep granularity available. This is what the integrated revenue engine sees that point tools cannot.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Example insight (only possible with a full-stack engagement active): \"Your Instagram leads show at 78% and close at 42%. Your Meta leads show at 51% but close at 61%. The specific call behavior explaining the gap is X.\" Per-rep granularity available. This is what the integrated revenue engine sees that point tools cannot.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udca1"
+   },
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8184-9840-d01c0aec721b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-04-07T09:02:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81b7-b261-de8c19e8898a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\ud83d\uddc4\ufe0f SUPERSEDED \u2014 Removed / Inverted in the Consulting-Led Pivot",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\ud83d\uddc4\ufe0f SUPERSEDED \u2014 Removed / Inverted in the Consulting-Led Pivot",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "6fb90fd3-c44d-484d-93d2-7908a8487aeb",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The following old-model frameworks have been REMOVED from this page because they contradict the consulting-led model. Their Supabase keys (strategy_rf_*) are retained here only as a record of what was superseded \u2014 the underlying brain-DB rows should be deprecated or rewritten to match.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The following old-model frameworks have been REMOVED from this page because they contradict the consulting-led model. Their Supabase keys (strategy_rf_*) are retained here only as a record of what was superseded \u2014 the underlying brain-DB rows should be deprecated or rewritten to match.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd25"
+   },
+   "color": "red_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8169-ae8f-ebd47dca08c9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Vigil is the moat / build Vigil first / consulting is just an acquisition mechanic\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Vigil is the moat / build Vigil first / consulting is just an acquisition mechanic\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (keys: strategy_rf_expert_debate_convergence, strategy_rf_vigil_hero_product_thesis) \u2014 INVERTED. Consulting is the moat. Vigil is repositioned as the future platform layer the consulting reveals demand for (Debate #9), not the thing you build first.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (keys: strategy_rf_expert_debate_convergence, strategy_rf_vigil_hero_product_thesis) \u2014 INVERTED. Consulting is the moat. Vigil is repositioned as the future platform layer the consulting reveals demand for (Debate #9), not the thing you build first.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-813a-8946-d45be52cd5af",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Old pricing + LTV expansion math",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Old pricing + LTV expansion math",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (key: strategy_rf_ltv_expansion_architecture) \u2014 REMOVED. Replaced by the new Pricing page (Debate #3).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (key: strategy_rf_ltv_expansion_architecture) \u2014 REMOVED. Replaced by the new Pricing page (Debate #3).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "a8a1d9d2-27e7-47bd-b0b9-4207105479b2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Scaling milestones revenue math",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Scaling milestones revenue math",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (key: strategy_rf_scaling_milestones_math) \u2014 REMOVED. Built on the dead pricing model; will be rebuilt in Debate #11.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (key: strategy_rf_scaling_milestones_math) \u2014 REMOVED. Built on the dead pricing model; will be rebuilt in Debate #11.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81c5-9ea8-c35b2bb94590",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Three-product architecture + launch sequence (CreativeIQ first)",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Three-product architecture + launch sequence (CreativeIQ first)",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (keys: strategy_rf_revenueforge_three_product_architecture, strategy_rf_launch_sequence) \u2014 REMOVED. There is no fixed product-launch order. CreativeIQ is demoted to one workflow in the demo catalog (Debate #10).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (keys: strategy_rf_revenueforge_three_product_architecture, strategy_rf_launch_sequence) \u2014 REMOVED. There is no fixed product-launch order. CreativeIQ is demoted to one workflow in the demo catalog (Debate #10).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "b3b04a8d-0557-44ce-9e2e-449b92144861",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Business ceiling assessment with/without CreativeIQ",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Business ceiling assessment with/without CreativeIQ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (key: strategy_rf_business_ceiling_assessment) \u2014 thesis survives (full stack + factory raises the ceiling), specific Vigil/CreativeIQ-dependent math REMOVED.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (key: strategy_rf_business_ceiling_assessment) \u2014 thesis survives (full stack + factory raises the ceiling), specific Vigil/CreativeIQ-dependent math REMOVED.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-813e-8ddf-f7a6ed171739",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-04-07T09:02:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Dual-lock retention",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Dual-lock retention",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (key: strategy_rf_dual_lock_retention) \u2014 folded into \"Switching Costs\" above, reframed around software-layer access rather than a two-product lock.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (key: strategy_rf_dual_lock_retention) \u2014 folded into \"Switching Costs\" above, reframed around software-layer access rather than a two-product lock.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "24d27cfd-b502-4bfc-a9e0-cc4cbd67d382",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-81f7-8e70-e7d4ad486d86"
+  },
+  "created_time": "2026-05-31T18:25:00.000Z",
+  "last_edited_time": "2026-05-31T18:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Four-layer moat with Vigil data-compounding as a standalone layer",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Four-layer moat with Vigil data-compounding as a standalone layer",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (key: strategy_rf_moat_architecture) \u2014 folded into \"Three Compounding Layers\" above; the agent-layer data effect is now part of switching costs, not a separate moat pillar.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (key: strategy_rf_moat_architecture) \u2014 folded into \"Three Compounding Layers\" above; the agent-layer data effect is now part of switching costs, not a separate moat pillar.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ }
+]

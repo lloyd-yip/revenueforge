@@ -1,0 +1,1354 @@
+[
+ {
+  "object": "block",
+  "id": "33b37653-3f91-814e-a37d-deaefef09171",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Not a content creation tool. A content compounding engine powered by performance data.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Not a content creation tool. A content compounding engine powered by performance data.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8134-a0e3-e8d79d31a6e7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "What CreativeIQ Is",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "What CreativeIQ Is",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81e2-8aa8-eeddcaf10f3d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "CreativeIQ is the content intelligence sub-product of RevenueForge. It bridges both ad creative and organic content \u2014 \"creative\" is the industry standard term covering both. The \"IQ\" signals that there is intelligence behind the creation, not just template generation.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "CreativeIQ is the content intelligence sub-product of RevenueForge. It bridges both ad creative and organic content \u2014 \"creative\" is the industry standard term covering both. The \"IQ\" signals that there is intelligence behind the creation, not just template generation.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81e9-a4b2-d0b08170cde5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Creative Intelligence Loop",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Creative Intelligence Loop",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81e6-a46f-ca2f6632d78b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The loop is the product. Without it, CreativeIQ competes on price with commodity content tools. With it, it is uncategorizable.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The loop is the product. Without it, CreativeIQ competes on price with commodity content tools. With it, it is uncategorizable.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8118-817e-eca1efd04cd6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Create content angles based on competitor analysis and own brand positioning",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Create content angles based on competitor analysis and own brand positioning",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8178-aae6-f5b10c42ce86",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Distribute via ads and/or organic channels",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Distribute via ads and/or organic channels",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81a5-8e9b-f07f2f7c2c70",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Performance data pipes back in (CTR, lead quality, show rate, close rate)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Performance data pipes back in (CTR, lead quality, show rate, close rate)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81b3-89fe-c04a7961cdb7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "System learns which angles produce which outcomes for THIS client's specific audience",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "System learns which angles produce which outcomes for THIS client's specific audience",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81f1-a742-c0bb342c81f1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Next creative iteration is calibrated to actual results, not just competitor trends",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Next creative iteration is calibrated to actual results, not just competitor trends",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81ce-825b-ca282a3fdf4a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Over 12+ months: a proprietary performance model specific to this client that no competitor can replicate",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Over 12+ months: a proprietary performance model specific to this client that no competitor can replicate",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-819f-ac4f-e7792b40e7c0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The loop IS the product. After 12 months of real campaign data feeding back into the system, CreativeIQ knows what angles actually close deals for your specific audience. Competitors have aggregate trend data. CreativeIQ has your data.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The loop IS the product. After 12 months of real campaign data feeding back into the system, CreativeIQ knows what angles actually close deals for your specific audience. Competitors have aggregate trend data. CreativeIQ has your data.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udca1"
+   },
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-812f-b46b-ffe3746031ba",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Naming Rationale",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Naming Rationale",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8153-a911-dfcd1ef024c8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Selected over Signal (taken \u2014 messaging app), ContentForge (too organic-only), AngleForge (too niche). \"Creative\" bridges ad creative and organic content. \"IQ\" signals performance intelligence.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Selected over Signal (taken \u2014 messaging app), ContentForge (too organic-only), AngleForge (too niche). \"Creative\" bridges ad creative and organic content. \"IQ\" signals performance intelligence.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-811f-9f65-fe07c73927a6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Supabase keys: strategy_rf_creative_iq_product_identity | strategy_rf_creative_intelligence_loop",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Supabase keys: strategy_rf_creative_iq_product_identity | strategy_rf_creative_intelligence_loop",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd35"
+   },
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8108-ab4b-c95a848ac2f0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Position in RevenueForge Architecture",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Position in RevenueForge Architecture",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81d4-8659-e108bc07aabf",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "One of three sub-products under RevenueForge:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "One of three sub-products under RevenueForge:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81a1-9c8c-eb5bcc27fd21",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Sales Intelligence (Revenue Dashboard + Call Grader) \u2014 pipeline visibility and rep behavioral grading",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Sales Intelligence (Revenue Dashboard + Call Grader) \u2014 pipeline visibility and rep behavioral grading",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8174-808c-e1174ea51efb",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "CreativeIQ \u2014 content intelligence and creative performance engine \u2190 this product",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "CreativeIQ \u2014 content intelligence and creative performance engine \u2190 this product",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8109-94f0-dec4e9ea3d3a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Vigil \u2014 AI synthesis layer connecting all feeds (requires 2+ active feeds to activate)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Vigil \u2014 AI synthesis layer connecting all feeds (requires 2+ active feeds to activate)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8140-966e-c2beb3ae6bb2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Supabase key: strategy_rf_revenueforge_three_product_architecture",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Supabase key: strategy_rf_revenueforge_three_product_architecture",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u26a0\ufe0f"
+   },
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81d7-a964-c6c72ba956d3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "ICP & Buyer",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "ICP & Buyer",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-819f-a3df-d7967489db52",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "To be defined \u2014 dedicated positioning session pending. Primary buyer is likely any founder or marketer running paid ads or organic content, NOT limited to the $2M\u2013$20M B2B ICP of Revenue Intelligence. TAM is significantly larger.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "To be defined \u2014 dedicated positioning session pending. Primary buyer is likely any founder or marketer running paid ads or organic content, NOT limited to the $2M\u2013$20M B2B ICP of Revenue Intelligence. TAM is significantly larger.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81c7-8691-eea6e5c9633c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pricing",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pricing",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81c0-8cf1-de640ae838ba",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "To be defined \u2014 lower friction and lower price point than Revenue Intelligence. Setup fee likely lower or none. Monthly retainer TBD.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "To be defined \u2014 lower friction and lower price point than Revenue Intelligence. Setup fee likely lower or none. Monthly retainer TBD.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-812e-8e9d-d814b19c44e4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "GTM & Entry Hook",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "GTM & Entry Hook",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8184-bed8-fb823f1c3dc5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "To be defined in positioning session. Likely: \"Scale your creative and actually learn what converts.\" Faster to value (7\u201314 days) vs Revenue Intelligence (60\u201390 days). Easier demo. No behavior change required from client's team.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "To be defined in positioning session. Likely: \"Scale your creative and actually learn what converts.\" Faster to value (7\u201314 days) vs Revenue Intelligence (60\u201390 days). Easier demo. No behavior change required from client's team.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-81ee-8f74-fd919912d4e1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Supabase key: strategy_rf_two_funnel_gtm",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Supabase key: strategy_rf_two_funnel_gtm",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd35"
+   },
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8174-bfcf-c5ec58a39d6f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Natural Upsell Path",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Natural Upsell Path",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33b37653-3f91-8191-a03e-cef80afec118",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33b37653-3f91-815f-b5f1-c069966e7175"
+  },
+  "created_time": "2026-04-07T09:03:00.000Z",
+  "last_edited_time": "2026-04-07T09:03:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "CreativeIQ clients who see ad performance improve will eventually ask: \"Which leads from which ads are actually closing?\" That question is the natural handoff to Revenue Intelligence. The upsell is a diagnosis, not a pitch: \"You've proven which content angles generate leads. Want to know which ones close deals?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "CreativeIQ clients who see ad performance improve will eventually ask: \"Which leads from which ads are actually closing?\" That question is the natural handoff to Revenue Intelligence. The upsell is a diagnosis, not a pitch: \"You've proven which content angles generate leads. Want to know which ones close deals?\"",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ }
+]

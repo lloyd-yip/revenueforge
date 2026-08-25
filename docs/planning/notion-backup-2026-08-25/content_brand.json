@@ -1,0 +1,5476 @@
+[
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8162-b5c0-ca0577a1d10c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Owner: Lloyd Yip \u00b7 Created: 2026-06-29 \u00b7 Status: v1 \u2014 strategic spine LOCKED (goal, audience, moat, core frame, pillars, channel, cadence). First-batch pieces + on-channel funnel mechanics still to design.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Owner: Lloyd Yip \u00b7 Created: 2026-06-29 \u00b7 Status: v1 \u2014 strategic spine LOCKED (goal, audience, moat, core frame, pillars, channel, cadence). First-batch pieces + on-channel funnel mechanics still to design.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81e9-b5af-e9bbaded83ec",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Strategic role: RevenueForge's organic top-of-funnel / personal-brand layer. = roadmap item 8-gtm (the organic-content half of GTM). Source: brainstorm 2026-06-29 (CC + Lloyd), captured at extreme fidelity.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Strategic role: RevenueForge's organic top-of-funnel / personal-brand layer. = roadmap item 8-gtm (the organic-content half of GTM). Source: brainstorm 2026-06-29 (CC + Lloyd), captured at extreme fidelity.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-817d-89c1-d23f905ea0f1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81a2-be47-faadf09ea3ef",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "1. Why this exists / strategic role",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "1. Why this exists / strategic role",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81d3-8e97-f17269960b76",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Years of building custom applications and solving real revenue / sales / marketing problems = operator-level insight worth a personal brand. Two jobs:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Years of building custom applications and solving real revenue / sales / marketing problems = operator-level insight worth a personal brand. Two jobs:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81b0-afb1-eee93001ee2f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Job #1 (primary): convert that insight into demand for RevenueForge (the Fractional Chief AI Revenue Officer business).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Job #1 (primary): convert that insight into demand for RevenueForge (the Fractional Chief AI Revenue Officer business).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8100-8b37-d238fdb8a558",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Job #2 (secondary by-product): build authority + optionality \u2014 'who knows what other opportunities it brings.'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Job #2 (secondary by-product): build authority + optionality \u2014 'who knows what other opportunities it brings.'",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8169-9a0c-fb244fcf581a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Not a separate animal from RevenueForge \u2014 it shares the same positioning spine (CAIRO; Diagnose \u2192 Build \u2192 Adopt \u2192 Compound; the honesty rule on real numbers). It is the content top-of-funnel feeding the webinar \u2192 Revenue Intelligence Audit \u2192 retainer motion.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Not a separate animal from RevenueForge \u2014 it shares the same positioning spine (CAIRO; Diagnose \u2192 Build \u2192 Adopt \u2192 Compound; the honesty rule on real numbers). It is the content top-of-funnel feeding the webinar \u2192 Revenue Intelligence Audit \u2192 retainer motion.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-812c-b89f-c9634e2d2861",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "2. The goal (LOCKED)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "2. The goal (LOCKED)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81f6-b18b-d0e166e3d147",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Optimize for conversion, not audience size. A niche, high-intent audience that books audits beats a large, low-intent audience that just watches.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Optimize for conversion, not audience size. A niche, high-intent audience that books audits beats a large, low-intent audience that just watches.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-814e-ae2e-dd2a60aa6518",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Primary success metric = RevenueForge-qualified founders entering the funnel (audit bookings / webinar registrations) \u2014 NOT raw subscriber / view count.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Primary success metric = RevenueForge-qualified founders entering the funnel (audit bookings / webinar registrations) \u2014 NOT raw subscriber / view count.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81b6-a72c-eea685341d90",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Audience size is a secondary signal. Lloyd cares more about the conversion ability of the audience than its size, and accepts the niche may be small.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Audience size is a secondary signal. Lloyd cares more about the conversion ability of the audience than its size, and accepts the niche may be small.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-818c-8420-ebebac6c4e46",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Optionality is a welcome by-product, not the optimization target.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Optionality is a welcome by-product, not the optimization target.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8118-9fc8-e3b3628f701b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "3. The audience (LOCKED)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "3. The audience (LOCKED)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81f4-8a29-c7aad00d01ad",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Primary (the buyer): RevenueForge's ICP \u2014 non-technical, founder-led B2B, ~$3\u201320M, lean team (3\u201315 reps), no internal RevOps / AI function, feels behind on AI, can comfortably pay ~$10k/mo. Situation-first, not size-first.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Primary (the buyer): RevenueForge's ICP \u2014 non-technical, founder-led B2B, ~$3\u201320M, lean team (3\u201315 reps), no internal RevOps / AI function, feels behind on AI, can comfortably pay ~$10k/mo. Situation-first, not size-first.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8182-8cf5-dabb90ee2cd4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Secondary (incidental \u2014 for credibility / reach, NOT the buyer): earlier-stage / more technical 'builders.' Useful for credibility and reach, but they mostly want to DIY and rarely buy done-for-you. A by-product audience, never the headline target.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Secondary (incidental \u2014 for credibility / reach, NOT the buyer): earlier-stage / more technical 'builders.' Useful for credibility and reach, but they mostly want to DIY and rarely buy done-for-you. A by-product audience, never the headline target.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81fa-b56e-fd307d56ec87",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Tension resolved: the idea list naturally serves both, and they pull in opposite directions. Builders grow the channel fast but convert weakly (and DIY teaching can cannibalize the offer). Buyers are smaller but high-intent and convertible. Decision: buyer is the headline; builder is the supporting act, used deliberately for credibility.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Tension resolved: the idea list naturally serves both, and they pull in opposite directions. Builders grow the channel fast but convert weakly (and DIY teaching can cannibalize the offer). Buyers are smaller but high-intent and convertible. Decision: buyer is the headline; builder is the supporting act, used deliberately for credibility.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81da-bfb3-cd0890f6a468",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "4. The moat \u2014 PROVENANCE",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "4. The moat \u2014 PROVENANCE",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81bb-a5ad-f4dda6716021",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The differentiator is not 'AI content.' It's provenance: an operator who actually carries a revenue number AND personally built / deployed the software that runs on his own pipeline.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The differentiator is not 'AI content.' It's provenance: an operator who actually carries a revenue number AND personally built / deployed the software that runs on his own pipeline.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81e3-8331-c45170b688b4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The market is saturated by two commoditized lanes \u2014 avoid both as an identity:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The market is saturated by two commoditized lanes \u2014 avoid both as an identity:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8142-b8df-d38740ee3e61",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Tool teachers \u2014 'here's how to set up Claude Code / run local models / build an agent.' Technical, attracts builders, commoditized, stuck on the next-tool treadmill.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Tool teachers \u2014 'here's how to set up Claude Code / run local models / build an agent.' Technical, attracts builders, commoditized, stuck on the next-tool treadmill.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8102-9960-cd23036cc09d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "AI-for-business thought leaders \u2014 'here's the state of AI, you should adopt it.' High-level, platitude-y, no execution, converts no one.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "AI-for-business thought leaders \u2014 'here's the state of AI, you should adopt it.' High-level, platitude-y, no execution, converts no one.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8115-a2a2-d19ce0235324",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd is the rare third thing: the operator-builder. He shows the actual machines that make him money, the judgment calls behind them, the messy org-adoption reality, and the limits (the dashboard is only as good as its data; the call grader needed real fine-tuning to be useful; humans must stay in specific loops). This can't be faked \u2014 it's the same dogfooding moat RevenueForge runs on. Lead with it on every piece.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd is the rare third thing: the operator-builder. He shows the actual machines that make him money, the judgment calls behind them, the messy org-adoption reality, and the limits (the dashboard is only as good as its data; the call grader needed real fine-tuning to be useful; humans must stay in specific loops). This can't be faked \u2014 it's the same dogfooding moat RevenueForge runs on. Lead with it on every piece.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8108-b4d4-f1f8f3a25b2b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "5. The core frame \u2014 CONTENT ALTITUDE (the make-or-break model)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "5. The core frame \u2014 CONTENT ALTITUDE (the make-or-break model)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8148-b793-eea7ef0405de",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Every topic can be pitched at one of two heights:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Every topic can be pitched at one of two heights:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81e1-a454-ff62e8efa55b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Principle altitude \u2014 the mental model / systems-thinking lesson, with the technical artifact shown as PROOF Lloyd actually operates this way. Worked example (sub-agent workflow): 'Most people jam everything into one chat and wonder why AI feels like a toy. Here's the sub-agent architecture I run to get production work out of it \u2014 and why that shift matters even if you never build it yourself.' \u2192 A founder thinks 'I need this guy'; a builder respects the depth. Result: converts + builds credibility.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Principle altitude \u2014 the mental model / systems-thinking lesson, with the technical artifact shown as PROOF Lloyd actually operates this way. Worked example (sub-agent workflow): 'Most people jam everything into one chat and wonder why AI feels like a toy. Here's the sub-agent architecture I run to get production work out of it \u2014 and why that shift matters even if you never build it yourself.' \u2192 A founder thinks 'I need this guy'; a builder respects the depth. Result: converts + builds credibility.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-814d-be18-de3254a5d9bc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Tutorial altitude \u2014 'here's how to set up X, step by step.' \u2192 A builder thinks 'great, I'll do it myself.' Result: reach, but DIY \u2014 weak conversion + mild cannibalization of the offer.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Tutorial altitude \u2014 'here's how to set up X, step by step.' \u2192 A builder thinks 'great, I'll do it myself.' Result: reach, but DIY \u2014 weak conversion + mild cannibalization of the offer.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-814e-98b5-cf0a669ca09c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The rule: default to principle altitude, and always ladder back up to the operator position ('\u2026and this is exactly the judgment we bring when we build for a client').",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The rule: default to principle altitude, and always ladder back up to the operator position ('\u2026and this is exactly the judgment we bring when we build for a client').",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-811f-afc4-cb6424cd5408",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The discipline: experimenting with builder-flavored content (e.g. the sub-agent workflow) is fine \u2014 it's one of Lloyd's best credibility plays in a market full of people who've never shipped. But 'I'm down to experiment' must not become a default drift into the commoditized tutorial lane. Builder topics are welcome at principle altitude; tutorial altitude is a rare, deliberate choice.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The discipline: experimenting with builder-flavored content (e.g. the sub-agent workflow) is fine \u2014 it's one of Lloyd's best credibility plays in a market full of people who've never shipped. But 'I'm down to experiment' must not become a default drift into the commoditized tutorial lane. Builder topics are welcome at principle altitude; tutorial altitude is a rare, deliberate choice.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8169-8716-c86ee06c8e73",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "6. The three content pillars",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "6. The three content pillars",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81c1-8ee1-c5a5a5c93bbb",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pillar 2 is the wedge, Pillar 1 is the proof, Pillar 3 is the credential.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pillar 2 is the wedge, Pillar 1 is the proof, Pillar 3 is the credential.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-816c-a074-e6ddff5d5ac2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pillar 1 \u2014 The Build Diaries (proof engine; Lloyd's macro favorite)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pillar 1 \u2014 The Build Diaries (proof engine; Lloyd's macro favorite)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81b5-b124-cccdca14cca2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "One machine per piece. Structure: the revenue problem \u2192 why we decided to build it (the trigger) \u2192 what it does \u2192 who it's for \u2192 what it changed (real numbers) \u2192 where humans still have to be (the limits). This is the Machine Library rendered as content, and the most direct RevenueForge ad \u2014 a founder watching feels their own problem on screen. Primary audience: buyer. Seed subjects: Call Grader, Revenue Dashboard, DealForge, CreativeIQ, Automated SDR.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "One machine per piece. Structure: the revenue problem \u2192 why we decided to build it (the trigger) \u2192 what it does \u2192 who it's for \u2192 what it changed (real numbers) \u2192 where humans still have to be (the limits). This is the Machine Library rendered as content, and the most direct RevenueForge ad \u2014 a founder watching feels their own problem on screen. Primary audience: buyer. Seed subjects: Call Grader, Revenue Dashboard, DealForge, CreativeIQ, Automated SDR.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81f3-ac9b-dcb0154fc8f6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pillar 2 \u2014 How I Decide (the differentiator; systems thinking)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pillar 2 \u2014 How I Decide (the differentiator; systems thinking)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-814b-91d6-d39b41c739f4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The judgment frameworks \u2014 the most shareable, most 'operator-not-tool-user' content and Lloyd's true wedge. Primary audience: buyer (+ builder respect). Seed subjects: build vs. buy vs. automate; custom app vs. an n8n pipeline (when each is right); where AI is reliable vs. where it needs a human in the loop; how to spot where valuable work isn't getting done because no human has the time; the data-quality reality; 'stop using AI as a chatbot \u2014 how to actually think about automating' (a way of thinking, not a tool tutorial); systems thinking for non-technical operators.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The judgment frameworks \u2014 the most shareable, most 'operator-not-tool-user' content and Lloyd's true wedge. Primary audience: buyer (+ builder respect). Seed subjects: build vs. buy vs. automate; custom app vs. an n8n pipeline (when each is right); where AI is reliable vs. where it needs a human in the loop; how to spot where valuable work isn't getting done because no human has the time; the data-quality reality; 'stop using AI as a chatbot \u2014 how to actually think about automating' (a way of thinking, not a tool tutorial); systems thinking for non-technical operators.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8158-a987-fafbf755059a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pillar 3 \u2014 Under the Hood (credibility; occasional, principle-framed)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pillar 3 \u2014 Under the Hood (credibility; occasional, principle-framed)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81e3-9740-c15222980725",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The deeper technical builds, always at principle altitude and laddered back to the offer. Lower frequency, deliberate. Primary audience: builder (ladders to buyer). Seed subjects: the sub-agent workflow (and why it beats jamming everything into one chat \u2014 the difference from using Claude Code / Codex as a single chatbot), how Lloyd thinks about backend infrastructure (database / frontend / backend), the pipeline for designing a custom app from scratch, agentic workflow design.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The deeper technical builds, always at principle altitude and laddered back to the offer. Lower frequency, deliberate. Primary audience: builder (ladders to buyer). Seed subjects: the sub-agent workflow (and why it beats jamming everything into one chat \u2014 the difference from using Claude Code / Codex as a single chatbot), how Lloyd thinks about backend infrastructure (database / frontend / backend), the pipeline for designing a custom app from scratch, agentic workflow design.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8198-b8ec-ff6d11483a25",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "7. Channel & cadence (LOCKED)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "7. Channel & cadence (LOCKED)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81ad-a2ae-c2292fe76dd6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Primary channel: YouTube. Lloyd's desired format \u2014 in-depth talking-head + workflow / flowchart diagrams, credibility-building \u2014 is native to YouTube long-form.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Primary channel: YouTube. Lloyd's desired format \u2014 in-depth talking-head + workflow / flowchart diagrams, credibility-building \u2014 is native to YouTube long-form.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8152-9d07-fc46e292da79",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Cadence: 1\u20132\u00d7 per week, realistically sustainable. Consistency is a hard requirement (see Risks).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Cadence: 1\u20132\u00d7 per week, realistically sustainable. Consistency is a hard requirement (see Risks).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8113-98db-d75ba65b58e0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Production value: intentionally lean \u2014 talking head + diagrams on screen, not high-production. Low production supports authenticity AND sustainability at this cadence.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Production value: intentionally lean \u2014 talking head + diagrams on screen, not high-production. Low production supports authenticity AND sustainability at this cadence.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-815b-99c2-c74cb09651d6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "8. Format & production principles",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "8. Format & production principles",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81cf-b1dd-f4c38fface56",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Talking head + flowchart / workflow diagrams as the core visual grammar. Diagrams carry the systems-thinking.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Talking head + flowchart / workflow diagrams as the core visual grammar. Diagrams carry the systems-thinking.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-817c-9378-d4ecd496f166",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Diagrams over IDE screencast \u2014 strategic, not aesthetic. Lloyd's value is the system architecture and the judgment, not the keystrokes. Diagrams make systems-thinking legible and reinforce the operator lane; screen-recording-the-IDE is the commoditized builder lane and attracts the wrong audience. (Validates Lloyd's own instinct.)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Diagrams over IDE screencast \u2014 strategic, not aesthetic. Lloyd's value is the system architecture and the judgment, not the keystrokes. Diagrams make systems-thinking legible and reinforce the operator lane; screen-recording-the-IDE is the commoditized builder lane and attracts the wrong audience. (Validates Lloyd's own instinct.)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8159-9411-fc236aa0e5dc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Depth + real tutorials that build credibility \u2014 show that he knows this cold and likes to talk about it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Depth + real tutorials that build credibility \u2014 show that he knows this cold and likes to talk about it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8156-981e-e6c126a098d2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Mix of altitudes within the brand: conceptual / philosophical / POV pieces (why things work, the philosophy) AND deeper execution pieces (here's how to actually do it) \u2014 governed by the altitude rule (\u00a75).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Mix of altitudes within the brand: conceptual / philosophical / POV pieces (why things work, the philosophy) AND deeper execution pieces (here's how to actually do it) \u2014 governed by the altitude rule (\u00a75).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81df-9b85-fd0b4ec64aa3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Honesty rule (non-negotiable): no fabricated or unverifiable numbers. Any dogfooding result shown must be real and defensible (RevenueForge notes flag 'doubled close rate / +30% speed-to-close / cut cost-to-serve' as VERIFY-before-use). Label dogfooded work as such \u2014 never imply a client outcome that didn't happen.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Honesty rule (non-negotiable): no fabricated or unverifiable numbers. Any dogfooding result shown must be real and defensible (RevenueForge notes flag 'doubled close rate / +30% speed-to-close / cut cost-to-serve' as VERIFY-before-use). Label dogfooded work as such \u2014 never imply a client outcome that didn't happen.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81ec-9268-dceb9459f071",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "9. Seed topic inventory (starter \u2014 not exhaustive)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "9. Seed topic inventory (starter \u2014 not exhaustive)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8139-ae7f-d59ff8072c59",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pillar 1 \u2014 Build Diaries",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pillar 1 \u2014 Build Diaries",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8164-8754-d7e358d8d994",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Call Grader: why we built it, what it grades, how it changed the sales team, its limits (needed real fine-tuning).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Call Grader: why we built it, what it grades, how it changed the sales team, its limits (needed real fine-tuning).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-817f-a6a0-f8dc543616db",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Revenue Dashboard: the visibility gap, why we built it, and the hard dependency on data quality.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Revenue Dashboard: the visibility gap, why we built it, and the hard dependency on data quality.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-819b-9a4d-e4b05f2850b0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "DealForge: the post-call asset package from a transcript; built and running on our own pipeline.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "DealForge: the post-call asset package from a transcript; built and running on our own pipeline.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81bc-8239-ef141439fb56",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "CreativeIQ: competitor ad / creative intelligence \u2192 our copy & scripts.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "CreativeIQ: competitor ad / creative intelligence \u2192 our copy & scripts.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8104-9c2e-e109260de050",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Automated SDR: per-prospect research + personalization at a volume no human team sustains.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Automated SDR: per-prospect research + personalization at a volume no human team sustains.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8168-9a51-d0e95bb200a8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pillar 2 \u2014 How I Decide",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pillar 2 \u2014 How I Decide",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81f2-9569-daa885061ea2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Build vs. buy vs. automate \u2014 how I actually make the call.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Build vs. buy vs. automate \u2014 how I actually make the call.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8168-a719-c5090d3e3186",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Custom app vs. an automation / n8n pipeline \u2014 when each is right.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Custom app vs. an automation / n8n pipeline \u2014 when each is right.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8103-8edb-c32879dd5216",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "'Stop using AI as a chatbot': a practical way to think through automating a workflow.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "'Stop using AI as a chatbot': a practical way to think through automating a workflow.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81fe-b790-d2d6423d61b7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Where AI is reliable vs. where a human must stay in the loop (and how to tell).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Where AI is reliable vs. where a human must stay in the loop (and how to tell).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81f5-bb58-f7d44f2a56e1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Systems thinking for non-technical founders \u2014 it's not about coding.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Systems thinking for non-technical founders \u2014 it's not about coding.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8143-bac6-e9742fd5f0e3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "How to spot where valuable work isn't getting done because no one has the time.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "How to spot where valuable work isn't getting done because no one has the time.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81b8-8d55-f3d464dfb1ea",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pillar 3 \u2014 Under the Hood",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pillar 3 \u2014 Under the Hood",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81fa-a9a0-d892737f7c83",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "My sub-agent workflow \u2014 and why it beats cramming everything into one chat session.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "My sub-agent workflow \u2014 and why it beats cramming everything into one chat session.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8156-84a8-e8091cfc41ab",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "How I think about backend infrastructure: database / frontend / backend.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "How I think about backend infrastructure: database / frontend / backend.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8139-a6b8-f9b3c10b5289",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The pipeline for designing a custom app from scratch.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The pipeline for designing a custom app from scratch.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-813f-8e69-fc5cfac6c080",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "10. Risks & constraints to manage",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "10. Risks & constraints to manage",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81b5-be8e-cb5c57fd8e64",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Cadence / consistency (top risk). Depth + provenance is expensive per piece. A niche-but-converting audience only compounds with consistency \u2014 sporadic genius loses to consistent good. \u2192 1\u20132\u00d7/week must be genuinely sustainable; design production to protect it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Cadence / consistency (top risk). Depth + provenance is expensive per piece. A niche-but-converting audience only compounds with consistency \u2014 sporadic genius loses to consistent good. \u2192 1\u20132\u00d7/week must be genuinely sustainable; design production to protect it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81de-a47f-cac6ecdc1e32",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Proof inventory + honesty rule. Pillar 1 is only as strong as the real, defensible numbers Lloyd can show. Verify the dogfooding figures before using them on camera. No claimed client outcomes that didn't happen.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Proof inventory + honesty rule. Pillar 1 is only as strong as the real, defensible numbers Lloyd can show. Verify the dogfooding figures before using them on camera. No claimed client outcomes that didn't happen.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8119-9867-d4fd78745df7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Cannibalization / give-away-the-recipe. Teaching the exact build can erode the offer. Managed by the altitude rule (\u00a75): give away the thinking and the proof; reserve tutorial-altitude how-to for deliberate, occasional credibility plays.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Cannibalization / give-away-the-recipe. Teaching the exact build can erode the offer. Managed by the altitude rule (\u00a75): give away the thinking and the proof; reserve tutorial-altitude how-to for deliberate, occasional credibility plays.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8178-827b-e463433cad5b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Builder-audience drift. The fast-growing builder audience is the wrong buyer. Keep buyer as the headline; treat builder reach as a credibility by-product, not the goal.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Builder-audience drift. The fast-growing builder audience is the wrong buyer. Keep buyer as the headline; treat builder reach as a credibility by-product, not the goal.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81a9-9cab-d9e0407aef33",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "11. Relationship to RevenueForge assets",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "11. Relationship to RevenueForge assets",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81a3-98c2-d29ae08b7cb4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "= roadmap item 8-gtm (GTM / Webinar Framework) \u2014 this is the organic-content half of RevenueForge's go-to-market.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "= roadmap item 8-gtm (GTM / Webinar Framework) \u2014 this is the organic-content half of RevenueForge's go-to-market.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81e6-bb7d-cafa3f090636",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Build Diaries = the Machine Library as content (proof-of-method, not a SKU menu).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Build Diaries = the Machine Library as content (proof-of-method, not a SKU menu).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8144-93f1-f659592ff2d4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Funnel: content (YouTube) \u2192 webinar \u2192 Revenue Intelligence Audit (the CTA / lead magnet) \u2192 pilot \u2192 build / floor retainer.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Funnel: content (YouTube) \u2192 webinar \u2192 Revenue Intelligence Audit (the CTA / lead magnet) \u2192 pilot \u2192 build / floor retainer.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81ce-b3fd-eb6cc4af213d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Shared positioning spine: CAIRO (the 'Revenue' is the differentiator); Diagnose \u2192 Build \u2192 Adopt \u2192 Compound; honesty rule.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Shared positioning spine: CAIRO (the 'Revenue' is the differentiator); Diagnose \u2192 Build \u2192 Adopt \u2192 Compound; honesty rule.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81eb-90ec-db1eb3176fb7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Webinar tie-in: the webinar's 6-machine walk and the content's Build Diaries draw from the same proof set \u2014 reuse, don't duplicate.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Webinar tie-in: the webinar's 6-machine walk and the content's Build Diaries draw from the same proof set \u2014 reuse, don't duplicate.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-817f-a9cf-f945955c568c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "12. Open questions / next steps",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "12. Open questions / next steps",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81c6-9301-fe31a5eb30e5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Open",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Open",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8187-961a-e7c2f3cc24cb",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "First batch of specific pieces (titles + the flagship opener).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "First batch of specific pieces (titles + the flagship opener).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8118-b0d4-d26244d6dfe7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "On-channel funnel mechanics: how a YouTube viewer is routed to the webinar / audit (end-screen CTA, description link, lead magnet).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "On-channel funnel mechanics: how a YouTube viewer is routed to the webinar / audit (end-screen CTA, description link, lead magnet).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8140-a2bf-c41d7388f9ca",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Whether to repurpose YouTube long-form into shorts / LinkedIn (secondary distribution) or stay YouTube-pure initially.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Whether to repurpose YouTube long-form into shorts / LinkedIn (secondary distribution) or stay YouTube-pure initially.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8106-87f1-f70a2049d448",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Title / thumbnail strategy (YouTube is title/thumbnail-driven).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Title / thumbnail strategy (YouTube is title/thumbnail-driven).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8150-9cff-fba0e080d137",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Verify the dogfooding numbers before any Build Diary uses them.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Verify the dogfooding numbers before any Build Diary uses them.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8178-a9b2-cd52a5eb20c6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Immediate next step",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Immediate next step",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81b6-bbd2-dda3170336f4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Design the first 3\u20135 specific pieces (one flagship per pillar) + the content \u2192 audit funnel mechanics.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Design the first 3\u20135 specific pieces (one flagship per pillar) + the content \u2192 audit funnel mechanics.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-815c-b161-ca7da16e9923",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-06-29T21:16:00.000Z",
+  "last_edited_time": "2026-06-29T21:16:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Extract the durable principles here (the altitude rule, buyer-first, the 3 pillars) into knowledge_principles via /brain-write so the semantic layer can retrieve them (separate step; not raw SQL).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Extract the durable principles here (the altitude rule, buyer-first, the 3 pillars) into knowledge_principles via /brain-write so the semantic layer can retrieve them (separate step; not raw SQL).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8180-86c8-ee9a87052d0d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81e3-8e0f-fbfce8af7740",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\u2014 v1.1 addendum (2026-06-29): decisions locked in the follow-up discussion. Extends \u00a76 (pillars) and \u00a77 (channel & cadence). Channel identity pending final wording (see chat) \u2014 to be added once confirmed. \u2014",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\u2014 v1.1 addendum (2026-06-29): decisions locked in the follow-up discussion. Extends \u00a76 (pillars) and \u00a77 (channel & cadence). Channel identity pending final wording (see chat) \u2014 to be added once confirmed. \u2014",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8110-8c44-cb2e8dcd7502",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "13. Distribution strategy \u2014 YouTube as a search engine (LOCKED)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "13. Distribution strategy \u2014 YouTube as a search engine (LOCKED)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81bd-9913-e1d1cdfcba0b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The YouTube paradox: we picked a reach engine but optimized for a niche. YouTube's algorithm rewards broad watch-time, so a narrow buyer-first channel can make great videos almost nobody sees. Resolution: treat YouTube as a SEARCH engine, not a virality / slot-machine. Rank for the exact questions founders already type ('should I build a custom app or just use Zapier', 'how to use AI for sales', 'AI to review sales calls'). Fewer views per video, but the viewer arrived WITH intent \u2014 which is exactly conversion-over-size. Title the video as the query, not as a curiosity hook.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The YouTube paradox: we picked a reach engine but optimized for a niche. YouTube's algorithm rewards broad watch-time, so a narrow buyer-first channel can make great videos almost nobody sees. Resolution: treat YouTube as a SEARCH engine, not a virality / slot-machine. Rank for the exact questions founders already type ('should I build a custom app or just use Zapier', 'how to use AI for sales', 'AI to review sales calls'). Fewer views per video, but the viewer arrived WITH intent \u2014 which is exactly conversion-over-size. Title the video as the query, not as a curiosity hook.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81fb-be40-ec7a81a2e429",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The pillars map to a reach \u2192 intent gradient \u2014 deploy them by funnel role:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The pillars map to a reach \u2192 intent gradient \u2014 deploy them by funnel role:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81ac-8ad4-de4d4f46e3bb",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pillar 2 (How I Decide) = the discovery engine. Most-searched, most-shareable, still pulls operators. This is what earns distribution.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pillar 2 (How I Decide) = the discovery engine. Most-searched, most-shareable, still pulls operators. This is what earns distribution.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8185-8cdd-daa6fd4c629a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pillar 1 (Build Diaries) = the conversion engine. Lower reach, but a founder watching 'I built an AI that grades every sales call' is feeling their own problem = the audit booking.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pillar 1 (Build Diaries) = the conversion engine. Lower reach, but a founder watching 'I built an AI that grades every sales call' is feeling their own problem = the audit booking.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81c4-a2f8-c2600036b893",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pillar 3 (Under the Hood) = credibility, lowest distribution priority (it pulls builders, the wrong audience).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pillar 3 (Under the Hood) = credibility, lowest distribution priority (it pulls builders, the wrong audience).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81ff-b3d1-f1072da1b779",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The trap: chasing views with broad 'AI will change everything' hooks pulls the wrong crowd (general AI-curious tinkerers, not founders) and dilutes the funnel = builder-drift. Resist vanity reach; optimize titles for founder-intent, not max clicks.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The trap: chasing views with broad 'AI will change everything' hooks pulls the wrong crowd (general AI-curious tinkerers, not founders) and dilutes the funnel = builder-drift. Resist vanity reach; optimize titles for founder-intent, not max clicks.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81a3-b25c-d9af8dba8960",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "14. Content strand 4 \u2014 The Operator's Take / POV (LOCKED)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "14. Content strand 4 \u2014 The Operator's Take / POV (LOCKED)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81c3-8658-c7ca0ddc0a7d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "A distinct 4th strand alongside the 3 pillars (name provisional \u2014 'The Operator's Take'). Its job is different: authority + retention, NOT discovery. It deepens trust with founders already watching, lifting conversion even when it doesn't pull new viewers. Lloyd's industry-perspective content lives here \u2014 his take on where things are going, always tailored to revenue / growth, never general AI.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "A distinct 4th strand alongside the 3 pillars (name provisional \u2014 'The Operator's Take'). Its job is different: authority + retention, NOT discovery. It deepens trust with founders already watching, lifting conversion even when it doesn't pull new viewers. Lloyd's industry-perspective content lives here \u2014 his take on where things are going, always tailored to revenue / growth, never general AI.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8153-bfbb-f3bc9a2b3b17",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Two guardrails (these keep it out of the 'AI thought leader' lane):",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Two guardrails (these keep it out of the 'AI thought leader' lane):",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-819a-82af-dfa3c4d662d8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Revenue / growth only, never general AI.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Revenue / growth only, never general AI.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-817c-9f73-c728321428b6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Provenance-grounded \u2014 every take is 'here's what I'm actually seeing running this,' not abstract prediction. Without the operator receipts it collapses into platitude content indistinguishable from the crowd.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Provenance-grounded \u2014 every take is 'here's what I'm actually seeing running this,' not abstract prediction. Without the operator receipts it collapses into platitude content indistinguishable from the crowd.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8197-a5bb-f64a5deb034d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Orient POV toward search \u2014 wrap the opinion inside a question founders actually type (the take is the payload; the searchable question is the packaging):",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Orient POV toward search \u2014 wrap the opinion inside a question founders actually type (the take is the payload; the searchable question is the packaging):",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81e6-a960-f8e3b2670596",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "'AI won't replace your reps \u2014 it changes what they do' \u2192 title: 'Will AI replace sales reps?'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "'AI won't replace your reps \u2014 it changes what they do' \u2192 title: 'Will AI replace sales reps?'",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8195-bf48-eda1aa54ff4f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "'Founders are adopting AI backwards' \u2192 title: 'The biggest mistakes founders make with AI'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "'Founders are adopting AI backwards' \u2192 title: 'The biggest mistakes founders make with AI'",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8100-ac00-e2bf3f38b7ba",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "'Are AI SDRs actually worth it?' \u2014 already searchable and opinionated.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "'Are AI SDRs actually worth it?' \u2014 already searchable and opinionated.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81d4-b0dd-d5c405619214",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:15:00.000Z",
+  "last_edited_time": "2026-07-02T13:15:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "A minority (~1 in 5) is pure perspective ('where I think revenue teams are heading') that nobody searches. Fine \u2014 it rides suggested / browse to the existing audience as a deliberate authority play, not a discovery bet. Keep it the minority.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "A minority (~1 in 5) is pure perspective ('where I think revenue teams are heading') that nobody searches. Fine \u2014 it rides suggested / browse to the existing audience as a deliberate authority play, not a discovery bet. Keep it the minority.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8133-859a-e9c3248ca81f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:21:00.000Z",
+  "last_edited_time": "2026-07-02T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "15. Channel identity \u2014 targeting LOCKED (tagline wording provisional)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "15. Channel identity \u2014 targeting LOCKED (tagline wording provisional)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8183-9bb0-ed404373bae9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:21:00.000Z",
+  "last_edited_time": "2026-07-02T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Working tagline (wording tweakable): 'Where founders and revenue leaders operationalize their revenue engine with AI \u2014 from an operator who's actually built the machines.' Through-line uniting the audience = someone responsible for a revenue number who wants to operationalize / optimize it with AI (situation, not company size).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Working tagline (wording tweakable): 'Where founders and revenue leaders operationalize their revenue engine with AI \u2014 from an operator who's actually built the machines.' Through-line uniting the audience = someone responsible for a revenue number who wants to operationalize / optimize it with AI (situation, not company size).",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8112-8984-df4abb40c1c4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:21:00.000Z",
+  "last_edited_time": "2026-07-02T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Center of gravity = the HIGH-TICKET, sophisticated, can-invest buyer (RF ICP: founder-led ~$3\u201320M operators + their revenue leaders; people already 'in the sauce'). Write TO this person, and pitch content at their sophistication level so beginners self-filter. Early-stage / beginners are explicitly NOT the target \u2014 at most they'd buy a cheap course, which is a different (worse-for-Lloyd) model he is declining; the channel is not built to help someone 'just set up their Claude Code.' Enterprise execs = credibility amplifiers + occasional referrers, not the center (the fractional-CAIRO offer fits them less). Broad audience is welcome spillover; the DESIGN target is the buyer.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Center of gravity = the HIGH-TICKET, sophisticated, can-invest buyer (RF ICP: founder-led ~$3\u201320M operators + their revenue leaders; people already 'in the sauce'). Write TO this person, and pitch content at their sophistication level so beginners self-filter. Early-stage / beginners are explicitly NOT the target \u2014 at most they'd buy a cheap course, which is a different (worse-for-Lloyd) model he is declining; the channel is not built to help someone 'just set up their Claude Code.' Enterprise execs = credibility amplifiers + occasional referrers, not the center (the fractional-CAIRO offer fits them less). Broad audience is welcome spillover; the DESIGN target is the buyer.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81f3-99a0-f02de3aa54d6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:21:00.000Z",
+  "last_edited_time": "2026-07-02T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Economic reframe (why 'small niche' is a FEATURE here): at $8\u201324k+ price points, the channel needs shockingly few of the right viewers. One booked pilot from ~2,000 precise views beats 200k tire-kicker views. A small, precise, slow-growing channel is OPTIMAL at this ticket size \u2014 not a compromise.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Economic reframe (why 'small niche' is a FEATURE here): at $8\u201324k+ price points, the channel needs shockingly few of the right viewers. One booked pilot from ~2,000 precise views beats 200k tire-kicker views. A small, precise, slow-growing channel is OPTIMAL at this ticket size \u2014 not a compromise.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8153-8ee1-ebe4aec7da2c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "16. Content Problem Map \u2014 organized by the revenue engine (grow + fix) (LOCKED)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "16. Content Problem Map \u2014 organized by the revenue engine (grow + fix) (LOCKED)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8132-87cb-e1fddda2a723",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Organizing principle: content maps to the REVENUE ENGINE, not to machines (the buyer thinks and searches in problems, not tools). Every area is content from BOTH angles \u2014 grow (demand creation, conversion improvement) and fix (leaks, gaps, blind spots). It is NOT just 'leaks.' 'Conversion leak' and 'conversion improvement' are the same topic, two framings: the negative hooks the problem-aware viewer, the positive hooks the growth-minded one \u2014 use both.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Organizing principle: content maps to the REVENUE ENGINE, not to machines (the buyer thinks and searches in problems, not tools). Every area is content from BOTH angles \u2014 grow (demand creation, conversion improvement) and fix (leaks, gaps, blind spots). It is NOT just 'leaks.' 'Conversion leak' and 'conversion improvement' are the same topic, two framings: the negative hooks the problem-aware viewer, the positive hooks the growth-minded one \u2014 use both.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81ba-9a85-e85a18722f55",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Problem taxonomy SOURCE OF TRUTH = the RF Revenue Intelligence Audit page (Engine A: Pipeline Health \u00b7 Lead & Contact Data \u00b7 Sales Velocity & Conversion \u00b7 Revenue Predictability \u00b7 Process & CRM Hygiene; Engine B: TAM \u00b7 Coverage \u00b7 Method \u00b7 Marketing & Demand-Gen \u00b7 Conversion Ability) + the Machine Library. This map does NOT re-define the problems \u2014 it references them (AUDIT REF per row) and adds the missing CONTENT layer: who / principle-altitude angle / search query / machine-as-proof. The ANGLE is the altitude guardrail \u2014 every entry is 'how I think about / the system I run,' never step-by-step setup, so topics don't go narrow or tutorial-y.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Problem taxonomy SOURCE OF TRUTH = the RF Revenue Intelligence Audit page (Engine A: Pipeline Health \u00b7 Lead & Contact Data \u00b7 Sales Velocity & Conversion \u00b7 Revenue Predictability \u00b7 Process & CRM Hygiene; Engine B: TAM \u00b7 Coverage \u00b7 Method \u00b7 Marketing & Demand-Gen \u00b7 Conversion Ability) + the Machine Library. This map does NOT re-define the problems \u2014 it references them (AUDIT REF per row) and adds the missing CONTENT layer: who / principle-altitude angle / search query / machine-as-proof. The ANGLE is the altitude guardrail \u2014 every entry is 'how I think about / the system I run,' never step-by-step setup, so topics don't go narrow or tutorial-y.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81db-bdbe-dabe991353dc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Demand (create + fix)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Demand (create + fix)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8171-ba3c-e0765ddf373a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Thin pipeline / outbound won't scale (fix) \u00b7 demand creation (grow). WHO: founder or lean SDR team. MACHINE: Automated SDR. AUDIT REF: Engine B \u2014 Coverage + Method. ANGLE: 'How I scale real personalization without hiring an army.' QUERY: 'how to scale outbound without hiring SDRs.'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Thin pipeline / outbound won't scale (fix) \u00b7 demand creation (grow). WHO: founder or lean SDR team. MACHINE: Automated SDR. AUDIT REF: Engine B \u2014 Coverage + Method. ANGLE: 'How I scale real personalization without hiring an army.' QUERY: 'how to scale outbound without hiring SDRs.'",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8139-b7bd-cb8956e6348a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Content can't keep up / blind to what's working (fix) \u00b7 faster, sharper content (grow). WHO: founder wearing the marketing hat. MACHINE: CreativeIQ. AUDIT REF: Engine B \u2014 Marketing & Demand-Gen Strategy. ANGLE: 'How I turn competitors' ads into our content.' QUERY: 'how to create marketing content faster with AI' / 'competitor ad analysis.'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Content can't keep up / blind to what's working (fix) \u00b7 faster, sharper content (grow). WHO: founder wearing the marketing hat. MACHINE: CreativeIQ. AUDIT REF: Engine B \u2014 Marketing & Demand-Gen Strategy. ANGLE: 'How I turn competitors' ads into our content.' QUERY: 'how to create marketing content faster with AI' / 'competitor ad analysis.'",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81aa-8f23-c1e1ac091ddd",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Conversion (improve + fix)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Conversion (improve + fix)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81da-837a-e253260e3643",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Reps inconsistent, deals leak, no coaching at scale (fix) \u00b7 lift close rate (grow). WHO: founder-led sales team or sales leader. MACHINE: Call Grader. AUDIT REF: Engine A \u2014 Sales Velocity & Conversion (Rep Conversion Variance) + Engine B \u2014 Conversion Ability. ANGLE: 'How I coach every rep without listening to every call.' QUERY: 'how to coach sales reps at scale' / 'AI to review sales calls.'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Reps inconsistent, deals leak, no coaching at scale (fix) \u00b7 lift close rate (grow). WHO: founder-led sales team or sales leader. MACHINE: Call Grader. AUDIT REF: Engine A \u2014 Sales Velocity & Conversion (Rep Conversion Variance) + Engine B \u2014 Conversion Ability. ANGLE: 'How I coach every rep without listening to every call.' QUERY: 'how to coach sales reps at scale' / 'AI to review sales calls.'",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81bd-8103-c7ef7b0da5ff",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Deals stall after the call, slow follow-up (fix) \u00b7 faster close (grow). WHO: founder or AE doing own follow-up. MACHINE: DealForge. AUDIT REF: Engine A \u2014 Sales Velocity & Conversion. ANGLE: 'The post-call work that actually closes \u2014 automated.' QUERY: 'how to speed up sales follow-up.'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Deals stall after the call, slow follow-up (fix) \u00b7 faster close (grow). WHO: founder or AE doing own follow-up. MACHINE: DealForge. AUDIT REF: Engine A \u2014 Sales Velocity & Conversion. ANGLE: 'The post-call work that actually closes \u2014 automated.' QUERY: 'how to speed up sales follow-up.'",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8178-8177-d3f126d7c669",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Visibility & Optimization (see + optimize)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Visibility & Optimization (see + optimize)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81f8-bf9c-e652714a8cda",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Flying blind on the pipeline / numbers (fix) \u00b7 real-time visibility (grow). WHO: founder who can't see where deals die. MACHINE: Revenue Dashboard. AUDIT REF: Engine A \u2014 Pipeline Health + Revenue Predictability. ANGLE: 'The dashboard I built \u2014 and why data quality makes or breaks it' (include the limits). QUERY: 'real-time sales pipeline dashboard' / 'revenue visibility.'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Flying blind on the pipeline / numbers (fix) \u00b7 real-time visibility (grow). WHO: founder who can't see where deals die. MACHINE: Revenue Dashboard. AUDIT REF: Engine A \u2014 Pipeline Health + Revenue Predictability. ANGLE: 'The dashboard I built \u2014 and why data quality makes or breaks it' (include the limits). QUERY: 'real-time sales pipeline dashboard' / 'revenue visibility.'",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-8131-b31e-cccc9afe22b1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Attribution: what actually drives revenue (fix) \u00b7 double down on what works (grow). WHO: founder spending across channels. MACHINE: Revenue Dashboard / attribution. AUDIT REF: Engine A \u2014 Revenue Predictability + Engine B \u2014 Marketing & Demand-Gen. ANGLE: 'How to attribute revenue without a data team.' QUERY: 'marketing attribution without a data team.'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Attribution: what actually drives revenue (fix) \u00b7 double down on what works (grow). WHO: founder spending across channels. MACHINE: Revenue Dashboard / attribution. AUDIT REF: Engine A \u2014 Revenue Predictability + Engine B \u2014 Marketing & Demand-Gen. ANGLE: 'How to attribute revenue without a data team.' QUERY: 'marketing attribution without a data team.'",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81bd-8ade-d4187871c858",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Cross-cutting (judgment / POV)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Cross-cutting (judgment / POV)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81a9-b6d7-c4bd778df4d9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Build vs buy vs automate; custom app vs n8n; where AI needs a human. WHO: the operator deciding where to invest. MACHINE: all (as examples). AUDIT REF: Engine B \u2014 Method. ANGLE: the judgment frameworks (Pillar 2 / The Operator's Take). QUERY: 'build vs buy AI' / 'custom app vs Zapier.'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Build vs buy vs automate; custom app vs n8n; where AI needs a human. WHO: the operator deciding where to invest. MACHINE: all (as examples). AUDIT REF: Engine B \u2014 Method. ANGLE: the judgment frameworks (Pillar 2 / The Operator's Take). QUERY: 'build vs buy AI' / 'custom app vs Zapier.'",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "39137653-3f91-81b4-ae74-deec86b59315",
+  "parent": {
+   "type": "page_id",
+   "page_id": "38e37653-3f91-81db-89d7-dfbd3f720ee7"
+  },
+  "created_time": "2026-07-02T13:37:00.000Z",
+  "last_edited_time": "2026-07-02T13:37:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Honesty rule still governs the proof shown per row \u2014 verify the dogfooding numbers before any of these go on camera. Grow-side framings must not imply outcomes that didn't happen.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Honesty rule still governs the proof shown per row \u2014 verify the dogfooding numbers before any of these go on camera. Grow-side framings must not imply outcomes that didn't happen.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ }
+]

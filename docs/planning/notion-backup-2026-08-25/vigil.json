@@ -1,0 +1,769 @@
+[
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81eb-abe3-cc2d1d0124df",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Vigil \u2014 Revenue Intelligence Layer",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Vigil \u2014 Revenue Intelligence Layer",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81c6-a5d7-eec7f81bc617",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Supabase key: product_rf_vigil_identity_positioning",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Supabase key: product_rf_vigil_identity_positioning",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\uddc4\ufe0f"
+   },
+   "color": "blue_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-817b-a8b0-e01089ffb998",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Vigil is not a dashboard. Not a report. Not a chatbot. It is an always-on AI revenue analyst that watches the entire revenue system, surfaces anomalies before the founder asks, and answers any question about what\u2019s happening and why \u2014 by cross-referencing the Revenue Dashboard and Call Grader simultaneously.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Vigil is not a dashboard. Not a report. Not a chatbot. It is an always-on AI revenue analyst that watches the entire revenue system, surfaces anomalies before the founder asks, and answers any question about what\u2019s happening and why \u2014 by cross-referencing the Revenue Dashboard and Call Grader simultaneously.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8117-900f-cac19b4b9b06",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Named for the Latin concept of vigil \u2014 the act of keeping careful watch through the night. A guardian who never sleeps, never looks away. Protective, ever-present intelligence.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Named for the Latin concept of vigil \u2014 the act of keeping careful watch through the night. A guardian who never sleeps, never looks away. Protective, ever-present intelligence.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd76\ufe0f"
+   },
+   "color": "gray_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81a2-aea4-d1e3b7d78bef",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why Vigil Is the Hero Product",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why Vigil Is the Hero Product",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-810b-8c3e-e3432dbf9ac2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Every founder who buys a revenue dashboard eventually stops looking at it. Dashboards require the user to come to the data. Vigil brings the data to the user. This transforms the retainer from \u201cwe maintain your system\u201d into \u201cwe have someone watching your revenue 24/7.\u201d That is a fundamentally different product category \u2014 and the emotional center of every sales conversation.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Every founder who buys a revenue dashboard eventually stops looking at it. Dashboards require the user to come to the data. Vigil brings the data to the user. This transforms the retainer from \u201cwe maintain your system\u201d into \u201cwe have someone watching your revenue 24/7.\u201d That is a fundamentally different product category \u2014 and the emotional center of every sales conversation.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-812b-b22d-c703756f871a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Three Operating Modes",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Three Operating Modes",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81f7-ba6e-cb1eb4d0a24e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "PROACTIVE DETECTION \u2014 Runs scheduled analysis across Revenue Dashboard + Call Grader. Surfaces anomalies and pushes them to the client without being asked.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "PROACTIVE DETECTION \u2014 Runs scheduled analysis across Revenue Dashboard + Call Grader. Surfaces anomalies and pushes them to the client without being asked.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8139-8c1e-edf19b15fd70",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "CONVERSATIONAL QUERY \u2014 Client asks any question in natural language: \u201cWhy is Sarah struggling?\u201d / \u201cWhere did pipeline drop last month?\u201d Vigil cross-references all data sources to answer.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "CONVERSATIONAL QUERY \u2014 Client asks any question in natural language: \u201cWhy is Sarah struggling?\u201d / \u201cWhere did pipeline drop last month?\u201d Vigil cross-references all data sources to answer.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81eb-8145-c13e997d2043",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "CROSS-APP SYNTHESIS \u2014 When a rep performance issue appears in the dashboard, Vigil goes into the Call Grader, surfaces the behavioral pattern from call data, and explains why. No human RevOps hire can replicate this at the same speed.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "CROSS-APP SYNTHESIS \u2014 When a rep performance issue appears in the dashboard, Vigil goes into the Call Grader, surfaces the behavioral pattern from call data, and explains why. No human RevOps hire can replicate this at the same speed.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81b0-bb6f-dfe4c3232a50",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "How to Introduce Vigil in Sales Conversations",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "How to Introduce Vigil in Sales Conversations",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8171-a9d8-cf60fee9be8b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\u201cRight now you either have to obsess over a dashboard yourself, or pay $120K for a VP of Revenue to obsess over it for you. Vigil does it instead \u2014 and it never sleeps, never misses a pattern, and can explain what it found in plain English.\u201d",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\u201cRight now you either have to obsess over a dashboard yourself, or pay $120K for a VP of Revenue to obsess over it for you. Vigil does it instead \u2014 and it never sleeps, never misses a pattern, and can explain what it found in plain English.\u201d",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8166-9065-c7241978e618",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "What Separates Vigil from CRM AI Features",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "What Separates Vigil from CRM AI Features",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-813f-a9f6-de5b632c2ec8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "HubSpot AI, Salesforce Einstein = reactive (you query them). Vigil = proactive (it comes to you).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "HubSpot AI, Salesforce Einstein = reactive (you query them). Vigil = proactive (it comes to you).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81a5-8365-fab2e862c301",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "CRM AI sees only CRM data. Vigil synthesizes pipeline + call intelligence + activity patterns simultaneously.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "CRM AI sees only CRM data. Vigil synthesizes pipeline + call intelligence + activity patterns simultaneously.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8153-a637-cf7d1cfdc9ae",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "CRM AI requires the right questions. Vigil surfaces findings before you know to ask.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "CRM AI requires the right questions. Vigil surfaces findings before you know to ask.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-81a2-ad87-f1e2888ca84e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33a37653-3f91-8111-8b87-d6677e6463e3"
+  },
+  "created_time": "2026-04-06T20:19:00.000Z",
+  "last_edited_time": "2026-04-06T20:19:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Architecture: Vigil lives in Lloyd\u2019s cloud infrastructure. Access ends when the retainer ends. Bloomberg Terminal model \u2014 not installed software. Everyone gets Vigil in the retainer. It is NOT a upsell.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Architecture: Vigil lives in Lloyd\u2019s cloud infrastructure. Access ends when the retainer ends. Bloomberg Terminal model \u2014 not installed software. Everyone gets Vigil in the retainer. It is NOT a upsell.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u26a0\ufe0f"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ }
+]

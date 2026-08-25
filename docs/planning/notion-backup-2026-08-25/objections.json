@@ -1,0 +1,5579 @@
+[
+ {
+  "object": "block",
+  "id": "33937653-3f91-81ea-a974-c7487d05fb7b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-04-05T22:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Objection Handling",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Objection Handling",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "e069f304-c741-4a50-8704-14d98e9eceaa",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "REFACTORED 2026-05-31 \u2014 consulting-led CAIRO model.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "REFACTORED 2026-05-31 \u2014 consulting-led CAIRO model.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " The old set was written for the Revenue-OS-product model (\"we're not consultants, we hand you a configured CRM\"). That framing is dead. RevenueForge now sells a Fractional Chief AI Revenue Officer: diagnose the revenue constraint \u2192 build the AI machine that fixes it \u2192 own the number. These scripts reflect that. Every example below names a real machine (Call Grader, Revenue Dashboard, automated SDR, DealForge, CreativeIQ) \u2014 never a generic \"system\" \u2014 because concrete beats abstract every time a buyer is deciding whether to trust you.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " The old set was written for the Revenue-OS-product model (\"we're not consultants, we hand you a configured CRM\"). That framing is dead. RevenueForge now sells a Fractional Chief AI Revenue Officer: diagnose the revenue constraint \u2192 build the AI machine that fixes it \u2192 own the number. These scripts reflect that. Every example below names a real machine (Call Grader, Revenue Dashboard, automated SDR, DealForge, CreativeIQ) \u2014 never a generic \"system\" \u2014 because concrete beats abstract every time a buyer is deciding whether to trust you.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd04"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8154-80bd-d18d8b8949d1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Thirteen objections every RevenueForge rep will face. Six carried over from the old model, one inverted, three rewritten, three net-new to the consulting model. Each entry gives the trigger, the exact script, the mechanism, and the wrong version that loses the room.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Thirteen objections every RevenueForge rep will face. Six carried over from the old model, one inverted, three rewritten, three net-new to the consulting model. Each entry gives the trigger, the exact script, the mechanism, and the wrong version that loses the room.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81b2-9311-e09f512b78cb",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-04-05T22:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-817e-a89b-dca5bee385af",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O1 \u2014 \"This sounds like consulting dressed up with technology\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O1 \u2014 \"This sounds like consulting dressed up with technology\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8103-8f7c-c73aba3f36b6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires when the prospect has been burned by advisors who delivered a deck and a Slack channel and then vanished \u2014 or when they can't yet see a concrete output and are bracing to pay for opinions.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires when the prospect has been burned by advisors who delivered a deck and a Slack channel and then vanished \u2014 or when they can't yet see a concrete output and are bracing to pay for opinions.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8128-b50a-cdb02f36dbc3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8181-bb3c-e58f525c5136",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"That's a fair read, and I'd rather meet it head-on than dodge it. Yes \u2014 this is consulting. I'm not going to pretend it's something else. The difference is where the consultant stops and where I start. A consultant hands you a recommendation and an invoice, and then it's your problem to go build it. I diagnose what's actually breaking in your revenue engine, and then my team builds the machine that fixes it \u2014 and I stay on the number it's supposed to move. Concretely: if your reps are inconsistent, I don't write you a 'sales process playbook' \u2014 we build something like the Call Grader we run on our own team, that scores every call against what good looks like and tells a rep exactly where they lost the deal. I'm not selling you advice about that. I'm selling you the thing itself, plus the judgment to know it's the right thing to build.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"That's a fair read, and I'd rather meet it head-on than dodge it. Yes \u2014 this is consulting. I'm not going to pretend it's something else. The difference is where the consultant stops and where I start. A consultant hands you a recommendation and an invoice, and then it's your problem to go build it. I diagnose what's actually breaking in your revenue engine, and then my team builds the machine that fixes it \u2014 and I stay on the number it's supposed to move. Concretely: if your reps are inconsistent, I don't write you a 'sales process playbook' \u2014 we build something like the Call Grader we run on our own team, that scores every call against what good looks like and tells a rep exactly where they lost the deal. I'm not selling you advice about that. I'm selling you the thing itself, plus the judgment to know it's the right thing to build.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8198-9d16-cf62ec37d5b6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " It stops fighting the category \u2014 denial reads as insecurity. It redirects the buyer's fear onto the one seam neither a pure consultant nor a pure dev shop can occupy: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " It stops fighting the category \u2014 denial reads as insecurity. It redirects the buyer's fear onto the one seam neither a pure consultant nor a pure dev shop can occupy: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "diagnosis plus build plus ownership of the outcome.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "diagnosis plus build plus ownership of the outcome.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Naming a real machine (Call Grader) the prospect can picture converts an abstract reassurance into a concrete one.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Naming a real machine (Call Grader) the prospect can picture converts an abstract reassurance into a concrete one.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-815c-9c90-f36f857e4fc1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"We're not consultants \u2014 we're more of a managed service.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"We're not consultants \u2014 we're more of a managed service.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Disowning consulting while running a diagnosis-led retainer makes you sound like you don't know what you are. Never deny the category you occupy; out-position inside it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Disowning consulting while running a diagnosis-led retainer makes you sound like you don't know what you are. Never deny the category you occupy; out-position inside it.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8166-8c8c-fccbf88f10cc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-04-05T22:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81d2-8603-e69d4d93e837",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O2 \u2014 \"What do I actually own at the end of this?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O2 \u2014 \"What do I actually own at the end of this?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8109-8bbc-fe626cc61787",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires when the prospect is weighing ongoing spend and wants to know what's an asset versus a rental. Usually follows the retainer conversation \u2014 the real question underneath is ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires when the prospect is weighing ongoing spend and wants to know what's an asset versus a rental. Usually follows the retainer conversation \u2014 the real question underneath is ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"if I cancel, do I lose everything?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"if I cancel, do I lose everything?\"",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81a2-9d23-f56ec1ee1f8e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81f0-958f-ccc689ba8d1a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Two different things here, and I'll be straight about both because the honest answer sells better than the slick one. The blueprint is yours, permanently \u2014 the process design, the playbooks, the documentation, the way we architected your pipeline. That lives in your accounts, and you keep it whether we work together for one quarter or ten. The living system is different. Take the Revenue Dashboard we'd stand up for you \u2014 the software your team pulls from every morning, and the agent layer underneath it that's been learning your deals, your stages, your patterns for months. That part is what the subscription keeps alive. I won't insult you by pretending there's no switching cost \u2014 there is. The longer that system runs, the more it's calibrated to exactly how ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Two different things here, and I'll be straight about both because the honest answer sells better than the slick one. The blueprint is yours, permanently \u2014 the process design, the playbooks, the documentation, the way we architected your pipeline. That lives in your accounts, and you keep it whether we work together for one quarter or ten. The living system is different. Take the Revenue Dashboard we'd stand up for you \u2014 the software your team pulls from every morning, and the agent layer underneath it that's been learning your deals, your stages, your patterns for months. That part is what the subscription keeps alive. I won't insult you by pretending there's no switching cost \u2014 there is. The longer that system runs, the more it's calibrated to exactly how ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "you",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "you",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " sell, and that calibration is genuinely hard to rebuild from scratch. But that's not a trap. That's the system getting more valuable the longer it's yours.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " sell, and that calibration is genuinely hard to rebuild from scratch. But that's not a trap. That's the system getting more valuable the longer it's yours.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81d8-8468-f87c23f1336e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Splits ownership into two honest layers instead of the old over-promise (\"you own everything, cancel anytime, nothing disappears\") \u2014 which silently demolished the firm's own switching-cost thesis. Naming the calibration as compounding ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Splits ownership into two honest layers instead of the old over-promise (\"you own everything, cancel anytime, nothing disappears\") \u2014 which silently demolished the firm's own switching-cost thesis. Naming the calibration as compounding ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "value",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "value",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " rather than hiding the lock-in turns the objection into a reason to stay.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " rather than hiding the lock-in turns the objection into a reason to stay.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8184-a0f7-ffd941457aa8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"You own everything, if you walk away tomorrow nothing disappears.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"You own everything, if you walk away tomorrow nothing disappears.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " It's not true under this model, and it tells the buyer there's zero cost to leaving \u2014 you're answering an ownership question by dismantling your own retention.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " It's not true under this model, and it tells the buyer there's zero cost to leaving \u2014 you're answering an ownership question by dismantling your own retention.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81c0-b3f3-d11142120544",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-04-05T22:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8194-b8a0-f1bd1bdadc12",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O3 \u2014 \"Why wouldn't I just hire someone internally for this?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O3 \u2014 \"Why wouldn't I just hire someone internally for this?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8137-8878-f6651da8a033",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires from financially-minded buyers comparing the retainer to a salary line. Usually means they haven't run the full-cost math, or haven't clocked that they'd need more than one hire to replicate what they're being offered.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires from financially-minded buyers comparing the retainer to a salary line. Usually means they haven't run the full-cost math, or haven't clocked that they'd need more than one hire to replicate what they're being offered.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81af-8ebe-d6920cdee423",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8181-bd6f-f01a74ac7793",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Run the real math with me. A senior revenue operator who actually understands AI systems is $150K-plus all-in once you count benefits, recruiting, and the three-to-six months before they ship anything. But here's the part that gets missed: that one hire can't be both the person who diagnoses your revenue strategy ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Run the real math with me. A senior revenue operator who actually understands AI systems is $150K-plus all-in once you count benefits, recruiting, and the three-to-six months before they ship anything. But here's the part that gets missed: that one hire can't be both the person who diagnoses your revenue strategy ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "and",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "and",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " the team that builds the systems. Nobody is both. So to get internally what this gives you, you're not hiring one person \u2014 you're hiring a senior operator and one or two builders, and you're waiting half a year for them to ramp and start working as a unit. With us you get the operator and the build team on day thirty. When your needs change, you don't post a job and pray \u2014 you make a call. You're not comparing me to a hire. You're comparing me to three.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " the team that builds the systems. Nobody is both. So to get internally what this gives you, you're not hiring one person \u2014 you're hiring a senior operator and one or two builders, and you're waiting half a year for them to ramp and start working as a unit. With us you get the operator and the build team on day thirty. When your needs change, you don't post a job and pray \u2014 you make a call. You're not comparing me to a hire. You're comparing me to three.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81b7-a0ea-edec6be56cb9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Anchors on full employment cost, not the salary fantasy, then lands the kill that's unique to this model \u2014 one person cannot be the strategist ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Anchors on full employment cost, not the salary fantasy, then lands the kill that's unique to this model \u2014 one person cannot be the strategist ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "and",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "and",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " the factory. \"Comparing me to three\" reframes the price as cheap, not expensive.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " the factory. \"Comparing me to three\" reframes the price as cheap, not expensive.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81d3-8cd8-d52690aeca99",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"We're cheaper than hiring.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"We're cheaper than hiring.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Competing on price files you as the budget option. The argument is leverage and the impossibility of one-hire replication \u2014 never cost.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Competing on price files you as the budget option. The argument is leverage and the impossibility of one-hire replication \u2014 never cost.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "98517042-1043-4cce-9de8-a4ffccbc10b7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8155-a63a-d92e428f0d3c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O4 \u2014 \"How does this actually increase my revenue?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O4 \u2014 \"How does this actually increase my revenue?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8183-9dc4-f7d9b29f058f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires from ROI-focused operators used to buying things with direct attribution. They're framing this as a lead-gen or sales-training purchase, and they want the line from spend to dollars.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires from ROI-focused operators used to buying things with direct attribution. They're framing this as a lead-gen or sales-training purchase, and they want the line from spend to dollars.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3a580adb-4b53-4584-92ec-9c5edf6a859a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81da-816d-f21b263c74d2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Honest answer \u2014 it depends where your revenue is actually leaking, and finding that is the first thing we do, before I sell you anything. There are two shapes this takes. If the problem is you're not putting enough into the top of the funnel, we build the outreach engine \u2014 automated, personalized SDR motion that fills pipeline without you hiring four reps. If the problem is you're leaking deals you already have \u2014 follow-ups that never happen, deals that go dark between call one and call two \u2014 we build something like DealForge, which generates the assets and the next-step structure that drag a stalled deal back to a close. Most companies your size are bleeding 20 to 40 percent of pipeline to leakage they can't even see. On a $2M pipeline, moving your close rate from 20 to 25 percent is $100K you already earned and were losing. But I won't tell you which machine you need until I've diagnosed the constraint. That diagnosis is the first thing you're buying \u2014 and it's the part nobody else does.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Honest answer \u2014 it depends where your revenue is actually leaking, and finding that is the first thing we do, before I sell you anything. There are two shapes this takes. If the problem is you're not putting enough into the top of the funnel, we build the outreach engine \u2014 automated, personalized SDR motion that fills pipeline without you hiring four reps. If the problem is you're leaking deals you already have \u2014 follow-ups that never happen, deals that go dark between call one and call two \u2014 we build something like DealForge, which generates the assets and the next-step structure that drag a stalled deal back to a close. Most companies your size are bleeding 20 to 40 percent of pipeline to leakage they can't even see. On a $2M pipeline, moving your close rate from 20 to 25 percent is $100K you already earned and were losing. But I won't tell you which machine you need until I've diagnosed the constraint. That diagnosis is the first thing you're buying \u2014 and it's the part nobody else does.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-811f-be44-d9f105561a71",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Leads with the diagnosis (reinforces the moat and the fixed-fee logic), branches into a top-of-funnel example (automated SDR) and a conversion example (DealForge) so lead-gen is explicitly in scope, and keeps the concrete leakage math as proof rather than as the whole frame. Kills the old script's flat contradiction with the ICP page.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Leads with the diagnosis (reinforces the moat and the fixed-fee logic), branches into a top-of-funnel example (automated SDR) and a conversion example (DealForge) so lead-gen is explicitly in scope, and keeps the concrete leakage math as proof rather than as the whole frame. Kills the old script's flat contradiction with the ICP page.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81b7-b81f-e3d45325d49c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"We don't generate leads \u2014 we just make the leads you have convert better.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"We don't generate leads \u2014 we just make the leads you have convert better.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " That sentence disqualifies deals your own ICP tells you to take. Lead-gen is in scope now; never close that door in the first answer.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " That sentence disqualifies deals your own ICP tells you to take. Lead-gen is in scope now; never close that door in the first answer.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "d27df302-c4f6-4781-842b-8737ff999b88",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-813e-8121-e557d6943f01",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O5 \u2014 \"What if my team doesn't adopt it?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O5 \u2014 \"What if my team doesn't adopt it?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81f4-b0f8-edc835f0fa55",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires from leaders who've rolled out a CRM or a tool before and watched it die in week two. They know the gap between \"we have a system\" and \"the team uses it.\" The most legitimate objection on the list.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires from leaders who've rolled out a CRM or a tool before and watched it die in week two. They know the gap between \"we have a system\" and \"the team uses it.\" The most legitimate objection on the list.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81e8-95c0-e104ec01e70b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81e9-b153-fb9233e3df2d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"This is the right thing to worry about, and I'll tell you why it's the thing ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"This is the right thing to worry about, and I'll tell you why it's the thing ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "I",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "I",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " worry about most. A system your team doesn't use isn't a weak result \u2014 it's the one way this fails completely. So adoption isn't a phase we tack on at the end; it's the whole game. Two things make it work. First, we build around how your reps actually sell, not how a template assumes they should \u2014 when Call Grader tells a rep something they already half-knew about their own calls, they trust it, and they use it. Second, we train live, in your real pipeline, on your real deals, in the first week \u2014 because that first week is exactly where rollouts die. I don't consider a build finished until it's in daily use. If it's installed but ignored, I haven't delivered, and I'll treat it that way.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " worry about most. A system your team doesn't use isn't a weak result \u2014 it's the one way this fails completely. So adoption isn't a phase we tack on at the end; it's the whole game. Two things make it work. First, we build around how your reps actually sell, not how a template assumes they should \u2014 when Call Grader tells a rep something they already half-knew about their own calls, they trust it, and they use it. Second, we train live, in your real pipeline, on your real deals, in the first week \u2014 because that first week is exactly where rollouts die. I don't consider a build finished until it's in daily use. If it's installed but ignored, I haven't delivered, and I'll treat it that way.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81b8-8ce1-f99603fa5fdc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Validates the fear, then reframes adoption from a people-problem (unsolvable) to a design-problem (solvable), and raises the stakes honestly \u2014 adoption is the single enemy of the floor-tier annuity, so the firm is structurally motivated to win it. The Call Grader example makes \"build around how they sell\" concrete.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Validates the fear, then reframes adoption from a people-problem (unsolvable) to a design-problem (solvable), and raises the stakes honestly \u2014 adoption is the single enemy of the floor-tier annuity, so the firm is structurally motivated to win it. The Call Grader example makes \"build around how they sell\" concrete.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "d2464a54-a6f8-4f5b-a679-88008f248f2f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"We provide full training and change-management support.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"We provide full training and change-management support.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Corporate category-language triggers exactly the skepticism you're trying to disarm. Say what you do in week one, not what bucket the service falls in.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Corporate category-language triggers exactly the skepticism you're trying to disarm. Say what you do in week one, not what bucket the service falls in.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8111-a319-e160887b9af0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-04-05T22:25:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81f2-84f0-e7f45b51ca74",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O6 \u2014 \"Why am I paying monthly if the build is already done?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O6 \u2014 \"Why am I paying monthly if the build is already done?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81aa-be5f-de6f95bca31d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires when the prospect mentally boxes the build as a one-time project and the retainer as a support fee they doubt they'll need. They haven't internalized that an embedded operator keeps finding work worth paying for.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires when the prospect mentally boxes the build as a one-time project and the retainer as a support fee they doubt they'll need. They haven't internalized that an embedded operator keeps finding work worth paying for.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-812d-88d7-c2aadedfa88e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-816d-a297-f4cc85ed266d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Two reasons, and only one of them is maintenance \u2014 so let me give you the real one first. After we ship the first machine, I don't disappear. I stay diagnosing. Your business changes every quarter \u2014 new products, new reps, new competitors \u2014 and that continuous read keeps surfacing the next revenue gap worth building for. You might start with the Revenue Dashboard so you can finally see your pipeline, and three months in the data makes it obvious your reps need Call Grader, and a quarter after that it's clear your top of funnel is the real constraint and we build the SDR engine. The retainer is what funds an operator who keeps finding the next $100K. The second reason is the boring one: the systems you're running daily keep running and keep learning your business \u2014 stop paying and they stop evolving with you. But you're not paying me to keep the lights on. You're paying me to keep finding money.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Two reasons, and only one of them is maintenance \u2014 so let me give you the real one first. After we ship the first machine, I don't disappear. I stay diagnosing. Your business changes every quarter \u2014 new products, new reps, new competitors \u2014 and that continuous read keeps surfacing the next revenue gap worth building for. You might start with the Revenue Dashboard so you can finally see your pipeline, and three months in the data makes it obvious your reps need Call Grader, and a quarter after that it's clear your top of funnel is the real constraint and we build the SDR engine. The retainer is what funds an operator who keeps finding the next $100K. The second reason is the boring one: the systems you're running daily keep running and keep learning your business \u2014 stop paying and they stop evolving with you. But you're not paying me to keep the lights on. You're paying me to keep finding money.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81bf-a16e-d4f845375fab",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Leads with the re-expansion / continuous-diagnosis engine (the NRR>100% logic from the pricing model) and demotes anti-degradation to a secondary point. The sequenced example (Dashboard \u2192 Call Grader \u2192 SDR) makes the \"keeps finding the next build\" claim tangible and shows the oscillation model in one breath.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Leads with the re-expansion / continuous-diagnosis engine (the NRR>100% logic from the pricing model) and demotes anti-degradation to a secondary point. The sequenced example (Dashboard \u2192 Call Grader \u2192 SDR) makes the \"keeps finding the next build\" claim tangible and shows the oscillation model in one breath.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-819d-a924-e7c0103fef6c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"The retainer covers ongoing support and optimization.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"The retainer covers ongoing support and optimization.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Vague and defensive \u2014 it sounds like insurance against rot, which is easy to cancel the first quiet month. Sell the offense (finding the next gap), not the defense.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Vague and defensive \u2014 it sounds like insurance against rot, which is easy to cancel the first quiet month. Sell the offense (finding the next gap), not the defense.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "bd02fb13-6925-4f10-a0d9-25f6ce4760ef",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81e8-89df-ec43ea05e8e6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O7 \u2014 \"Have you actually done this outside your own business?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O7 \u2014 \"Have you actually done this outside your own business?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81f8-b25d-fa22acd9ea05",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:25:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires early in the traction arc when client case studies are thin. The prospect is testing whether the method is real or whether it only ever worked in the founder's own company.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires early in the traction arc when client case studies are thin. The prospect is testing whether the method is real or whether it only ever worked in the founder's own company.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "665d91d9-e2d2-4f6c-9663-62bf9550830f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8171-85ac-e095cbf323be",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Start with this, because it's the strongest thing I can say: every machine I'd build for you, I built for my own revenue team first. The Revenue Dashboard, Call Grader, DealForge \u2014 those aren't case studies I'm hoping to earn. They're the origin of the method. I had the exact problems you have, I diagnosed them, and I built my way out, and that's where this whole approach came from \u2014 not a framework I read. Now, am I going to pretend I've got fifty client logos? No. We're building that base right now, and if you want founder-level access and pricing in exchange for letting me use your results as a case study, that's a conversation I'll happily have. I'd rather tell you exactly where we are than sell you a wall of logos that doesn't exist yet.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Start with this, because it's the strongest thing I can say: every machine I'd build for you, I built for my own revenue team first. The Revenue Dashboard, Call Grader, DealForge \u2014 those aren't case studies I'm hoping to earn. They're the origin of the method. I had the exact problems you have, I diagnosed them, and I built my way out, and that's where this whole approach came from \u2014 not a framework I read. Now, am I going to pretend I've got fifty client logos? No. We're building that base right now, and if you want founder-level access and pricing in exchange for letting me use your results as a case study, that's a conversation I'll happily have. I'd rather tell you exactly where we are than sell you a wall of logos that doesn't exist yet.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-815b-b963-c9843d102f02",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Converts thin external proof into strong internal proof via the dogfounding arc \u2014 the prospect can go look at The Machine Library and see the real systems. Radical honesty on traction outperforms vague social proof, and the early-client trade reframes the gap as an opportunity.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Converts thin external proof into strong internal proof via the dogfounding arc \u2014 the prospect can go look at The Machine Library and see the real systems. Radical honesty on traction outperforms vague social proof, and the early-client trade reframes the gap as an opportunity.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8148-84c0-f5443d62c862",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"We've worked with lots of companies like yours.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"We've worked with lots of companies like yours.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Vague social proof you can't substantiate gets seen through instantly and costs you the trust the honest answer would have built.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Vague social proof you can't substantiate gets seen through instantly and costs you the trust the honest answer would have built.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "397603eb-a750-4423-ad07-aa809b72a0ba",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-817d-95a9-e4a245426254",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O8 \u2014 \"How much work is this going to be for my team?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O8 \u2014 \"How much work is this going to be for my team?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81a5-8fd6-c17a5047a5fd",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires from operators whose teams are already stretched and have been burned by a vendor who promised \"minimal lift\" and then ate three months of an internal PM's time.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires from operators whose teams are already stretched and have been burned by a vendor who promised \"minimal lift\" and then ate three months of an internal PM's time.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-817f-9c56-f4ec593e797e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8112-9d6f-f8a28c23e7ba",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Specific numbers, because 'minimal' is what the last vendor said. In the first thirty days I need about three to four hours of your time and one to two hours from whoever owns your CRM or your data today \u2014 that's for the diagnosis, the decisions only you can make, and a final review before anything goes live. Everything else \u2014 the build, the testing, the documentation, the onboarding prep \u2014 is on us and the build team. Take CreativeIQ as an example: standing up a competitor-content engine sounds like it'd swallow your marketing person's calendar, and instead they give us a couple of hours pointing at the competitors that matter and then it runs. After launch, your team's job is to use the system, which takes less time than the manual scramble they're doing now. Built right, the daily overhead drops.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Specific numbers, because 'minimal' is what the last vendor said. In the first thirty days I need about three to four hours of your time and one to two hours from whoever owns your CRM or your data today \u2014 that's for the diagnosis, the decisions only you can make, and a final review before anything goes live. Everything else \u2014 the build, the testing, the documentation, the onboarding prep \u2014 is on us and the build team. Take CreativeIQ as an example: standing up a competitor-content engine sounds like it'd swallow your marketing person's calendar, and instead they give us a couple of hours pointing at the competitors that matter and then it runs. After launch, your team's job is to use the system, which takes less time than the manual scramble they're doing now. Built right, the daily overhead drops.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8104-acff-d085b24fcf4d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " A specific low number (3-4 hours) earns credibility where \"minimal\" destroys it. The CreativeIQ example pre-empts the specific fear that a \"build\" means a long internal project. The closing reframes usage as relief, not new burden.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " A specific low number (3-4 hours) earns credibility where \"minimal\" destroys it. The CreativeIQ example pre-empts the specific fear that a \"build\" means a long internal project. The closing reframes usage as relief, not new burden.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "944ed802-fc15-43cf-a2a7-0b27f3082c86",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"We handle everything, don't worry about it.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"We handle everything, don't worry about it.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Dismissive of a real fear, and it backfires the moment the first discovery session needs two hours of prep. Underpromise the lift; let the experience beat the expectation.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Dismissive of a real fear, and it backfires the moment the first discovery session needs two hours of prep. Underpromise the lift; let the experience beat the expectation.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8183-b511-fbf1d51676bd",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-04-05T22:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81a6-a1a6-d2fa26157e54",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O9 \u2014 \"How fast do I see value?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O9 \u2014 \"How fast do I see value?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81da-8005-dca010f69dcf",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires from ROI-driven buyers mapping the spend to a payback period, usually comparing this against other initiatives competing for the same budget. They want a concrete milestone to hold you to.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires from ROI-driven buyers mapping the spend to a payback period, usually comparing this against other initiatives competing for the same budget. They want a concrete milestone to hold you to.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81d9-b69b-e3c25d307536",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-813a-a12a-dcbb1bbcaa52",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"The three-month pilot exists precisely so you don't have to take this on faith. Here's the value curve. The first hit is the diagnosis itself \u2014 inside the first two weeks you'll see gaps in your revenue engine you genuinely couldn't see before, because nobody's ever looked at it this way. From there we ship the first machine inside the pilot window \u2014 if your constraint is rep quality, that's something like Call Grader running on live calls before the pilot's out. The compounding revenue impact \u2014 more deals closing because the machine is working \u2014 builds over the following 90 to 180 days as the team gets reps in. If you want a hard line to hold me to: if you don't have a sharper picture of where your revenue is leaking within the first two weeks than you have today, I haven't done my job.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"The three-month pilot exists precisely so you don't have to take this on faith. Here's the value curve. The first hit is the diagnosis itself \u2014 inside the first two weeks you'll see gaps in your revenue engine you genuinely couldn't see before, because nobody's ever looked at it this way. From there we ship the first machine inside the pilot window \u2014 if your constraint is rep quality, that's something like Call Grader running on live calls before the pilot's out. The compounding revenue impact \u2014 more deals closing because the machine is working \u2014 builds over the following 90 to 180 days as the team gets reps in. If you want a hard line to hold me to: if you don't have a sharper picture of where your revenue is leaking within the first two weeks than you have today, I haven't done my job.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8195-bc48-fa9d1bf475e6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Stages value across concrete checkpoints anchored to the pilot (the new commercial entry point) instead of the dead CRM/forecast milestones. The two-week diagnosis commitment is a bold, credible accountability marker that signals confidence.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Stages value across concrete checkpoints anchored to the pilot (the new commercial entry point) instead of the dead CRM/forecast milestones. The two-week diagnosis commitment is a bold, credible accountability marker that signals confidence.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81e0-a24d-cf2c44a523df",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Results vary depending on adoption and pipeline size.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Results vary depending on adoption and pipeline size.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Legal-style hedging at the exact moment the buyer needs conviction. Commit to a specific early milestone or don't take the question.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Legal-style hedging at the exact moment the buyer needs conviction. Commit to a specific early milestone or don't take the question.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "58dc48da-20ad-4703-9d83-fc135ce946db",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8195-9802-cf1b255435b1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O10 \u2014 \"Why now? We've got a lot going on.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O10 \u2014 \"Why now? We've got a lot going on.\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-817e-ac11-d21c2f77b1a2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " The most common stall. Almost never means \"never\" \u2014 it means \"give me a reason to prioritize this over the ten other things on fire.\" The job is to make the cost of delay concrete, not to push harder.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " The most common stall. Almost never means \"never\" \u2014 it means \"give me a reason to prioritize this over the ten other things on fire.\" The job is to make the cost of delay concrete, not to push harder.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "7e816fec-7147-49d4-acf4-05b34b6816ff",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8101-806f-f7e4bb7ff2a9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"That's exactly when most people tell me this \u2014 and it's exactly when the broken system is costing you the most. When you're slammed, that's when the follow-ups slip, the deals go dark, the reps freelance their process, and the leakage runs widest, because nobody's got time to mind it. The companies that wait for things to calm down usually wait eighteen months and then tell me they wish they'd started sooner. I'm not going to lean on you. I'll just ask one thing: picture your pipeline ninety days from now if nothing changes about how it's being managed today. If that picture's fine, the timing's fine. If it isn't, that's your answer.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"That's exactly when most people tell me this \u2014 and it's exactly when the broken system is costing you the most. When you're slammed, that's when the follow-ups slip, the deals go dark, the reps freelance their process, and the leakage runs widest, because nobody's got time to mind it. The companies that wait for things to calm down usually wait eighteen months and then tell me they wish they'd started sooner. I'm not going to lean on you. I'll just ask one thing: picture your pipeline ninety days from now if nothing changes about how it's being managed today. If that picture's fine, the timing's fine. If it isn't, that's your answer.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-813a-aa4b-c0a223457310",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Validates the objection instead of fighting it, which drops the defensiveness, then makes the cost of delay visceral and ends on a forward-projection question that forces the prospect to feel inaction rather than just decision-friction.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Validates the objection instead of fighting it, which drops the defensiveness, then makes the cost of delay visceral and ends on a forward-projection question that forces the prospect to feel inaction rather than just decision-friction.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81ae-88fb-e72c577c7d41",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Totally understand \u2014 let's circle back in Q2.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Totally understand \u2014 let's circle back in Q2.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Agreeing to delay without surfacing its cost is a soft close that becomes a lost deal. Never let the timing objection land unanswered.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Agreeing to delay without surfacing its cost is a soft close that becomes a lost deal. Never let the timing objection land unanswered.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "69e1d3c3-d560-4461-8925-f6b699ba3ab4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-818b-8290-f14097c94f29",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O11 \u2014 \"If it's custom builds, how do I know what this is going to cost?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O11 \u2014 \"If it's custom builds, how do I know what this is going to cost?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "88480aa0-2d13-41da-adbb-a9f31f4fc9d4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "NEW objection \u2014 created by the build-driven retainer model.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "NEW objection \u2014 created by the build-driven retainer model.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83c\udd95"
+   },
+   "color": "green_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8136-be9c-f58f1f7d6613",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires the instant a buyer hears \"custom.\" Agencies have trained him that custom equals scope creep equals an invoice that only climbs. If unhandled, the deal stalls at \"send me a quote\" and dies in procurement.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires the instant a buyer hears \"custom.\" Agencies have trained him that custom equals scope creep equals an invoice that only climbs. If unhandled, the deal stalls at \"send me a quote\" and dies in procurement.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81eb-93df-e85ccd152ba6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-812b-a1ac-c65c43d2e901",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"I get the reflex \u2014 'custom' usually means blank check. It doesn't here, and there are three reasons. One: you start on a fixed three-month pilot. Known number, capped, no surprises while we prove the thing works. Two: the retainer is a flat monthly, not billed per build \u2014 you're buying throughput, not piecework, so the month I build you two machines costs the same as the month I build one. Three, and this is the part people don't expect: most of what you'll need, we've already built. You can see it \u2014 the dashboard, Call Grader, the SDR engine, DealForge \u2014 those exist. Deploying one of those is fast and predictable. Genuinely net-new custom is the exception, and when it comes up I scope it and price it before a developer touches a keyboard. You will never get an invoice for something you didn't sign off on.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"I get the reflex \u2014 'custom' usually means blank check. It doesn't here, and there are three reasons. One: you start on a fixed three-month pilot. Known number, capped, no surprises while we prove the thing works. Two: the retainer is a flat monthly, not billed per build \u2014 you're buying throughput, not piecework, so the month I build you two machines costs the same as the month I build one. Three, and this is the part people don't expect: most of what you'll need, we've already built. You can see it \u2014 the dashboard, Call Grader, the SDR engine, DealForge \u2014 those exist. Deploying one of those is fast and predictable. Genuinely net-new custom is the exception, and when it comes up I scope it and price it before a developer touches a keyboard. You will never get an invoice for something you didn't sign off on.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "442e3cda-fb43-49a4-99f2-650a6a316540",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Names the agency-trained fear out loud, then closes all three escape routes \u2014 pilot cap, fixed retainer (not per-build), and library reuse (most needs already exist, so cost is predictable). Directly imports the Pricing and Machine Library logic.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Names the agency-trained fear out loud, then closes all three escape routes \u2014 pilot cap, fixed retainer (not per-build), and library reuse (most needs already exist, so cost is predictable). Directly imports the Pricing and Machine Library logic.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8167-9810-d8f84b2be3b8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Every engagement is different, so it's hard to say.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Every engagement is different, so it's hard to say.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " True and fatal. Vagueness on cost reads as hidden cost. If you can't make the price legible, the buyer assumes the worst.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " True and fatal. Vagueness on cost reads as hidden cost. If you can't make the price legible, the buyer assumes the worst.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "b45e55a9-f355-4286-ad72-4b219427ac33",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8173-accb-d41c8bdd8453",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O12 \u2014 \"Isn't 'AI Revenue Officer' just a buzzword?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O12 \u2014 \"Isn't 'AI Revenue Officer' just a buzzword?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "cb30998f-7acc-4c7c-aa8d-b03b0116da92",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "NEW objection \u2014 created by the CAIRO positioning.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "NEW objection \u2014 created by the CAIRO positioning.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83c\udd95"
+   },
+   "color": "green_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8161-a87d-c75d4e8862b8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires with skeptical operators who've been pitched \"AI\" by forty vendors this year. The CAIRO title \u2014 built to anchor positioning and price \u2014 becomes a liability on first contact if you don't pre-empt the cynicism.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires with skeptical operators who've been pitched \"AI\" by forty vendors this year. The CAIRO title \u2014 built to anchor positioning and price \u2014 becomes a liability on first contact if you don't pre-empt the cynicism.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81cb-b100-ecdf0698b6a3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8187-a5a5-f13b5f32725a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"Honestly? The way most people throw 'AI' around, yeah, it's a buzzword. So ignore the title for a second \u2014 I don't actually care what you call me. Here's the only test that matters: can I point at a system that's running right now and producing a number? I can. DealForge is built and running on my own pipeline, moving show-rates between call one and call two. The Revenue Dashboard is what my leadership actually pulls from every morning. I built those for my own revenue team before I ever sold a single engagement. 'AI' is just the tool \u2014 the job is your revenue number, and if I ever can't tie a build back to a number, you should fire me. The title's just shorthand for the person who owns the number ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"Honestly? The way most people throw 'AI' around, yeah, it's a buzzword. So ignore the title for a second \u2014 I don't actually care what you call me. Here's the only test that matters: can I point at a system that's running right now and producing a number? I can. DealForge is built and running on my own pipeline, moving show-rates between call one and call two. The Revenue Dashboard is what my leadership actually pulls from every morning. I built those for my own revenue team before I ever sold a single engagement. 'AI' is just the tool \u2014 the job is your revenue number, and if I ever can't tie a build back to a number, you should fire me. The title's just shorthand for the person who owns the number ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "and",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "and",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " can build the system. Most people can only do one of those.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " can build the system. Most people can only do one of those.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-814e-ab04-f782832f0701",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Agrees with the cynic first (instant disarm), then redirects from the disposable label to proof-of-running-machines (the Library + dogfounding). Mirrors the X1 positioning decision \u2014 the \"AI\" wrapper is detachable; the work isn't.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Agrees with the cynic first (instant disarm), then redirects from the disposable label to proof-of-running-machines (the Library + dogfounding). Mirrors the X1 positioning decision \u2014 the \"AI\" wrapper is detachable; the work isn't.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8117-ba96-c8f9b86318d3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"AI is transforming revenue operations and we're at the forefront.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"AI is transforming revenue operations and we're at the forefront.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Buzzword-answering-buzzword. You confirm the exact suspicion you needed to break.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Buzzword-answering-buzzword. You confirm the exact suspicion you needed to break.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81e4-9d4b-fe4a1c3d078d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-04-05T22:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8149-abc7-c450b4751797",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "O13 \u2014 \"How is this any different from an agency or a dev shop?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "O13 \u2014 \"How is this any different from an agency or a dev shop?\"",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "453e9f45-9e68-4442-b156-579cdef0c267",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "NEW objection \u2014 created by introducing the build team.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "NEW objection \u2014 created by introducing the build team.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83c\udd95"
+   },
+   "color": "green_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8103-ae75-e9fc185142c1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Fires the moment a buyer hears \"build team,\" because he's bought from agencies and dev shops and thinks he knows the category. Left undrawn, he files you under \"expensive dev shop\" and prices you down accordingly.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Fires the moment a buyer hears \"build team,\" because he's bought from agencies and dev shops and thinks he knows the category. Left undrawn, he files you under \"expensive dev shop\" and prices you down accordingly.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8113-980a-e45618e2a502",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Script:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Script:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8158-8040-f5fd3012a6ed",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "\"An agency executes a brief you write. A dev shop builds the spec you hand them. Both of them need you to already know the answer \u2014 and both get paid whether or not the thing moves your revenue. That's the whole difference. You don't bring me a spec. You bring me a revenue problem \u2014 'my close rate is stuck,' 'my reps are inconsistent,' 'my pipeline's drying up' \u2014 and I diagnose what's actually wrong before anyone builds anything. Then I architect the fix, my team ships it \u2014 that's where something like Call Grader or DealForge comes from \u2014 and I stay accountable to the number it was supposed to move. The diagnosis and the ownership of the outcome are the parts neither an agency nor a dev shop will ever touch, because they own a deliverable. I own your result.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"An agency executes a brief you write. A dev shop builds the spec you hand them. Both of them need you to already know the answer \u2014 and both get paid whether or not the thing moves your revenue. That's the whole difference. You don't bring me a spec. You bring me a revenue problem \u2014 'my close rate is stuck,' 'my reps are inconsistent,' 'my pipeline's drying up' \u2014 and I diagnose what's actually wrong before anyone builds anything. Then I architect the fix, my team ships it \u2014 that's where something like Call Grader or DealForge comes from \u2014 and I stay accountable to the number it was supposed to move. The diagnosis and the ownership of the outcome are the parts neither an agency nor a dev shop will ever touch, because they own a deliverable. I own your result.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8118-96c8-e15acc35cdf4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why it works:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why it works:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Draws the seam \u2014 diagnosis plus outcome-ownership \u2014 that both comparison categories structurally lack, which is the only thing preventing the buyer from down-pricing you into the dev-shop bucket. The machine examples keep it concrete.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Draws the seam \u2014 diagnosis plus outcome-ownership \u2014 that both comparison categories structurally lack, which is the only thing preventing the buyer from down-pricing you into the dev-shop bucket. The machine examples keep it concrete.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8130-9b6c-c2927c4e1c71",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wrong version:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wrong version:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"We're a premium agency with a strategic layer.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"We're a premium agency with a strategic layer.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " That's just \"expensive agency,\" which invites the price fight you're trying to avoid. The line is diagnosis and ownership, not polish.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " That's just \"expensive agency,\" which invites the price fight you're trying to avoid. The line is diagnosis and ownership, not polish.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-810f-97d0-ef9343ab7b1e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-04-05T22:27:00.000Z",
+  "last_edited_time": "2026-04-05T22:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "divider",
+  "divider": {},
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "9471beba-f9fc-48cc-8b62-63af35d790e4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-8168-86fc-c58f0f47c984"
+  },
+  "created_time": "2026-05-31T19:26:00.000Z",
+  "last_edited_time": "2026-05-31T19:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Superseded (logged for brain-DB deprecation):",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Superseded (logged for brain-DB deprecation):",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " the old O1\u2013O10 scripts were built on the Revenue-OS-product framing \u2014 \"configured CRM + forecast model\" as the universal deliverable, \"we're not consultants,\" and \"we don't generate leads.\" All three premises are dead under the CAIRO model. Supabase ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " the old O1\u2013O10 scripts were built on the Revenue-OS-product framing \u2014 \"configured CRM + forecast model\" as the universal deliverable, \"we're not consultants,\" and \"we don't generate leads.\" All three premises are dead under the CAIRO model. Supabase ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "sales_objection_handling_*",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": true,
+      "color": "default"
+     },
+     "plain_text": "sales_objection_handling_*",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " keys to deactivate during this debate's cleanup, replaced by this refactored 13-objection version. New canonical objection principles to be re-added via the brain-write embed pipeline, not raw SQL.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " keys to deactivate during this debate's cleanup, replaced by this refactored 13-objection version. New canonical objection principles to be re-added via the brain-write embed pipeline, not raw SQL.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\uddc4\ufe0f"
+   },
+   "color": "gray_background"
+  },
+  "archived": false
+ }
+]

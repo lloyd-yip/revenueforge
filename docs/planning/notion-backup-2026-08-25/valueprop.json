@@ -1,0 +1,3391 @@
+[
+ {
+  "object": "block",
+  "id": "33937653-3f91-81a5-b6b6-e2f13e7d772c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-04-05T22:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Value Proposition & Core Positioning",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Value Proposition & Core Positioning",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "df01462d-6681-4c0c-ad06-9602766fff93",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:21:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Supabase keys: product_prioritization_revenueforge_pricing_ladder_rationale | sales_objection_handling_consulting_dressed_with_tech | sales_objection_handling_what_do_i_own_at_the_end | sales_objection_handling_why_not_hire_revops",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Supabase keys: product_prioritization_revenueforge_pricing_ladder_rationale | sales_objection_handling_consulting_dressed_with_tech | sales_objection_handling_what_do_i_own_at_the_end | sales_objection_handling_why_not_hire_revops",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\uddc4\ufe0f"
+   },
+   "color": "blue_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "cee31e40-135e-4eaf-a2b6-ff319cd14572",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:21:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "GTM motion refactor in progress (2026-05-31).",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "GTM motion refactor in progress (2026-05-31).",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Product-led \"Revenue OS firm\" \u2192 consulting-led ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Product-led \"Revenue OS firm\" \u2192 consulting-led ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Fractional Chief AI Revenue Officer (CAIRO)",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Fractional Chief AI Revenue Officer (CAIRO)",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ". This page = Debate #1 (Positioning), LOCKED. Brand name stays ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ". This page = Debate #1 (Positioning), LOCKED. Brand name stays ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "RevenueForge",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "RevenueForge",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "; CAIRO is the disposable positioning wrapper (drop \"AI\" if it dates \u2014 brand untouched). ICP range, pricing, delivery/factory still pending their own debates \u2014 see their pages.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "; CAIRO is the disposable positioning wrapper (drop \"AI\" if it dates \u2014 brand untouched). ICP range, pricing, delivery/factory still pending their own debates \u2014 see their pages.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd04"
+   },
+   "color": "purple_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8128-ad7c-e33c124f15fc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-04-05T22:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "One-Line Position",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "One-Line Position",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8183-b3b9-dbc805c3eeba",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:44:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "RevenueForge is your ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "RevenueForge is your ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Fractional Chief AI Revenue Officer",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Fractional Chief AI Revenue Officer",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 we architect and build your company's ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 we architect and build your company's ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "entire AI revenue engine, across sales and marketing",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "entire AI revenue engine, across sales and marketing",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ", proven on the systems we built for ourselves first. Not a point solution, not a lead-gen vendor: the whole revenue architecture, installed by the operator who designed it and the team that ships it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ", proven on the systems we built for ourselves first. Not a point solution, not a lead-gen vendor: the whole revenue architecture, installed by the operator who designed it and the team that ships it.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8135-959f-f8b1d6ee1842",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:44:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Core Sell \u2014 Proof of Method, Whole Engine",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Core Sell \u2014 Proof of Method, Whole Engine",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8110-872e-c4d39efcb042",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:44:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Don't lead with a number we carried. Lead with the ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Don't lead with a number we carried. Lead with the ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "transformation we built on ourselves",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "transformation we built on ourselves",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ", end to end \u2014 because it proves the real claim: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ", end to end \u2014 because it proves the real claim: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "we build the entire revenue architecture, not one leak-fix.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "we build the entire revenue architecture, not one leak-fix.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81a1-be2b-eaf827299883",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:44:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The dogfounding arc (proof the suite works, in sequence):",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The dogfounding arc (proof the suite works, in sequence):",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8105-a3ee-d3f29ed11535",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:44:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "No pipeline visibility \u2192 built the ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "No pipeline visibility \u2192 built the ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Revenue Dashboard",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Revenue Dashboard",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "14d35475-e581-4c3f-a8ba-98254e03feca",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:44:00.000Z",
+  "last_edited_time": "2026-05-31T13:44:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Reps underperforming under a lone manager \u2192 built ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Reps underperforming under a lone manager \u2192 built ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Call Grader",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Call Grader",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (AI grades every call, coaches at scale)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (AI grades every call, coaches at scale)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "d363e641-314b-434f-baf4-603ffbcaaef9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:44:00.000Z",
+  "last_edited_time": "2026-05-31T13:44:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Low show-rate / weak second-call close \u2192 built ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Low show-rate / weak second-call close \u2192 built ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "DealForge",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "DealForge",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (systematized the two-call close)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (systematized the two-call close)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "069f2228-3fc4-41fd-b6b8-76ad4fd0d822",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:44:00.000Z",
+  "last_edited_time": "2026-05-31T13:44:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Reps too busy to follow up \u2192 built the ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Reps too busy to follow up \u2192 built the ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "AI SDR",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "AI SDR",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "4d0e2003-6c7b-4d7b-8bdd-93d1c2d21654",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:44:00.000Z",
+  "last_edited_time": "2026-05-31T13:44:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "We were our own first client. We rebuilt our revenue function on AI \u2014 visibility, rep coaching, close mechanics, follow-up \u2014 end to end, and it worked. We install that same capability inside your company: diagnose the gaps across your ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "We were our own first client. We rebuilt our revenue function on AI \u2014 visibility, rep coaching, close mechanics, follow-up \u2014 end to end, and it worked. We install that same capability inside your company: diagnose the gaps across your ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "whole",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "whole",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " revenue engine, architect the fix, and my team builds it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " revenue engine, architect the fix, and my team builds it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "34f86d80-9565-48b6-961a-9941f8a23262",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:44:00.000Z",
+  "last_edited_time": "2026-05-31T13:44:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Most scaling B2B companies know they ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Most scaling B2B companies know they ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "should",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "should",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " be AI-forward across the entire revenue function \u2014 outreach, content, pipeline visibility, rep coaching, digital footprint \u2014 but don't know which gaps matter or how to close them. RevenueForge is the operator who diagnoses the whole engine and the team that builds the systems to fix it. Lead gen is one item on that menu, never the headline.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " be AI-forward across the entire revenue function \u2014 outreach, content, pipeline visibility, rep coaching, digital footprint \u2014 but don't know which gaps matter or how to close them. RevenueForge is the operator who diagnoses the whole engine and the team that builds the systems to fix it. Lead gen is one item on that menu, never the headline.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81b9-8938-e65c42df9dca",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "What Makes This Different \u2014 The Seam",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "What Makes This Different \u2014 The Seam",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-814e-bcf9-f52ce8b7975a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The differentiation isn't the title. It's the rare combination on one engagement:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The differentiation isn't the title. It's the rare combination on one engagement:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8130-a9ca-c8cc43017765",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Not",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Not",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " a non-technical CRO who advises and leaves",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " a non-technical CRO who advises and leaves",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81f4-927a-ee2330faf1a1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Not",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Not",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " a generalist \"Chief AI Officer\" who has never carried a number",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " a generalist \"Chief AI Officer\" who has never carried a number",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81c1-a665-cd19aae06be1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Not",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Not",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " a dev shop that builds what you spec but can't tell you what to build",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " a dev shop that builds what you spec but can't tell you what to build",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33a37653-3f91-8107-97ca-f98f68e6ba12",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-06T15:38:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "RevenueForge is an operator who carried the revenue number ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "RevenueForge is an operator who carried the revenue number ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "AND",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "AND",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " a team that ships. The moat is the ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " a team that ships. The moat is the ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "seam between diagnosis and delivery",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "seam between diagnosis and delivery",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 we find the gap and we close it, in the same engagement.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 we find the gap and we close it, in the same engagement.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81d0-8661-c5466e846397",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Who You're Actually Buying",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Who You're Actually Buying",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81f8-a777-d2199428794d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "You are not buying Lloyd's hours. You are buying a system:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "You are not buying Lloyd's hours. You are buying a system:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8191-8bf2-e147c9635193",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Lloyd",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Lloyd",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 diagnosis, revenue architecture, and strategy (the core IP)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 diagnosis, revenue architecture, and strategy (the core IP)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8105-88c6-f978ed0fca92",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The dev team (Geri, Nico)",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The dev team (Geri, Nico)",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 delivery and buildout",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 delivery and buildout",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-818d-b493-c043d2390e8c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The factory",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The factory",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 turns repeated builds ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 turns repeated builds ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "and the diagnosis itself",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "and the diagnosis itself",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " into faster, cheaper, repeatable assets over time",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " into faster, cheaper, repeatable assets over time",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8117-88a6-ee16a3cb2fdd",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Two-Tier Promise",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Two-Tier Promise",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81a2-b9b5-c06bd5a0aaea",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Now:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Now:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " buy the operator \u2014 a Fractional Chief AI Revenue Officer running your revenue-AI function",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " buy the operator \u2014 a Fractional Chief AI Revenue Officer running your revenue-AI function",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-811a-837a-eb42c6237e3a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Later:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Later:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " grow into the installed system \u2014 persistent revenue infrastructure that stays and compounds after the engagement",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " grow into the installed system \u2014 persistent revenue infrastructure that stays and compounds after the engagement",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8144-a459-c023c71e34dd",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Diagnosis Is the Product",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Diagnosis Is the Product",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8194-9522-e9bfb2372415",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The engagement opens with a ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The engagement opens with a ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "standardized 5\u20137 part audit",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "standardized 5\u20137 part audit",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " of the revenue/sales structure \u2014 the gaps that recur across clients (manual business development / outreach, manual content, missing marketing & sales metrics, weak sales-rep feedback loops, weak digital footprint / AEO / SEO). Most gaps map to solutions we already know how to build.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " of the revenue/sales structure \u2014 the gaps that recur across clients (manual business development / outreach, manual content, missing marketing & sales metrics, weak sales-rep feedback loops, weak digital footprint / AEO / SEO). Most gaps map to solutions we already know how to build.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-815e-908f-f79c98d0bf48",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "This audit is the core IP. It is ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "This audit is the core IP. It is ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "standardized",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "standardized",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (every engagement starts from a known checklist, not a blank page) but ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (every engagement starts from a known checklist, not a blank page) but ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "run personally by Lloyd, not delegated",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "run personally by Lloyd, not delegated",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " out the gate. Standardizing the audit is how the diagnosis scales without losing its edge \u2014 see the Revenue Intelligence Audit page (Debate #7) for the full framework.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " out the gate. Standardizing the audit is how the diagnosis scales without losing its edge \u2014 see the Revenue Intelligence Audit page (Debate #7) for the full framework.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8156-ac34-e52916c12d06",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-06-29T22:50:00.000Z",
+  "last_edited_time": "2026-06-29T22:50:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "How Clients Enter \u2014 Use-Case First, Then the Operator Relationship",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "How Clients Enter \u2014 Use-Case First, Then the Operator Relationship",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8149-b566-c71a8eb33bed",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-06-29T22:50:00.000Z",
+  "last_edited_time": "2026-06-29T22:50:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Most clients don't enter by buying \"a Fractional CAIRO\" in the abstract. They enter through one specific machine they already saw work \u2014 Call Grader, DealForge, or the Revenue Dashboard \u2014 in our content, a demo, or a webinar. That recognized use case is the hook; deploying it is the fast, high-margin first win.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Most clients don't enter by buying \"a Fractional CAIRO\" in the abstract. They enter through one specific machine they already saw work \u2014 Call Grader, DealForge, or the Revenue Dashboard \u2014 in our content, a demo, or a webinar. That recognized use case is the hook; deploying it is the fast, high-margin first win.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81f5-a9be-db76bb5a769f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-06-29T22:50:00.000Z",
+  "last_edited_time": "2026-06-29T22:50:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The hook: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The hook: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "a specific machine the prospect already connected with \u2014 not an abstract retainer.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "a specific machine the prospect already connected with \u2014 not an abstract retainer.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-813b-8cbe-c3f4927598e6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-06-29T22:50:00.000Z",
+  "last_edited_time": "2026-06-29T22:50:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The quick win: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The quick win: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "deploy that one machine from the library \u2014 fast, high-margin, proves the method.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "deploy that one machine from the library \u2014 fast, high-margin, proves the method.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-810e-b436-f64d58557a97",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-06-29T22:50:00.000Z",
+  "last_edited_time": "2026-06-29T22:50:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The converter: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The converter: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "the free pre-sale Revenue Intelligence Audit surfaces 2\u20133 additional revenue gaps beyond the one they came for \u2014 so machine #2 is identified before machine #1 ships.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "the free pre-sale Revenue Intelligence Audit surfaces 2\u20133 additional revenue gaps beyond the one they came for \u2014 so machine #2 is identified before machine #1 ships.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81ea-99f4-eb809e348327",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-06-29T22:50:00.000Z",
+  "last_edited_time": "2026-06-29T22:50:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The relationship: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The relationship: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "one-machine buyer \u2192 embedded operator. The continuous-diagnosis pulse keeps surfacing the next build \u2014 this protects the annuity and kills the \"buy one machine and leave\" churn.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "one-machine buyer \u2192 embedded operator. The continuous-diagnosis pulse keeps surfacing the next build \u2014 this protects the annuity and kills the \"buy one machine and leave\" churn.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-817a-b6b9-e85205a59fad",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Moat",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Moat",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "e729ee40-6809-49eb-88d1-424b8d35e970",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:21:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "A cross-client ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "A cross-client ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "revenue-gap \u2192 AI-fix \u2192 dollar-result library.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "revenue-gap \u2192 AI-fix \u2192 dollar-result library.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Every engagement sharpens the diagnosis and makes the next build faster. Compounding advantage = operator credibility + the fix-efficacy library + the factory.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Every engagement sharpens the diagnosis and makes the next build faster. Compounding advantage = operator credibility + the fix-efficacy library + the factory.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8175-aaa4-d22cba0f69c4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Positioning vs Consulting \u2014 Inverted",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Positioning vs Consulting \u2014 Inverted",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "075e025f-b0d9-4c5f-91b6-59429fe720ec",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:21:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The old brain said \"never present this as consulting.\" ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The old brain said \"never present this as consulting.\" ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "That is reversed.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "That is reversed.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " This IS a fractional operator engagement \u2014 lead with it. The load-bearing distinction is no longer consulting-vs-managed-service; it is that the deliverable is a ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " This IS a fractional operator engagement \u2014 lead with it. The load-bearing distinction is no longer consulting-vs-managed-service; it is that the deliverable is a ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "working system, not a deck.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "working system, not a deck.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Consulting that ships.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Consulting that ships.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u26a0\ufe0f"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8171-8841-cf69f694586f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Founder Credential \u2014 Now the Lead, Not the Footer",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Founder Credential \u2014 Now the Lead, Not the Footer",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81c6-aebe-d31d0ba45f0f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "RevenueForge is built by an operator who has been ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "RevenueForge is built by an operator who has been ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "inside",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "inside",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " scaling B2B companies under real quota pressure, real board scrutiny, and real team-adoption friction \u2014 not a consultant who studied them. That operator credibility is the ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " scaling B2B companies under real quota pressure, real board scrutiny, and real team-adoption friction \u2014 not a consultant who studied them. That operator credibility is the ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "opening line",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "opening line",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ", not the closing credential.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ", not the closing credential.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81b0-a97f-e1078cb370bf",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Verbatim Messaging Lines (survive the refactor)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Verbatim Messaging Lines (survive the refactor)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8141-8804-db76bd19b5be",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Most consultants hand you a strategy document. We hand you a working system.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Most consultants hand you a strategy document. We hand you a working system.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81da-b164-d751c0efbbba",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-06-29T22:38:00.000Z",
+  "last_edited_time": "2026-06-29T22:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "We diagnose the gaps. We build the system. We maintain it. You run the business.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "We diagnose the gaps. We build the system. We maintain it. You run the business.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81b1-b357-f21627464f04",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "You don't have a sales problem. You have a revenue infrastructure problem.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "You don't have a sales problem. You have a revenue infrastructure problem.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-8195-a7c8-f276e2cc6635",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-06-29T22:38:00.000Z",
+  "last_edited_time": "2026-06-29T22:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Your CRM is not your revenue engine. It's one component of it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Your CRM is not your revenue engine. It's one component of it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81b1-8a23-d3c2934b63fe",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pending in Other Debates (do not finalize here)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pending in Other Debates (do not finalize here)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "38e37653-3f91-81a7-b072-d1aefea29e97",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-06-29T22:38:00.000Z",
+  "last_edited_time": "2026-06-29T22:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "ICP revenue range",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "ICP revenue range",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 RESOLVED on the ICP page (Debate #2): $5\u201320M core, $3M hard floor, $25M soft ceiling. Situation-first, not size-first. (Old $5\u201350M / $2\u201320M ranges are dead.)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 RESOLVED on the ICP page (Debate #2): $5\u201320M core, $3M hard floor, $25M soft ceiling. Situation-first, not size-first. (Old $5\u201350M / $2\u201320M ranges are dead.)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8107-b87c-fa8d3dd13b19",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pricing",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pricing",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (build-driven retainer + maintenance floor, the build-pause cliff) \u2014 Pricing page (Debate #3).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (build-driven retainer + maintenance floor, the build-pause cliff) \u2014 Pricing page (Debate #3).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "4484cec2-7e31-4f44-ada2-828c75f5de4e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:21:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Delivery sequence + the factory + Rule of 3",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Delivery sequence + the factory + Rule of 3",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 Delivery Model page (Debate #4).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 Delivery Model page (Debate #4).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "e5358911-c2a5-4b4d-a07f-31d7236f6d20",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-819d-b45d-fc966bdf5a4e"
+  },
+  "created_time": "2026-05-31T13:21:00.000Z",
+  "last_edited_time": "2026-05-31T13:21:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Vigil / persistent agent layer",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Vigil / persistent agent layer",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " repositioning \u2014 Vigil page (Debate #9).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " repositioning \u2014 Vigil page (Debate #9).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ }
+]

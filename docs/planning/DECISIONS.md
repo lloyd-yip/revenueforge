@@ -301,3 +301,33 @@ Recorded because they are the parts most likely to be re-litigated.
 2. At month six, are the first three clients still using it, and can they say why they pay? —
    proves retention has a mechanism.
 3. Does build #5 take materially fewer hours than build #1? — proves the repeatability thesis.
+
+---
+
+## 15. Audit price ruling — $897 (Lloyd, 2026-08-25)
+
+**The Revenue Audit is $897, not $497.** Two locked sources had disagreed: the Notion brain said
+$497 in both audit pages, while `docs/webinar/webinar-reference.md` said $897 laddering toward
+~$1,000. Since the audit is the webinar's single CTA, the contradiction sat in the place it mattered
+most. Lloyd ruled $897; `webinar-reference.md` was the correct source all along.
+
+**Applied to:**
+- Notion *The Revenue Audit — Strategy, Offer & Funnel* (`3bb37653-3f91-81aa-95ab-d635b5c40d5c`) — 16 mentions.
+- Notion *Revenue Intelligence Audit*, the superseded page (`33a37653-3f91-8129-819e-d0d88d8990c1`) — 9 mentions.
+- Notion *Pricing* (`37137653-3f91-8184-857b-c5c18a65d046`) — a new **Tier 00 — The Revenue Audit
+  (the paid front door)** section added above Tier 0, carrying price, the 100%-credit-toward-build
+  term, the ~2hr format, the deliverable, the guarantee and the self-liquidating logic. The stale
+  line *"This is the front door. No standalone audit SKU, no cheap trial"* was corrected — it
+  described the old product-led model and directly contradicted the current one. Section heading
+  renamed "The Three Tiers" → "The Tiers".
+
+This closes roadmap item **`3-pricing`**, which `brain-refactor-roadmap.json` still lists as PENDING.
+
+**Do not treat `brain-refactor-roadmap.json` as current on price.** It is a frozen historical debate
+log (marked read-only on disk) and still contains 13 `$497` references. They are preserved as the
+record of what was decided in August 2026 — they are not the live number, and nothing should be
+built or written from them.
+
+**Still unreconciled:** the guarantee wording. The superseded audit page says *"+10% close rate or
+lead volume"*; `webinar-reference.md` says *"~+5–10% close rate together with +10–50% lead volume"*.
+Different promises, both currently live. Needs a ruling before either goes on a slide.

@@ -1,0 +1,2936 @@
+[
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8164-9432-fd354b92dbb9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "This page defines WHY the Revenue Audit exists, how it makes money, what the client receives, and how the webinar funnels into it. Its sibling page \u2014 'The Revenue Audit \u2014 How We Run It' \u2014 covers the discovery method and the 8-stage question bank. Last updated 2026-08-13.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "This page defines WHY the Revenue Audit exists, how it makes money, what the client receives, and how the webinar funnels into it. Its sibling page \u2014 'The Revenue Audit \u2014 How We Run It' \u2014 covers the discovery method and the 8-stage question bank. Last updated 2026-08-13.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83e\udded"
+   },
+   "color": "gray_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8123-b021-e5a3056de231",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "What The Audit Is",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "What The Audit Is",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-814e-8569-e970a9e93cb0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Revenue Audit is the paid front door to RevenueForge. It is a paid, roughly two-hour experience \u2014 about one hour of live discovery, then a separate ~one-hour session to present the findings \u2014 in which we diagnose a company's entire revenue engine and hand them a prioritized roadmap of exactly what to fix, what to automate, and what to build. It plays the same structural role a pricing page plays in a normal funnel: it is the thing a prospect commits to first, before any build relationship exists.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Revenue Audit is the paid front door to RevenueForge. It is a paid, roughly two-hour experience \u2014 about one hour of live discovery, then a separate ~one-hour session to present the findings \u2014 in which we diagnose a company's entire revenue engine and hand them a prioritized roadmap of exactly what to fix, what to automate, and what to build. It plays the same structural role a pricing page plays in a normal funnel: it is the thing a prospect commits to first, before any build relationship exists.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81c9-bf3e-c0a3d68e6c21",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Critically, the audit is not designed to be a profit center. Its job is to filter for serious buyers and to pay back the advertising cost that acquired them. The real money is the high-ticket recurring revenue that follows when we build their machines; the real moat is dependency \u2014 once those machines are running their revenue engine day to day, leaving us means breaking their business.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Critically, the audit is not designed to be a profit center. Its job is to filter for serious buyers and to pay back the advertising cost that acquired them. The real money is the high-ticket recurring revenue that follows when we build their machines; the real moat is dependency \u2014 once those machines are running their revenue engine day to day, leaving us means breaking their business.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81ec-a6a8-daff6789b159",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why a Paid Audit Beats a Free Sales Call",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why a Paid Audit Beats a Free Sales Call",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8189-9bbc-cbb90458bdb4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The default move every agency makes is to offer a free discovery call: zero money upfront, get as many people on the phone as possible, then pitch. We deliberately do the opposite. Here is the complete reasoning, because the paid audit is not a small tweak \u2014 it changes the economics, the psychology, and the power dynamic of the entire business. There are eight distinct reasons.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The default move every agency makes is to offer a free discovery call: zero money upfront, get as many people on the phone as possible, then pitch. We deliberately do the opposite. Here is the complete reasoning, because the paid audit is not a small tweak \u2014 it changes the economics, the psychology, and the power dynamic of the entire business. There are eight distinct reasons.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8101-a6ff-cd7ded37bfc6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "1. It filters for real buyers before you spend a minute",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "1. It filters for real buyers before you spend a minute",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81a6-a121-ea9ce65fb967",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "A free call attracts everyone \u2014 the broke, the merely curious, the tire-kickers who will never buy. Every free call is a coin-flip on whether the person across from you even has budget or intent. A $497 gate quietly removes almost all of them. The people who pay are, by definition, people with money and genuine intent to solve the problem. In plain terms: with a free call you're hoping to turn someone into a customer; with a paid audit they've already become a paying customer before the real conversation even starts. The person who has paid you $497 is a fundamentally different human than the person who booked a free Calendly link.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "A free call attracts everyone \u2014 the broke, the merely curious, the tire-kickers who will never buy. Every free call is a coin-flip on whether the person across from you even has budget or intent. A $497 gate quietly removes almost all of them. The people who pay are, by definition, people with money and genuine intent to solve the problem. In plain terms: with a free call you're hoping to turn someone into a customer; with a paid audit they've already become a paying customer before the real conversation even starts. The person who has paid you $497 is a fundamentally different human than the person who booked a free Calendly link.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81b2-8ae4-e36bf030843a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "2. It makes customer acquisition pay for itself",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "2. It makes customer acquisition pay for itself",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8166-a334-e1142f61340c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "This is the economic core. With a free-call model, 100% of your advertising spend is a sunk cost you have to earn back entirely from closed deals \u2014 so the whole funnel only works if enough free calls convert, and until they do, you're bleeding cash. With a paid audit, the $497 pays back the ad spend that acquired that lead. Acquisition becomes roughly free. And that has a compounding consequence most people miss: because your leads pay for themselves, you can afford to spend more on ads than any competitor relying on free calls \u2014 you can outbid them for the same eyeballs and scale acquisition aggressively without the cash-flow bleed. The paid audit doesn't just filter leads; it de-risks and fuels the entire growth engine. This is what a self-liquidating offer actually means in practice.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "This is the economic core. With a free-call model, 100% of your advertising spend is a sunk cost you have to earn back entirely from closed deals \u2014 so the whole funnel only works if enough free calls convert, and until they do, you're bleeding cash. With a paid audit, the $497 pays back the ad spend that acquired that lead. Acquisition becomes roughly free. And that has a compounding consequence most people miss: because your leads pay for themselves, you can afford to spend more on ads than any competitor relying on free calls \u2014 you can outbid them for the same eyeballs and scale acquisition aggressively without the cash-flow bleed. The paid audit doesn't just filter leads; it de-risks and fuels the entire growth engine. This is what a self-liquidating offer actually means in practice.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8188-83b2-e7952d2003b8",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "3. It creates the first yes that makes the big yes easy",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "3. It creates the first yes that makes the big yes easy",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81cb-90ae-d4950023147e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Human behavior runs on consistency \u2014 once someone takes a small committed step, they are dramatically more likely to take the next, larger one. Paying $497 is that first step. It's a real commitment, not a free click, and it primes them to say yes to the build. A free call carries no commitment whatsoever: the prospect owes you nothing, invested nothing, and ghosts without a second thought. The paid audit converts a stranger into someone who has already chosen to invest in fixing this \u2014 and momentum is on your side from that point forward.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Human behavior runs on consistency \u2014 once someone takes a small committed step, they are dramatically more likely to take the next, larger one. Paying $497 is that first step. It's a real commitment, not a free click, and it primes them to say yes to the build. A free call carries no commitment whatsoever: the prospect owes you nothing, invested nothing, and ghosts without a second thought. The paid audit converts a stranger into someone who has already chosen to invest in fixing this \u2014 and momentum is on your side from that point forward.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-814a-9da5-fe71274d0460",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "4. It inverts the power dynamic \u2014 you stop being the one selling",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "4. It inverts the power dynamic \u2014 you stop being the one selling",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81e1-8560-d0c2dd4f6f1f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "On a free sales call, you are the seller who wants something. The prospect leans back, arms crossed, 'impress me.' You're chasing; they're judging. A paid audit flips this completely: they hired you. You are the expert they are paying for a diagnosis. You walk in with the authority of a consultant, not the posture of a vendor pitching for scraps. For a high-ticket professional-services buyer \u2014 exactly our ICP \u2014 that frame is everything. People at that level want to hire an operator who knows more than they do; they do not want to be sold to. The paid audit puts you in the right chair from minute one.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "On a free sales call, you are the seller who wants something. The prospect leans back, arms crossed, 'impress me.' You're chasing; they're judging. A paid audit flips this completely: they hired you. You are the expert they are paying for a diagnosis. You walk in with the authority of a consultant, not the posture of a vendor pitching for scraps. For a high-ticket professional-services buyer \u2014 exactly our ICP \u2014 that frame is everything. People at that level want to hire an operator who knows more than they do; they do not want to be sold to. The paid audit puts you in the right chair from minute one.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8135-91ae-c9c5bf35dad6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "5. The deliverable sells the build \u2014 you never have to pitch",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "5. The deliverable sells the build \u2014 you never have to pitch",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81a2-a0a5-c03657250ab7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "On a free call you must persuade: pitch the offer, handle objections, push for the close. In the paid audit you simply deliver a genuine diagnosis and roadmap, and the gap between what they could have and what they currently have does the selling for you. It is consultative, not salesy \u2014 and consultative is the only register that converts a sophisticated buyer. They arrive at 'I need to hire these people' on their own, which is a far stronger place for them to land than being talked into it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "On a free call you must persuade: pitch the offer, handle objections, push for the close. In the paid audit you simply deliver a genuine diagnosis and roadmap, and the gap between what they could have and what they currently have does the selling for you. It is consultative, not salesy \u2014 and consultative is the only register that converts a sophisticated buyer. They arrive at 'I need to hire these people' on their own, which is a far stronger place for them to land than being talked into it.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-812c-94bf-d748f8eed2e0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "6. You sell with their real data instead of selling blind",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "6. You sell with their real data instead of selling blind",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81fa-86b5-f04ee8e5570d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "A free sales call is you guessing at their problems and pitching a generic offer. The paid audit \u2014 especially the automated CRM scan \u2014 means you walk into the conversation already knowing their actual numbers and their real bottlenecks, quantified. You're not presenting a generic pitch; you're presenting a bespoke, evidence-backed roadmap built on their data. That difference alone multiplies the close rate, because it's impossible to argue with a diagnosis of your own numbers.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "A free sales call is you guessing at their problems and pitching a generic offer. The paid audit \u2014 especially the automated CRM scan \u2014 means you walk into the conversation already knowing their actual numbers and their real bottlenecks, quantified. You're not presenting a generic pitch; you're presenting a bespoke, evidence-backed roadmap built on their data. That difference alone multiplies the close rate, because it's impossible to argue with a diagnosis of your own numbers.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8123-845c-e4faed4d0d8f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "7. It shrinks your calendar to only the people worth your time",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "7. It shrinks your calendar to only the people worth your time",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8109-be3a-fe9a62478975",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Your time is the real bottleneck of this business. A free funnel forces you to sit through dozens of unqualified calls to find one real buyer. The paid gate means you only ever sit down with people worth sitting down with \u2014 fewer total conversations, each one higher quality. This matters precisely because you are busy: the constraint on how many clients you can win is your own hours, and the paid audit protects those hours by never spending them on someone who was never going to buy.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Your time is the real bottleneck of this business. A free funnel forces you to sit through dozens of unqualified calls to find one real buyer. The paid gate means you only ever sit down with people worth sitting down with \u2014 fewer total conversations, each one higher quality. This matters precisely because you are busy: the constraint on how many clients you can win is your own hours, and the paid audit protects those hours by never spending them on someone who was never going to buy.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8112-afab-f72fe80fd55c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "8. The prospect actually engages in discovery instead of rushing you to the demo",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "8. The prospect actually engages in discovery instead of rushing you to the demo",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81a2-a53a-d821cd1faaf0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "This one is subtle and powerful. Because they paid to be diagnosed, the prospect treats the discovery as the thing they bought \u2014 they lean in and hand you far more information than they otherwise would. On a free sales call the prospect is impatient and guarded: they rush you toward the demo, they hold their cards, they want you to 'just show them the thing.' Paid flips their behavior entirely \u2014 the discovery is the product they purchased, so they open up, answer deeply, and give you dramatically richer material to build the roadmap (and the build) from. You extract more truth in a paid hour than in five free ones.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "This one is subtle and powerful. Because they paid to be diagnosed, the prospect treats the discovery as the thing they bought \u2014 they lean in and hand you far more information than they otherwise would. On a free sales call the prospect is impatient and guarded: they rush you toward the demo, they hold their cards, they want you to 'just show them the thing.' Paid flips their behavior entirely \u2014 the discovery is the product they purchased, so they open up, answer deeply, and give you dramatically richer material to build the roadmap (and the build) from. You extract more truth in a paid hour than in five free ones.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-812d-bbb7-c2c1b6eb5a52",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:26:00.000Z",
+  "last_edited_time": "2026-08-13T03:26:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The honest tradeoff: fewer people will book a paid audit than a free call. That's true \u2014 but the volume you lose is precisely the unqualified volume you never wanted, and losing it is a feature, not a cost. It is also exactly why the webinar and content engine sit in front of the audit: their job is to fill the top of the funnel with warm, pre-sold prospects who are happy to pay $497 to work with you. The free content earns the attention; the paid audit converts that attention into a committed, qualified, self-financing pipeline.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The honest tradeoff: fewer people will book a paid audit than a free call. That's true \u2014 but the volume you lose is precisely the unqualified volume you never wanted, and losing it is a feature, not a cost. It is also exactly why the webinar and content engine sit in front of the audit: their job is to fill the top of the funnel with warm, pre-sold prospects who are happy to pay $497 to work with you. The free content earns the attention; the paid audit converts that attention into a committed, qualified, self-financing pipeline.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u2696\ufe0f"
+   },
+   "color": "gray_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81eb-8033-ce04f6a04dc4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Economics \u2014 A Self-Liquidating Offer",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Economics \u2014 A Self-Liquidating Offer",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81fd-ba43-f353751f0d2f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "A self-liquidating offer is one whose job is to pay for the cost of acquiring the customer, so that acquisition nets out to roughly zero. The $497 audit is exactly this. It is not where we make our margin \u2014 it is the mechanism that lets us run paid traffic and content aggressively without bleeding cash, because each lead who buys an audit has just reimbursed the ad spend that produced them. Once acquisition pays for itself, the entire business changes shape: we can outspend competitors on traffic, we can scale the top of the funnel without a cash-flow ceiling, and every dollar of real profit comes downstream from the high-ticket build retainer and the recurring platform floor. The audit is the on-ramp; the recurring revenue is the highway.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "A self-liquidating offer is one whose job is to pay for the cost of acquiring the customer, so that acquisition nets out to roughly zero. The $497 audit is exactly this. It is not where we make our margin \u2014 it is the mechanism that lets us run paid traffic and content aggressively without bleeding cash, because each lead who buys an audit has just reimbursed the ad spend that produced them. Once acquisition pays for itself, the entire business changes shape: we can outspend competitors on traffic, we can scale the top of the funnel without a cash-flow ceiling, and every dollar of real profit comes downstream from the high-ticket build retainer and the recurring platform floor. The audit is the on-ramp; the recurring revenue is the highway.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8183-945f-fa7a04d62ea0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pricing",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pricing",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81a9-b414-f510502bcfcc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The audit is priced at $497 to start. As lead quality and positioning strengthen, the price can ladder upward toward ~$1,000 \u2014 a higher price filters harder and raises perceived value, and by then the demand and proof will support it. The number is deliberately in the range that is trivial for a real $5M+ business to approve on the spot, yet high enough that nobody unserious bothers.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The audit is priced at $497 to start. As lead quality and positioning strengthen, the price can ladder upward toward ~$1,000 \u2014 a higher price filters harder and raises perceived value, and by then the demand and proof will support it. The number is deliberately in the range that is trivial for a real $5M+ business to approve on the spot, yet high enough that nobody unserious bothers.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81da-80e2-f6c7fe64e690",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The $497 CREDITS toward the build if they proceed. It is applied against their first month or setup fee, which removes any 'wasted money' objection and reframes the audit as step one of the engagement rather than a separate purchase.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The $497 CREDITS toward the build if they proceed. It is applied against their first month or setup fee, which removes any 'wasted money' objection and reframes the audit as step one of the engagement rather than a separate purchase.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81b1-a938-e2f55447dfdd",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The audit is the entry rung of the full pricing ladder. The tiers above it \u2014 Pilot, Build, and the recurring Platform/Floor tier \u2014 live on the dedicated Pricing page. The audit ($497) sits below the Pilot as the paid front door that feeds it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The audit is the entry rung of the full pricing ladder. The tiers above it \u2014 Pilot, Build, and the recurring Platform/Floor tier \u2014 live on the dedicated Pricing page. The audit ($497) sits below the Pilot as the paid front door that feeds it.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd17"
+   },
+   "color": "blue_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8125-8b76-faffe4f557f3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Guarantee (state this explicitly, every time)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Guarantee (state this explicitly, every time)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8178-b7ef-e4760a0ff06e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Our promise: if, through the audit, we cannot identify at least 10 hours per week of executive time we can give you back, OR a credible path to a revenue unlock \u2014 on the order of a 5\u201310% improvement in close rate together with a 10\u201350% increase in total lead volume \u2014 and if we don't genuinely believe we can achieve that for you, we refund the $497 in full. No hard feelings. The audit will have been useful either way.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Our promise: if, through the audit, we cannot identify at least 10 hours per week of executive time we can give you back, OR a credible path to a revenue unlock \u2014 on the order of a 5\u201310% improvement in close rate together with a 10\u201350% increase in total lead volume \u2014 and if we don't genuinely believe we can achieve that for you, we refund the $497 in full. No hard feelings. The audit will have been useful either way.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u2705"
+   },
+   "color": "green_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-811d-ac90-ce867935d7d6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why this guarantee is safe to give: the honesty test for the audit is that the roadmap must be worth $497 even if they never hire us. For a real $5M+ B2B company running mostly manual revenue operations, finding 10 hours of recoverable executive time or a credible double-digit revenue lever is almost always achievable \u2014 the guarantee is anchored on the provable, low-risk quick wins, while the bigger custom builds are sold on vision. So we can honor the guarantee on the safe stuff and still sell the big stuff on upside. The guarantee also does heavy lifting on the sale itself: it removes all risk from the buyer's decision, which is exactly what lets a stranger say yes to a paid first step.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why this guarantee is safe to give: the honesty test for the audit is that the roadmap must be worth $497 even if they never hire us. For a real $5M+ B2B company running mostly manual revenue operations, finding 10 hours of recoverable executive time or a credible double-digit revenue lever is almost always achievable \u2014 the guarantee is anchored on the provable, low-risk quick wins, while the bigger custom builds are sold on vision. So we can honor the guarantee on the safe stuff and still sell the big stuff on upside. The guarantee also does heavy lifting on the sale itself: it removes all risk from the buyer's decision, which is exactly what lets a stranger say yes to a paid first step.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81e0-826e-f2b2495c9b33",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Funnel \u2014 How the Webinar Feeds the Audit",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Funnel \u2014 How the Webinar Feeds the Audit",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81d2-a722-e999e390b913",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The audit is not sold cold. It is the single call-to-action at the end of the webinar. The webinar is the free top-of-funnel experience that earns attention and trust; its one job at the close is to funnel attendees into committing to the paid $497 audit, backed by the full guarantee above. By the time someone is asked to pay, they have already watched us demonstrate genuine expertise for 45\u201360 minutes \u2014 so paying a few hundred dollars to get that same expertise pointed directly at their own business is an easy, natural next step, not a cold ask.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The audit is not sold cold. It is the single call-to-action at the end of the webinar. The webinar is the free top-of-funnel experience that earns attention and trust; its one job at the close is to funnel attendees into committing to the paid $497 audit, backed by the full guarantee above. By the time someone is asked to pay, they have already watched us demonstrate genuine expertise for 45\u201360 minutes \u2014 so paying a few hundred dollars to get that same expertise pointed directly at their own business is an easy, natural next step, not a cold ask.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-811b-a23f-e904d62b7e56",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The full sequence, end to end:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The full sequence, end to end:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81b9-a8a5-d08db651d83d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Ads + organic content earn attention and drive webinar registrations (free).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Ads + organic content earn attention and drive webinar registrations (free).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81e7-bcf6-c37541f576cf",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The webinar delivers real, standalone value AND makes the case for why a deep, data-driven revenue audit is the logical next move (free).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The webinar delivers real, standalone value AND makes the case for why a deep, data-driven revenue audit is the logical next move (free).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81ed-95fd-e1b4a12f5950",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The webinar's single CTA: book the $497 Revenue Audit, fully guaranteed. This is the only thing we sell on the webinar \u2014 not the build, not a call, the audit.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The webinar's single CTA: book the $497 Revenue Audit, fully guaranteed. This is the only thing we sell on the webinar \u2014 not the build, not a call, the audit.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8135-893b-f44f98cefdbe",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Discovery call (~1 hr) + automated CRM scan run before or around it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Discovery call (~1 hr) + automated CRM scan run before or around it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8191-9f84-f785ee397eb7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Results call (~1 hr): we present the Revenue Gap Report + Build Roadmap.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Results call (~1 hr): we present the Revenue Gap Report + Build Roadmap.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81e4-9284-c7ce1826fe23",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The roadmap ends in the two-fork choice: self-deploy it themselves, or have us build it (the retainer). Fork B is the target.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The roadmap ends in the two-fork choice: self-deploy it themselves, or have us build it (the retainer). Fork B is the target.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-810d-b1ad-d466d4237de1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Because the audit is now the webinar's call-to-action, the webinar content itself needs to be (re)written to build toward it: the whole talk should make the paid audit feel like the obvious, low-risk next step. This is captured as a dependency for the GTM / Webinar work \u2014 the webinar's close changes from 'book a free call' to 'buy the guaranteed $497 audit.'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Because the audit is now the webinar's call-to-action, the webinar content itself needs to be (re)written to build toward it: the whole talk should make the paid audit feel like the obvious, low-risk next step. This is captured as a dependency for the GTM / Webinar work \u2014 the webinar's close changes from 'book a free call' to 'buy the guaranteed $497 audit.'",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udca1"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81a5-803a-d222de030b55",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "What It Delivers \u2014 The Report Structure",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "What It Delivers \u2014 The Report Structure",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-817a-b359-cd1e0609c8ed",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The tangible output of the audit is a written report \u2014 the Revenue Gap Report + Build Roadmap. It is deliberately build-biased (unlike a generic tool-recommendation audit), meaning the high-impact recommendations point toward custom builds we can deliver, while off-the-shelf tools appear mainly as the give-away quick wins. It has four parts.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The tangible output of the audit is a written report \u2014 the Revenue Gap Report + Build Roadmap. It is deliberately build-biased (unlike a generic tool-recommendation audit), meaning the high-impact recommendations point toward custom builds we can deliver, while off-the-shelf tools appear mainly as the give-away quick wins. It has four parts.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81ac-a8db-d8c90c9a137d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "1. Executive Summary",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "1. Executive Summary",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8191-9bc6-fedef11ca81d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Not a bland list. It opens by naming the client's pain points in their own words (proving we listened), translates each pain into the specific outcome they can achieve, and closes with a headline number: total executive hours saved per week plus the revenue-upside range. The goal of this page is emotional \u2014 within the first 60 seconds they should feel 'this person actually understands my business.'",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Not a bland list. It opens by naming the client's pain points in their own words (proving we listened), translates each pain into the specific outcome they can achieve, and closes with a headline number: total executive hours saved per week plus the revenue-upside range. The goal of this page is emotional \u2014 within the first 60 seconds they should feel 'this person actually understands my business.'",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-814b-aa3b-cebad637635a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "2. The Effort \u00d7 Impact Priority Matrix",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "2. The Effort \u00d7 Impact Priority Matrix",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8174-b102-d444e7f93035",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "This is the mental model that makes the whole report sell itself. It plots every opportunity on two axes \u2014 effort to implement, and impact on the business. Two quadrants matter. Top-left (High Impact, Low Effort) = QUICK WINS: easy, plug-and-play, needle-moving-this-week fixes like an email tool or an AI notetaker. We deliberately focus the client's eye here and we give these away \u2014 they are the trust anchor and the proof the $497 was worth it. Top-right (High Impact, High Effort) = STRATEGIC BUILDS: genuinely needle-moving but not a 30-minute install \u2014 the custom machines and net-new plays. This is the upsell quadrant, and it maps to Fork B, the retainer. The matrix does the selling for us: the client sees the whole opportunity landscape at once, sees us generously handing over the quick wins, and sees the big-money items clearly labeled 'worth it, but heavy' \u2014 precisely the work they'd rather pay us to do than attempt themselves.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "This is the mental model that makes the whole report sell itself. It plots every opportunity on two axes \u2014 effort to implement, and impact on the business. Two quadrants matter. Top-left (High Impact, Low Effort) = QUICK WINS: easy, plug-and-play, needle-moving-this-week fixes like an email tool or an AI notetaker. We deliberately focus the client's eye here and we give these away \u2014 they are the trust anchor and the proof the $497 was worth it. Top-right (High Impact, High Effort) = STRATEGIC BUILDS: genuinely needle-moving but not a 30-minute install \u2014 the custom machines and net-new plays. This is the upsell quadrant, and it maps to Fork B, the retainer. The matrix does the selling for us: the client sees the whole opportunity landscape at once, sees us generously handing over the quick wins, and sees the big-money items clearly labeled 'worth it, but heavy' \u2014 precisely the work they'd rather pay us to do than attempt themselves.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8196-8e8c-de51c3b9a998",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "3. The Recommendations (the meat of the report)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "3. The Recommendations (the meat of the report)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81d4-94fe-e92c538b9871",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "For each gap we identified, a full entry: the pain point (in their words), the recommended solution (an off-the-shelf tool for a quick win, or one of our builds / a net-new build for the big ones), the cost, the complexity (plug-and-play vs. light setup vs. custom build), and the expected ROI (hours back per week, or revenue unlocked). ROI is framed honestly: provable and specific for the off-the-shelf tools, hypothesis-and-mechanism for the custom builds \u2014 never fake precision on something novel. We deliberately list MORE opportunities than they will buy: they pick what makes sense now, and the rest becomes the queued expansion pipeline (the engine of recurring-revenue growth over time).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "For each gap we identified, a full entry: the pain point (in their words), the recommended solution (an off-the-shelf tool for a quick win, or one of our builds / a net-new build for the big ones), the cost, the complexity (plug-and-play vs. light setup vs. custom build), and the expected ROI (hours back per week, or revenue unlocked). ROI is framed honestly: provable and specific for the off-the-shelf tools, hypothesis-and-mechanism for the custom builds \u2014 never fake precision on something novel. We deliberately list MORE opportunities than they will buy: they pick what makes sense now, and the rest becomes the queued expansion pipeline (the engine of recurring-revenue growth over time).",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-810e-85e4-feb2804443a2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "4. The Four-Day Quick-Start Plan",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "4. The Four-Day Quick-Start Plan",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8184-bf54-d7b6a1762941",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "At the very bottom, we strip all friction off the quick wins: exactly what to do each day for four days, about 10 minutes a day. Concrete example \u2014 SaneBox: Day 1, go to SaneBox.com and connect your Gmail; 90 seconds, done, and that alone banks roughly 25% of the audit's total time-saved ROI. Days 2\u20134 follow the same pattern with the next quick wins. The purpose is to get a real, felt win into their hands within days \u2014 which delivers on the guarantee, proves we are not just talk, and primes them to trust us with the heavy builds.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "At the very bottom, we strip all friction off the quick wins: exactly what to do each day for four days, about 10 minutes a day. Concrete example \u2014 SaneBox: Day 1, go to SaneBox.com and connect your Gmail; 90 seconds, done, and that alone banks roughly 25% of the audit's total time-saved ROI. Days 2\u20134 follow the same pattern with the next quick wins. The purpose is to get a real, felt win into their hands within days \u2014 which delivers on the guarantee, proves we are not just talk, and primes them to trust us with the heavy builds.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8125-9b36-ef7b089f8778",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Two Outcomes \u2014 DIY vs DFY",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The Two Outcomes \u2014 DIY vs DFY",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-810b-aa41-ea7af5fad625",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Every audit resolves to one of two forks. Both are presented to the prospect; internally, Fork B is the target.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Every audit resolves to one of two forks. Both are presented to the prospect; internally, Fork B is the target.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-815b-84de-fc95b177c863",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Fork A \u2014 Self-Deploy (DIY)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Fork A \u2014 Self-Deploy (DIY)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81d1-8d83-e56e1d4d07d4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "They can take the roadmap and deploy it themselves \u2014 a real outcome with no further spend. This is the trust and value anchor that justifies the price and proves the audit was not a disguised pitch. For our ICP it is rarely the rational choice (they lack the time and the technical depth), but it must be genuinely available, because its availability is what makes the whole offer honest.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "They can take the roadmap and deploy it themselves \u2014 a real outcome with no further spend. This is the trust and value anchor that justifies the price and proves the audit was not a disguised pitch. For our ICP it is rarely the rational choice (they lack the time and the technical depth), but it must be genuinely available, because its availability is what makes the whole offer honest.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-816b-aae8-e23a0589bbe3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Fork B \u2014 We Build It (DFY)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Fork B \u2014 We Build It (DFY)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81f1-9b79-c9cd8abd6c09",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "'...or we just do it for you' \u2014 faster, and they lack the time and technical depth to do it well themselves. This is where the enterprise value lives, and it is the target outcome of every audit: convert the paid-audit buyer into a high-ticket build-and-retainer client.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "'...or we just do it for you' \u2014 faster, and they lack the time and technical depth to do it well themselves. This is where the enterprise value lives, and it is the target outcome of every audit: convert the paid-audit buyer into a high-ticket build-and-retainer client.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81b7-909e-c2f8ba3a82cc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The IP Boundary (the line that protects the model)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The IP Boundary (the line that protects the model)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8139-9891-ff68ea612dcc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The DIY roadmap gives DIRECTION ONLY \u2014 strategy, gaps, sequence, expected ROI, and which machine solves each gap. It does NOT include the build IP: the build specs, prompts, integration playbooks, or the configured system. Diagnosis is SOLD ($497); construction is RETAINED (the retainer). This is consistent with the Machine Library rule that the spec library is internal IP. The report tells them what to build and why, in what order \u2014 it does not hand over how to actually build it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The DIY roadmap gives DIRECTION ONLY \u2014 strategy, gaps, sequence, expected ROI, and which machine solves each gap. It does NOT include the build IP: the build specs, prompts, integration playbooks, or the configured system. Diagnosis is SOLD ($497); construction is RETAINED (the retainer). This is consistent with the Machine Library rule that the spec library is internal IP. The report tells them what to build and why, in what order \u2014 it does not hand over how to actually build it.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd12"
+   },
+   "color": "blue_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8193-bd70-ce3c7e04efea",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why It Barely Cannibalizes",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why It Barely Cannibalizes",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81d5-964a-cc6195ebe398",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The ICP self-selects toward Fork B: a lean-team founder with no in-house AI capability, who already feels behind on AI and can comfortably pay ~$10k/mo \u2014 DIY is rarely rational for them. The people who would actually take the roadmap and build it themselves are out-of-ICP anyway (sub-$3M, can't afford us). So offering the DIY fork costs almost nothing in lost builds and buys enormous trust in return. The honest, generous option is also the commercially smart one.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The ICP self-selects toward Fork B: a lean-team founder with no in-house AI capability, who already feels behind on AI and can comfortably pay ~$10k/mo \u2014 DIY is rarely rational for them. The people who would actually take the roadmap and build it themselves are out-of-ICP anyway (sub-$3M, can't afford us). So offering the DIY fork costs almost nothing in lost builds and buys enormous trust in return. The honest, generous option is also the commercially smart one.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-8181-8b0c-d1f524609687",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Selling Stance",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Selling Stance",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81c9-a140-f04ef4c17121",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Show both forks. The visible DIY option is the proof it was never a paid pitch \u2014 it is what earns the right to sell the build.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Show both forks. The visible DIY option is the proof it was never a paid pitch \u2014 it is what earns the right to sell the build.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3bb37653-3f91-81ca-8278-df6833a2698e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3bb37653-3f91-81aa-95ab-d635b5c40d5c"
+  },
+  "created_time": "2026-08-13T03:27:00.000Z",
+  "last_edited_time": "2026-08-13T03:27:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Keep internal that the whole audit is architected so Fork B is the obvious conclusion. Deliver pure diagnosis; let the prospect arrive at 'you should just build this for me' themselves rather than being pitched into it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Keep internal that the whole audit is architected so Fork B is the obvious conclusion. Deliver pure diagnosis; let the prospect arrive at 'you should just build this for me' themselves rather than being pitched into it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ }
+]

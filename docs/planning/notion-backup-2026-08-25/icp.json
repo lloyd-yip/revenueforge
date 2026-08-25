@@ -1,0 +1,4026 @@
+[
+ {
+  "object": "block",
+  "id": "33937653-3f91-81cc-a7b2-ff8c5fe97f13",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-04-05T22:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Ideal Customer Profile (ICP)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Ideal Customer Profile (ICP)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "5b6abb95-37d5-435e-9ba2-4b1d841eab16",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Supabase key: product_prioritization_revenueforge_pricing_ladder_rationale \u2014 see Supabase for full pricing ladder rationale and vertical sequencing logic",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Supabase key: product_prioritization_revenueforge_pricing_ladder_rationale \u2014 see Supabase for full pricing ladder rationale and vertical sequencing logic",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\uddc4\ufe0f"
+   },
+   "color": "blue_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "d4e172b2-0f80-4f59-8a2a-2780f7e0cf3e",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "GTM motion refactor in progress (2026-05-31).",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "GTM motion refactor in progress (2026-05-31).",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Product-led \"Revenue OS firm\" \u2192 consulting-led ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Product-led \"Revenue OS firm\" \u2192 consulting-led ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Fractional Chief AI Revenue Officer (CAIRO)",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Fractional Chief AI Revenue Officer (CAIRO)",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ". This page = Debate #2 (ICP), LOCKED. Range moved $2\u201320M \u2192 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ". This page = Debate #2 (ICP), LOCKED. Range moved $2\u201320M \u2192 ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "$5\u201320M core",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "$5\u201320M core",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ($3M floor / $25M soft ceiling). Definition moved from ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " ($3M floor / $25M soft ceiling). Definition moved from ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "size-first",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "size-first",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " to ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " to ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "situation-first",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "situation-first",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ". Pricing structure and the full audit diagnostic are owned by their own debates (see \"Pending\" at bottom).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ". Pricing structure and the full audit diagnostic are owned by their own debates (see \"Pending\" at bottom).",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udd04"
+   },
+   "color": "purple_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-811f-9a33-d13971a2de77",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Core Definition \u2014 Situation First, Size Second",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Core Definition \u2014 Situation First, Size Second",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8157-9f3c-c6156e853326",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The ICP is defined by a ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The ICP is defined by a ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "situation",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "situation",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ", not a revenue number. Revenue range is an ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ", not a revenue number. Revenue range is an ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "affordability + pain",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "affordability + pain",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " qualifier layered on top.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " qualifier layered on top.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "12a3b96d-86f0-4726-8b28-f4e118b68bb6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The buyer is a founder-led B2B company that:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The buyer is a founder-led B2B company that:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "17dbac49-de40-47c9-b50c-08d21ca7dce6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "still has the ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "still has the ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "founder owning or hovering over revenue",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "founder owning or hovering over revenue",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (no insulating exec layer)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (no insulating exec layer)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "1c90f35a-d598-4bdd-988f-5e2e7a9d2e2f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "has a ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "has a ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "small but real sales team",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "small but real sales team",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (\u22483\u201315 reps) \u2014 enough that quality can't be managed by feel, not so big that headcount hides the problem",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (\u22483\u201315 reps) \u2014 enough that quality can't be managed by feel, not so big that headcount hides the problem",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "4293c1b5-0996-47db-99aa-e29d01de0230",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "has ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "has ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "no dedicated RevOps or AI-revenue function",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "no dedicated RevOps or AI-revenue function",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " internally",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " internally",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "c1795ace-2c2c-4144-a599-73f4641284d5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "has a founder who ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "has a founder who ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "knows they're behind on AI in revenue/sales/marketing and feels the cost of it",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "knows they're behind on AI in revenue/sales/marketing and feels the cost of it",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 this anxiety is the buying trigger, not a nice-to-have",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 this anxiety is the buying trigger, not a nice-to-have",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "78679d1b-3627-42b9-853d-e6f74291f7ef",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "can ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "can ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "comfortably commit ~$10k/mo",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "comfortably commit ~$10k/mo",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " for a revenue outcome",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " for a revenue outcome",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "e2e2fb15-3531-4c19-b50e-f1702b591a2f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why situation over size: a single revenue number ($5M vs $50M) describes two completely different buyers \u2014 a scrappy founder-as-revenue-leader vs. a committee with an existing CRO and RevOps team. One GTM motion cannot serve both. The ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why situation over size: a single revenue number ($5M vs $50M) describes two completely different buyers \u2014 a scrappy founder-as-revenue-leader vs. a committee with an existing CRO and RevOps team. One GTM motion cannot serve both. The ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "situation",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "situation",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " above is consistent across the band; the revenue range just brackets who can afford it and who still feels the pain acutely.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " above is consistent across the band; the revenue range just brackets who can afford it and who still feels the pain acutely.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "7c0784d9-85c5-498a-b99c-a889bf21f1ea",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Revenue Range + Derivation",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Revenue Range + Derivation",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "c5e5e021-b970-45ab-91b2-0ea81e2c79f6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "$5M\u2013$20M core. $3M hard floor. $25M soft ceiling.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "$5M\u2013$20M core. $3M hard floor. $25M soft ceiling.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " This range is ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " This range is ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "derived",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "derived",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ", not guessed \u2014 from price on the bottom and proof on the top:",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ", not guessed \u2014 from price on the bottom and proof on the top:",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "69581672-e682-421b-ada5-899207d76d62",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Floor = the $10k/mo price, not a revenue guess.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Floor = the $10k/mo price, not a revenue guess.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Who comfortably pays ~$120k/yr for a revenue lift? Not a $2M firm \u2014 that's a bet-the-quarter decision and a high-churn client. Realistically ~$3\u20135M minimum; comfortable at $5M+. Below $3M the founder ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Who comfortably pays ~$120k/yr for a revenue lift? Not a $2M firm \u2014 that's a bet-the-quarter decision and a high-churn client. Realistically ~$3\u20135M minimum; comfortable at $5M+. Below $3M the founder ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "is",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "is",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " the entire revenue function and there's no team-leverage to install.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " the entire revenue function and there's no team-leverage to install.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "cd3aae73-2d48-49ec-8afb-4619abdc864a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Ceiling = the word \"lean.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Ceiling = the word \"lean.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " The core proof and value story is ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " The core proof and value story is ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"infrastructure that lets a small, lean team do what used to take far more people.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"infrastructure that lets a small, lean team do what used to take far more people.\"",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " A company with a 40-person revenue org and an existing RevOps function does not see itself in \"lean,\" already has the interpretation layer, and treats an outside CAIRO as a threat to in-house rather than a hire. The lean-leverage story stops landing around $20\u201325M.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " A company with a 40-person revenue org and an existing RevOps function does not see itself in \"lean,\" already has the interpretation layer, and treats an outside CAIRO as a threat to in-house rather than a hire. The lean-leverage story stops landing around $20\u201325M.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "9a2da373-b543-4655-ac0c-b77033f705a3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why a tight band matters operationally:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why a tight band matters operationally:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " the standardized audit only works if prospects' gaps ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " the standardized audit only works if prospects' gaps ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "rhyme",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "rhyme",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " with each other (so most route to existing, proven assets instead of from-scratch custom). Gaps rhyme within a band of similar-stage lean teams \u2014 not across a 10x revenue spread. A tight ICP keeps margin high and the asset library reusable.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " with each other (so most route to existing, proven assets instead of from-scratch custom). Gaps rhyme within a band of similar-stage lean teams \u2014 not across a 10x revenue spread. A tight ICP keeps margin high and the asset library reusable.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "f76f6742-ed6d-4ef4-9c0f-cda9af6b2099",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "$5\u201350M is explicitly dead.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "$5\u201350M is explicitly dead.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " The top third was the hardest sale paired with the weakest proof (a sub-$5M operator anchor selling into $50M committees). Re-open the ceiling only after client results give a bigger proof anchor.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " The top third was the hardest sale paired with the weakest proof (a sub-$5M operator anchor selling into $50M committees). Re-open the ceiling only after client results give a bigger proof anchor.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "04d0aa38-889d-4b50-b0b4-a26e28b1cfad",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Hard Criteria",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Hard Criteria",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8180-89eb-d1c320e63acc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-04-05T22:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Business Model",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Business Model",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8126-b51b-ecc4893e87df",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "B2B only, with a defined sales motion (outbound, inbound, or partnership-driven) and more than one person involved in closing. B2C and transactional e-commerce are excluded \u2014 the pipeline and revenue logic doesn't apply.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "B2B only, with a defined sales motion (outbound, inbound, or partnership-driven) and more than one person involved in closing. B2C and transactional e-commerce are excluded \u2014 the pipeline and revenue logic doesn't apply.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81d4-87dc-ff2ba7d55a26",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-04-05T22:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Team Structure",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Team Structure",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-817c-a94e-c290b42fed16",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "A small but real revenue team \u2014 minimum founder/owner who closes + 1\u20132 reps/SDRs/AMs; ideal \u22483\u201315. Below this there's no system to leverage, just a person doing sales. (Note: Call Grader value rises with more reps; Revenue Dashboard value falls once a company is big enough to already have the insight \u2014 together they bracket the same band.)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "A small but real revenue team \u2014 minimum founder/owner who closes + 1\u20132 reps/SDRs/AMs; ideal \u22483\u201315. Below this there's no system to leverage, just a person doing sales. (Note: Call Grader value rises with more reps; Revenue Dashboard value falls once a company is big enough to already have the insight \u2014 together they bracket the same band.)",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8121-8c05-f7e9fe38a39c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Tech / Ops Maturity",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Tech / Ops Maturity",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8117-aa6a-e125d409a15b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "No dedicated internal RevOps or AI-revenue capability.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "No dedicated internal RevOps or AI-revenue capability.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " This is the core fit signal \u2014 they have the pain and the budget but not the internal team to solve it. An existing CRM (even underused or untrusted) is a positive signal, not a hard gate: if they bought a CRM and it isn't working, they're already paying for part of the problem.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " This is the core fit signal \u2014 they have the pain and the budget but not the internal team to solve it. An existing CRM (even underused or untrusted) is a positive signal, not a hard gate: if they bought a CRM and it isn't working, they're already paying for part of the problem.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "b4a72a18-53c8-441b-8ccb-31524896cf5f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Why This Buyer \u2014 Proof Fit",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Why This Buyer \u2014 Proof Fit",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "4d3e2f76-49f8-47a6-a0d7-3ebe93b8f453",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The sell is not \"buy our four apps.\" It's ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The sell is not \"buy our four apps.\" It's ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "proof of a method",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "proof of a method",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ": diagnose a revenue/sales/marketing gap \u2192 build the asset \u2192 get the result. The proof is the ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ": diagnose a revenue/sales/marketing gap \u2192 build the asset \u2192 get the result. The proof is the ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "dogfooding arc",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "dogfooding arc",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 RevenueForge rebuilt its ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 RevenueForge rebuilt its ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "own",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "own",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " revenue function on AI, in sequence (no visibility \u2192 Revenue Dashboard \u2192 rep-quality gap \u2192 Call Grader \u2192 show-rate/close gap \u2192 DealForge \u2192 follow-up gap \u2192 AI SDR), and it worked.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " revenue function on AI, in sequence (no visibility \u2192 Revenue Dashboard \u2192 rep-quality gap \u2192 Call Grader \u2192 show-rate/close gap \u2192 DealForge \u2192 follow-up gap \u2192 AI SDR), and it worked.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "48fdafbb-d4d4-4993-9ab0-4059eaf47619",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The arc is ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The arc is ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "proof of capability, not a fixed menu.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "proof of capability, not a fixed menu.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " A prospect's gaps either match ours (existing asset \u2014 fast, cheap, proven) or differ (custom build).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " A prospect's gaps either match ours (existing asset \u2014 fast, cheap, proven) or differ (custom build).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "f644104b-aa5d-452e-85e0-330386173139",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The standardized audit ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The standardized audit ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "routes most prospects to known gaps with known solutions",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "routes most prospects to known gaps with known solutions",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "; custom is the ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "; custom is the ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "exception the audit routes around",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "exception the audit routes around",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ", not the default. Rule of 3 promotes any recurring custom build into a reusable asset.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ", not the default. Rule of 3 promotes any recurring custom build into a reusable asset.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "b07a42ec-674b-4442-8594-40119610024a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "This is why the buyer must be a lean, founder-led, no-RevOps shop: that's who sees themselves in the arc, feels the lean-leverage promise, and has gaps that rhyme with the existing asset library.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "This is why the buyer must be a lean, founder-led, no-RevOps shop: that's who sees themselves in the arc, feels the lean-leverage promise, and has gaps that rhyme with the existing asset library.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "8091713a-0bd3-4a15-b1da-ab0a7693b5a9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "(Full positioning logic \u2192 Value Proposition page, Debate #1. Full audit diagnostic \u2192 Revenue Intelligence Audit page, Debate #7.)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "(Full positioning logic \u2192 Value Proposition page, Debate #1. Full audit diagnostic \u2192 Revenue Intelligence Audit page, Debate #7.)",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8128-89e9-cffd018d5972",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-04-05T22:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger Events",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger Events",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81d8-801c-c51ebcb4f2e5",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Four are observable from outside (outreach targeting). Two surface in discovery (fast-close signals).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Four are observable from outside (outreach targeting). Two surface in discovery (fast-close signals).",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-817b-9fc9-f3f8fd8218d3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-04-05T22:51:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Outreach Targeting Triggers",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Outreach Targeting Triggers",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81bb-b3f7-c7854ef0557d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Just hired / about to hire 3rd+ sales rep",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Just hired / about to hire 3rd+ sales rep",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 the 1\u20132 \u2192 3+ shift is when founders realize they can't manage quality by feel. Visible on LinkedIn.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 the 1\u20132 \u2192 3+ shift is when founders realize they can't manage quality by feel. Visible on LinkedIn.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-810b-ba38-ddd49799c097",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Accidental sales manager",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Accidental sales manager",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 top rep promoted to manage with no measurement framework. Strongest trigger: personally exposed, has budget authority, managing by gut and knows it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 top rep promoted to manage with no measurement framework. Strongest trigger: personally exposed, has budget authority, managing by gut and knows it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8141-a0e5-ecb546259c22",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Revenue plateau despite added headcount",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Revenue plateau despite added headcount",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 added reps, revenue didn't scale proportionally. The cost of not knowing is now quantified in wasted salary.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 added reps, revenue didn't scale proportionally. The cost of not knowing is now quantified in wasted salary.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8188-93e2-f51e2b5dd2b4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Adopted AI tools / RevOps but nothing moved",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Adopted AI tools / RevOps but nothing moved",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 educated buyers who already proved tools alone aren't enough. Fastest close. Response: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 educated buyers who already proved tools alone aren't enough. Fastest close. Response: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\"You have the tools. You don't have the operator who knows which revenue problem to point them at.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "\"You have the tools. You don't have the operator who knows which revenue problem to point them at.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-813d-96a0-d50bf1b4523f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-04-05T22:51:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Close Accelerators (surface in discovery)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Close Accelerators (surface in discovery)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8132-b514-cdc105f4284f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Preparing for fundraise / investor review",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Preparing for fundraise / investor review",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 board pressure, hard deadline, exec sponsorship. The founder who couldn't answer \"what's your CAC by channel.\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 board pressure, hard deadline, exec sponsorship. The founder who couldn't answer \"what's your CAC by channel.\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8189-86db-fca63ef895f1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "numbered_list_item",
+  "numbered_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Recently lost a deal or failed a board question on data gaps",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Recently lost a deal or failed a board question on data gaps",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 shame is fresh, specific, dollar-attached. Highest close rates. Surfaces via \"What prompted you to look at this now?\"",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 shame is fresh, specific, dollar-attached. Highest close rates. Surfaces via \"What prompted you to look at this now?\"",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "6397210c-61bb-42f7-bf27-af8b085158a1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Retired triggers: \"Recently missed forecast\" (founders blame reps, not the system) and \"Switched CRMs\" (active migration = no budget, 90-day blackout). Neither is a reliable outreach signal.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Retired triggers: \"Recently missed forecast\" (founders blame reps, not the system) and \"Switched CRMs\" (active migration = no budget, 90-day blackout). Neither is a reliable outreach signal.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u26a0\ufe0f"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81c3-81e5-c9fb3b1ae34c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-04-05T22:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Soft Qualifiers",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Soft Qualifiers",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8130-8776-d5e9b8ee484f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Founder/CEO is in sales and wants ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Founder/CEO is in sales and wants ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "out",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "out",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " of day-to-day pipeline management \u2014 wants to trust a system, not babysit reps.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " of day-to-day pipeline management \u2014 wants to trust a system, not babysit reps.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8154-920e-ee220bacd0f6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Has tried to build internal process before and failed (CRM rollout, ops contractor, a tool that didn't get adopted) \u2014 signals openness to external ownership.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Has tried to build internal process before and failed (CRM rollout, ops contractor, a tool that didn't get adopted) \u2014 signals openness to external ownership.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "810cad2a-3f92-444a-8f07-7e427ec8d13a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:42:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Scope & Fit (replaces the old \"lead gen\" disqualifier)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Scope & Fit (replaces the old \"lead gen\" disqualifier)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "498949fc-7355-4db8-9917-7e22b4d9d84c",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:42:00.000Z",
+  "last_edited_time": "2026-05-31T13:42:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The CAIRO model: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The CAIRO model: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "we build whatever AI systems solve the client's revenue / sales / marketing problems \u2014 preferably one of a handful of menu items we already know how to build; custom only when the gap is genuinely novel.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "we build whatever AI systems solve the client's revenue / sales / marketing problems \u2014 preferably one of a handful of menu items we already know how to build; custom only when the gap is genuinely novel.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Lead generation is ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Lead generation is ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "in scope",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "in scope",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (outreach, automated SDR, digital footprint / AEO / SEO are demand-side assets we build).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (outreach, automated SDR, digital footprint / AEO / SEO are demand-side assets we build).",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "8100dda1-eb2e-45e1-bed2-0efbcadb36df",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": true,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The only true non-fits:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The only true non-fits:",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\ud83d\udeab"
+   },
+   "color": "red_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "15dc1fc0-421b-4b0b-8a2b-3390dbabb02b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:42:00.000Z",
+  "last_edited_time": "2026-05-31T13:42:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "What changed & the margin guardrail.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "What changed & the margin guardrail.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " The old brain hard-disqualified anyone whose constraint was ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " The old brain hard-disqualified anyone whose constraint was ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "lead generation",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "lead generation",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ". The consulting-led model expanded the gap surface to include top-of-funnel, so weak lead flow is no longer disqualifying. BUT \u2014 \"we build whatever they need\" is the custom-everything margin trap if run without discipline. The standardized audit routes most prospects to ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ". The consulting-led model expanded the gap surface to include top-of-funnel, so weak lead flow is no longer disqualifying. BUT \u2014 \"we build whatever they need\" is the custom-everything margin trap if run without discipline. The standardized audit routes most prospects to ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "menu items",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "menu items",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (proven, fast, high-margin); custom is the exception the audit routes around, and Rule of 3 promotes any recurring custom build into the menu.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (proven, fast, high-margin); custom is the exception the audit routes around, and Rule of 3 promotes any recurring custom build into the menu.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u26a0\ufe0f"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81ec-b63e-e5be9d91a80d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-04-05T22:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Vertical Phases",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Vertical Phases",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81de-8e82-d50548fa8dec",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-04-05T22:23:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Phase 1 \u2014 Target Verticals",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Phase 1 \u2014 Target Verticals",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-818b-a0d8-f16de77caedd",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "B2B SaaS (seed\u2013Series A)",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "B2B SaaS (seed\u2013Series A)",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 high CRM adoption, technical buyers, acute pipeline pain",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 high CRM adoption, technical buyers, acute pipeline pain",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8108-98d4-dee3b22314d0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "B2B professional services",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "B2B professional services",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (agencies, consultancies, managed services) \u2014 deal-based, relationship-heavy, often spreadsheet-managed",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (agencies, consultancies, managed services) \u2014 deal-based, relationship-heavy, often spreadsheet-managed",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-81b3-ae49-ef5c137d1337",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:23:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Tech-enabled services",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Tech-enabled services",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (software layer + service delivery) \u2014 hybrid model, unique pipeline complexity",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (software layer + service delivery) \u2014 hybrid model, unique pipeline complexity",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8122-97eb-d7d9e6f9eee3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_3",
+  "heading_3": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Phase 2 \u2014 Expansion (after PMF confirmed)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Phase 2 \u2014 Expansion (after PMF confirmed)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-814a-9b12-e84067e14f4a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "B2B manufacturing & distribution (long cycles, complex quoting \u2014 strong ROI)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "B2B manufacturing & distribution (long cycles, complex quoting \u2014 strong ROI)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8173-8fbc-e6472fd0df3d",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Healthcare services & medtech (relationship-driven, compliance forces adoption)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Healthcare services & medtech (relationship-driven, compliance forces adoption)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8166-8ee6-e80dba285cb6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Financial services & fintech (velocity + conversion tracking are business-critical)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Financial services & fintech (velocity + conversion tracking are business-critical)",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8142-a674-c2d73eb243a4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pending in Other Debates (do not finalize here)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pending in Other Debates (do not finalize here)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "33937653-3f91-8153-8e31-cf361a5b3416",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-04-05T22:51:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Pricing structure",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Pricing structure",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 build-driven retainer + maintenance floor; the $10k/mo number above is the ICP ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 build-driven retainer + maintenance floor; the $10k/mo number above is the ICP ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "affordability floor",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "affordability floor",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ", not the finalized pricing model. Owned by the Pricing page (Debate #3).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": ", not the finalized pricing model. Owned by the Pricing page (Debate #3).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "8522eead-eb8a-4c10-92e2-4af78c13f39b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "33937653-3f91-81e6-af84-f7c94c30e4a5"
+  },
+  "created_time": "2026-05-31T13:40:00.000Z",
+  "last_edited_time": "2026-05-31T13:40:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "65e0470f-7417-4616-a15d-8705f959b795"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The 5\u20137 part standardized audit / gap diagnostic",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "The 5\u20137 part standardized audit / gap diagnostic",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " (manual BD/outreach, manual content, missing metrics, weak rep feedback, weak digital footprint) \u2014 referenced here as buyer pain; the full framework is owned by the Revenue Intelligence Audit page (Debate #7).",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " (manual BD/outreach, manual content, missing metrics, weak rep feedback, weak digital footprint) \u2014 referenced here as buyer pain; the full framework is owned by the Revenue Intelligence Audit page (Debate #7).",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ }
+]

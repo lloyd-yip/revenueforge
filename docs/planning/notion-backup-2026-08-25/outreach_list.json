@@ -1,0 +1,2521 @@
+[
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8152-a3da-eab26bb69561",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "GOVERNING RULING (Lloyd, 2026-08-25): the $3M revenue floor governs. The \"B2B SaaS (seed\u2013Series A)\" label in the ICP page (revenueforge_icp) is STALE \u2014 seed-to-Series-A B2B SaaS sits mostly under the floor. Do not build lists off that label.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "GOVERNING RULING (Lloyd, 2026-08-25): the $3M revenue floor governs. The \"B2B SaaS (seed\u2013Series A)\" label in the ICP page (revenueforge_icp) is STALE \u2014 seed-to-Series-A B2B SaaS sits mostly under the floor. Do not build lists off that label.",
+     "href": null
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "\u26a0\ufe0f"
+   },
+   "color": "yellow_background"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81fc-8ff6-c48c13f7ad1b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Scope: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Scope: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "US only \u00b7 $3M hard floor, $5\u201320M core, $25M soft ceiling \u00b7 founder-led B2B.  ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "US only \u00b7 $3M hard floor, $5\u201320M core, $25M soft ceiling \u00b7 founder-led B2B.  ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Mechanism: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Mechanism: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "cold calendar invite (not a registration email) \u2192 webinar \u2192 paid $897 Revenue Audit.  ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "cold calendar invite (not a registration email) \u2192 webinar \u2192 paid $897 Revenue Audit.  ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Local mirror: ",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Local mirror: ",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "~/projects/revenueforge/docs/planning/outreach-target-list.md",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": true,
+      "color": "default"
+     },
+     "plain_text": "~/projects/revenueforge/docs/planning/outreach-target-list.md",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-816a-baf7-c66cd362abae",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wave 1 \u2014 send first",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wave 1 \u2014 send first",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81a4-bbd6-d9db35fe04c6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Ordered by strength of fit, not by list volume \u2014 agencies will be the biggest list, enterprise software the best-converting.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Ordered by strength of fit, not by list volume \u2014 agencies will be the biggest list, enterprise software the best-converting.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8136-8138-d8b28e7fad0f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": true,
+  "in_trash": false,
+  "type": "table",
+  "table": {
+   "table_width": 6,
+   "has_column_header": true,
+   "has_row_header": false
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-817e-aacd-d223fccb85ed",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Segment 1 \u2014 the specific filter recipe (both employment signals required)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Segment 1 \u2014 the specific filter recipe (both employment signals required)",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8138-8d60-cabbae484d99",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Current employees holding AE titles",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Current employees holding AE titles",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 3+ with Account Executive, Enterprise AE, Strategic AE, or Mid-Market AE. Proves the sales team exists now and is the shape the machines act on.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 3+ with Account Executive, Enterprise AE, Strategic AE, or Mid-Market AE. Proves the sales team exists now and is the shape the machines act on.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-811b-91bc-f15e12dff230",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Open job postings for AE roles",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Open job postings for AE roles",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 live reqs for AE/BD/Enterprise AE. Proves expansion, and collapses the \"hiring the 3rd+ rep\" trigger into the base filter for this segment.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 live reqs for AE/BD/Enterprise AE. Proves expansion, and collapses the \"hiring the 3rd+ rep\" trigger into the base filter for this segment.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81f9-adff-f0163334ebfb",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "No public pricing page",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "No public pricing page",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 \"Request a Demo\" / \"Contact Sales\" primary CTA with no pricing is the best single tell they sell through humans. Inverse filter: \"start free\" / \"free trial\" = PLG, drop it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 \"Request a Demo\" / \"Contact Sales\" primary CTA with no pricing is the best single tell they sell through humans. Inverse filter: \"start free\" / \"free trial\" = PLG, drop it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-812e-9846-e3561599c8bb",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "An SDR/BDR function exists",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "An SDR/BDR function exists",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 implies outbound sales-led.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 implies outbound sales-led.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8133-bdec-e03fd6a23fb3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:38:00.000Z",
+  "last_edited_time": "2026-08-25T16:38:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Vertical SaaS keyword",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Vertical SaaS keyword",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 \"software for [industry]\" in the description; vertical SaaS is almost always sales-led.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 \"software for [industry]\" in the description; vertical SaaS is almost always sales-led.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81e5-bbbf-f29b9e186c48",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wave 2 \u2014 run alongside, smaller volume, expect different show rates",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wave 2 \u2014 run alongside, smaller volume, expect different show rates",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81ba-8b72-ee66365c62c1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": true,
+  "in_trash": false,
+  "type": "table",
+  "table": {
+   "table_width": 6,
+   "has_column_header": true,
+   "has_row_header": false
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81ba-b0ca-d959f6410929",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Wave 3 \u2014 hold until the webinar is converting",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Wave 3 \u2014 hold until the webinar is converting",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81cf-ab92-d1bf6e3421ff",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": true,
+  "in_trash": false,
+  "type": "table",
+  "table": {
+   "table_width": 6,
+   "has_column_header": true,
+   "has_row_header": false
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8171-9806-d62e86b2aef4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Channel, not invite list",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Channel, not invite list",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-810f-b230-fc2f9799031f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "These convert on a relationship sale to one person, not a cold webinar. Different motion, different copy, worth more than a single client each.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "These convert on a relationship sale to one person, not a cold webinar. Different motion, different copy, worth more than a single client each.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81db-8ceb-ec03753b7820",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Individual and boutique fractional execs",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Individual and boutique fractional execs",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 too small for the floor, but they sit inside their clients' operations and get asked about AI constantly with no answer.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 too small for the floor, but they sit inside their clients' operations and get asked about AI constantly with no answer.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81a1-a6d7-c5277c851e69",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "PE and VC firms themselves",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "PE and VC firms themselves",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 a firm with twelve portfolio companies mandating ops improvement is distribution into twelve ICP-perfect companies at once; sell to the operating partner. As direct clients they fail: partnership decision-making (no founder owning revenue), revenue is carry/fees so \"revenue leaking\" doesn't parse, 12\u201336 month deal cycles outrun any pilot, near-zero cold-webinar attendance, and the dogfounding proof arc reads small to them.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 a firm with twelve portfolio companies mandating ops improvement is distribution into twelve ICP-perfect companies at once; sell to the operating partner. As direct clients they fail: partnership decision-making (no founder owning revenue), revenue is carry/fees so \"revenue leaking\" doesn't parse, 12\u201336 month deal cycles outrun any pilot, near-zero cold-webinar attendance, and the dogfounding proof arc reads small to them.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-818b-9c46-ebb73a6e74c0",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Filters that apply to every list",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Filters that apply to every list",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81f8-87ed-fd1abddf32d2",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "These do more work than the industry choice does.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "These do more work than the industry choice does.",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8168-b914-fdada859e505",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "US only.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "US only.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8139-8030-d333c2f860a7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "3+ people carrying sales titles",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "3+ people carrying sales titles",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 AE, BD, SDR, Account Manager, Sales Director.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 AE, BD, SDR, Account Manager, Sales Director.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8193-a118-ea3a61075c16",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Founder / CEO / Owner / Managing Partner present and not insulated",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Founder / CEO / Owner / Managing Partner present and not insulated",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 no CRO between them and revenue.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 no CRO between them and revenue.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8165-a8df-f33e33677fd3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "EXCLUDE any company with a VP or Head of RevOps, Sales Ops, Growth Ops, or an internal AI/automation title.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "red"
+     },
+     "plain_text": "EXCLUDE any company with a VP or Head of RevOps, Sales Ops, Growth Ops, or an internal AI/automation title.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " The ICP doc calls this the core fit signal. It also keeps funded SaaS out of segment 9 automatically.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " The ICP doc calls this the core fit signal. It also keeps funded SaaS out of segment 9 automatically.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81ba-aee2-fc4d4175a06f",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Exclude 40+ person revenue orgs",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Exclude 40+ person revenue orgs",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 the lean-leverage story stops landing.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 the lean-leverage story stops landing.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-811e-bbaa-e838e23f93c3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Target title:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Target title:",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Founder, CEO, Co-Founder, President, Owner, Managing Partner. Fall back to VP Sales / Head of Sales only where the founder isn't reachable.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Founder, CEO, Co-Founder, President, Owner, Managing Partner. Fall back to VP Sales / Head of Sales only where the founder isn't reachable.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-810c-8412-e88e11e26565",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Explicitly out",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Explicitly out",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8153-a088-fd58ed7e55db",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Solo and boutique consultants \u2014 below floor, and most of what \"consulting\" returns.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Solo and boutique consultants \u2014 below floor, and most of what \"consulting\" returns.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8156-9597-e45a5cb01e67",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Engineering, environmental and architectural consultancies \u2014 right size, wrong motion; they win through RFPs, not sales calls, so three of the four hero demos don't land.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Engineering, environmental and architectural consultancies \u2014 right size, wrong motion; they win through RFPs, not sales calls, so three of the four hero demos don't land.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81c8-bfb8-eab7ba3950be",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Coaches, course creators, info products, sub-$3M consultancies \u2014 QS's floor, not RevenueForge's. The easiest list to accidentally reuse.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Coaches, course creators, info products, sub-$3M consultancies \u2014 QS's floor, not RevenueForge's. The easiest list to accidentally reuse.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8108-89e6-d087a991bb04",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "B2C and transactional ecommerce \u2014 excluded outright in the ICP doc.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "B2C and transactional ecommerce \u2014 excluded outright in the ICP doc.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-811c-a691-ced9df5af0ff",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Local and home services, med spas, dental practices.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Local and home services, med spas, dental practices.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-811a-b567-e1a9331a8bd7",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Corporate divisions \u2014 the founder isn't the buyer.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Corporate divisions \u2014 the founder isn't the buyer.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8118-9f60-cfa8618a95c3",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Trigger overlay",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Trigger overlay",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-818d-965a-e68e827cea35",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Ranks the lists, doesn't replace them. Any record matching one jumps the queue. All four come from the ICP doc's own \"Outreach Targeting Triggers\".",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": true,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Ranks the lists, doesn't replace them. Any record matching one jumps the queue. All four come from the ICP doc's own \"Outreach Targeting Triggers\".",
+     "href": null
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-818c-b32a-df19d0de4fe4",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Hiring the 3rd+ sales rep",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Hiring the 3rd+ sales rep",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 live AE/BD/SDR job postings. Most reliably visible from outside; already baked into segment 1's base filter.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 live AE/BD/SDR job postings. Most reliably visible from outside; already baked into segment 1's base filter.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81ba-9757-c53c6eb69871",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Recently promoted an IC to sales manager",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Recently promoted an IC to sales manager",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 LinkedIn title change. The ICP doc calls this the strongest trigger: personally exposed, has budget, managing by gut and knows it.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 LinkedIn title change. The ICP doc calls this the strongest trigger: personally exposed, has budget, managing by gut and knows it.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81b0-b8a1-c6361a5b7294",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Sales headcount grew, company revenue didn't.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Sales headcount grew, company revenue didn't.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-816c-a776-c6587ab927d1",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Has AI or automation tools in the stack but no RevOps hire",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Has AI or automation tools in the stack but no RevOps hire",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 the ICP doc flags this as the fastest close.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 the ICP doc flags this as the fastest close.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8145-8624-db85298921c9",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Operating notes",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Operating notes",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81ef-a2ad-c81c516376dc",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Tag the vertical on every invite.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Tag the vertical on every invite.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Running all waves at once costs nothing extra on list acquisition, but without a vertical tag the show rate and audit-purchase rate come back unattributable and the test teaches nothing.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Running all waves at once costs nothing extra on list acquisition, but without a vertical tag the show rate and audit-purchase rate come back unattributable and the test teaches nothing.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-818f-b6dc-d77f30fefe20",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "One webinar holds segments 1\u20136 and 8",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "One webinar holds segments 1\u20136 and 8",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " \u2014 close enough buyer psychology. 7 and 11 diverge: wealth management has a compliance-and-1099 frame, manufacturing a quoting-and-cycle frame, and the current webinar speaks to neither.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " \u2014 close enough buyer psychology. 7 and 11 diverge: wealth management has a compliance-and-1099 frame, manufacturing a quoting-and-cycle frame, and the current webinar speaks to neither.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8193-912b-e1207ff589f6",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "bulleted_list_item",
+  "bulleted_list_item": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "CRM is NOT a hard gate.",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "CRM is NOT a hard gate.",
+     "href": null
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " Per the ICP doc, an existing CRM \u2014 even underused or untrusted \u2014 is a positive signal. The audit has two engines: the automated CRM scan (Engine A) and the operator-led strategic diagnostic (Engine B). No CRM = a weaker audit, not no audit.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": " Per the ICP doc, an existing CRM \u2014 even underused or untrusted \u2014 is a positive signal. The audit has two engines: the automated CRM scan (Engine A) and the operator-led strategic diagnostic (Engine B). No CRM = a weaker audit, not no audit.",
+     "href": null
+    }
+   ],
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8130-9a06-ebb2ed040e5b",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Open items",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Open items",
+     "href": null
+    }
+   ],
+   "is_toggleable": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-814a-a872-eb982b7b029a",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "to_do",
+  "to_do": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Share qs_calendar_blocker_format (\"Calendar Blocker Copy \u2014 Format Intelligence\", Notion 33437653-3f91-8133-b8d2-e50755705121) with the Claude Notion integration \u2014 it currently 404s, and it's needed before writing invite copy.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Share qs_calendar_blocker_format (\"Calendar Blocker Copy \u2014 Format Intelligence\", Notion 33437653-3f91-8133-b8d2-e50755705121) with the Claude Notion integration \u2014 it currently 404s, and it's needed before writing invite copy.",
+     "href": null
+    }
+   ],
+   "checked": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8171-99ce-e24362157e64",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "to_do",
+  "to_do": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Decide: one cross-vertical invite, or one per vertical. The trigger angles (\"you promoted your best rep and now you're guessing\" / \"you bought the AI tools and nothing moved\") are industry-neutral and may carry all of Wave 1 alone.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Decide: one cross-vertical invite, or one per vertical. The trigger angles (\"you promoted your best rep and now you're guessing\" / \"you bought the AI tools and nothing moved\") are industry-neutral and may carry all of Wave 1 alone.",
+     "href": null
+    }
+   ],
+   "checked": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-81a1-b79b-e123fcd39136",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "to_do",
+  "to_do": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Correct the stale \"B2B SaaS (seed\u2013Series A)\" line in the ICP page (revenueforge_icp) at source \u2014 needs a /brain-write go.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Correct the stale \"B2B SaaS (seed\u2013Series A)\" line in the ICP page (revenueforge_icp) at source \u2014 needs a /brain-write go.",
+     "href": null
+    }
+   ],
+   "checked": false,
+   "color": "default"
+  },
+  "archived": false
+ },
+ {
+  "object": "block",
+  "id": "3c737653-3f91-8131-a17f-eb1074350c66",
+  "parent": {
+   "type": "page_id",
+   "page_id": "3c737653-3f91-81f5-8f8f-e2c2be099686"
+  },
+  "created_time": "2026-08-25T16:39:00.000Z",
+  "last_edited_time": "2026-08-25T16:39:00.000Z",
+  "created_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "last_edited_by": {
+   "object": "user",
+   "id": "33337653-3f91-81e0-a0e2-0027653debaa"
+  },
+  "has_children": false,
+  "in_trash": false,
+  "type": "to_do",
+  "to_do": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Extract the durable principles into knowledge_principles via /brain-write (not raw SQL): exclude-RevOps as the core fit signal, webinar-nativeness as a channel filter the ICP doc doesn't model, and the enterprise-software AE filter recipe.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     },
+     "plain_text": "Extract the durable principles into knowledge_principles via /brain-write (not raw SQL): exclude-RevOps as the core fit signal, webinar-nativeness as a channel filter the ICP doc doesn't model, and the enterprise-software AE filter recipe.",
+     "href": null
+    }
+   ],
+   "checked": false,
+   "color": "default"
+  },
+  "archived": false
+ }
+]
