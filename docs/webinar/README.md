@@ -25,14 +25,27 @@ looks authoritative because it lives in the file called "script".
 sequence. The current one is marked **"6.2 — FINAL ASSEMBLY (supersedes all versions above)"**.
 Earlier 6.2 blocks in the same file are dead. Read to the bottom before using anything.
 
-## Unresolved conflict — the offer has two names
+## Unresolved conflict — the offer has THREE names
 
-- Skeleton: **"Revenue Intelligence Audit"**
-- Sections draft (newer): **"AI Revenue Teardown"**
+| Name | Where | Status |
+|---|---|---|
+| "Revenue Intelligence Audit" | this skeleton; a Notion page | **superseded** — that Notion page is explicitly marked so |
+| "The Revenue Audit" | live Notion page + the Tier 00 pricing section | current in Notion |
+| **"AI Revenue Teardown"** | `webinar-sections-5-6-draft.md` §6.2 FINAL ASSEMBLY | **the newest artifact (2026-08-18)** |
 
-Nobody has reconciled these. The $897 price and the guarantee are consistent across both; only the
-name differs. Anything that quotes the offer — website copy, ads, the audit page — needs the
-decision made before it ships.
+The newest webinar prose names it *AI Revenue Teardown*; Notion says *The Revenue Audit*. **Not
+reconciled.** Anything quoting the offer — website copy, ads, the audit page, the invite sequence —
+needs this decided before it ships.
+
+## Unresolved conflict — the guarantee promises two different things
+
+- Superseded audit page: **"+10% close rate or lead volume"**
+- `webinar-reference.md`: **"~+5–10% close rate together with +10–50% lead volume"**
+
+Materially different promises, both currently live. The guarantee is the risk reversal the whole
+$897 rests on, so this needs a ruling before it goes on a slide.
+
+**Settled:** the price is **$897** (Lloyd, 2026-08-25). See `docs/planning/DECISIONS.md` §15.
 
 ## Useful when sizing
 
