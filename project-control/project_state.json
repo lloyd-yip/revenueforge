@@ -1,0 +1,66 @@
+{
+  "project_name": "RevenueForge",
+  "project_overview": {
+    "what": "Revenue-engine automation sold as a prescribed stack of AI systems, implemented then operated on our infrastructure for a recurring fee.",
+    "why": "Capital-efficient, high-retention business with better unit economics than an agency and lower capital requirements than SaaS; built on an acquisition engine that already works.",
+    "end_state": "A productized delivery business at $14m+ revenue with >70% recurring, low founder dependency, and a menu that stayed disciplined.",
+    "current_summary": "Planning only. Nothing built for an outside client. Extensive strategy work complete; the gating unknown is whether anyone buys."
+  },
+  "current_state": "planning",
+  "current_phase": "Phase 0 - Validation",
+  "current_focus": "Run 10 paid audits and find out whether the pricing and the demand are real",
+  "immediate_next_steps": [
+    "Define the day-one menu - every pricing question is downstream of it",
+    "Run 10 audits at $897; track conversion to a build and log what each prospect had already tried",
+    "Document every onboarding from client #1 so the eventual Head of Delivery does not arrive to an empty room"
+  ],
+  "resume_here": "Read docs/planning/DECISIONS.md first - it holds the reasoning behind every locked parameter. The live model is at https://lloyd-yip.github.io/revenueforge-model/. Nothing is built; the next real move is 10 audits, not more planning.",
+  "tech_stack": {
+    "backend": "none - planning",
+    "database": "none",
+    "auth": "none",
+    "hosting": "none yet - planning"
+  },
+  "deploy_flow": "planning / none yet",
+  "hard_constraints": [
+    "This repo is documents only. Application code gets its own repo per born-standalone.",
+    "The initial sale is prescribed - no a la carte, no line items shown.",
+    "The recurring fee is never discounted. Discounts come out of the upfront only.",
+    "Value sets the price; complexity only decides whether an item goes on the menu at all."
+  ],
+  "known_issues": [
+    "revenueforge-site and revenueforge-aeo-machine have no GitHub remote - local only, unbacked.",
+    "vast-sunspot/revenueforge/ originals are superseded but not deleted; the monorepo is under a migration freeze.",
+    "Neither revenueforge nor revenueforge-model is registered in monorepo-config/projects.json (registry is inside the frozen monorepo)."
+  ],
+  "architecture_principles": [
+    "Capacity decides starts; starts decide closes; closes decide audits. Never model forwards - it invents a queue.",
+    "Hours are not attention. Concurrent work-in-flight is its own constraint.",
+    "An efficiency curve is only a growth story if it also shortens duration.",
+    "Retention changes the multiple band, not just revenue - it is the single largest lever in the business."
+  ],
+  "decision_log": [
+    {
+      "decision": "Born standalone - own repo from commit #1, not a monorepo subdir",
+      "reasoning": "Per born-standalone.md; the monorepo is locked, frozen and dissolving",
+      "date": "2026-08-25"
+    },
+    {
+      "decision": "Planning docs consolidated here rather than in revenueforge-model",
+      "reasoning": "Only about a third of the decision log documents model parameters; the rest is business planning that used the model as evidence",
+      "date": "2026-08-25"
+    },
+    {
+      "decision": "Copied out of the monorepo rather than moved",
+      "reasoning": "The monorepo is under a migration freeze; copies are canonical, originals left in place and marked superseded",
+      "date": "2026-08-25"
+    }
+  ],
+  "feature_backlog": [],
+  "wip": {
+    "limit": 1,
+    "in_flight": []
+  },
+  "seam_exercised_by": "not applicable - no code",
+  "last_updated": "2026-08-25T00:00:00Z"
+}
