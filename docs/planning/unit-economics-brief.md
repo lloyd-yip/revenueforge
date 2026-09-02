@@ -18,7 +18,7 @@ Model RevenueForge's unit economics end-to-end — from webinar invites through 
 ## 1. THE FUNNEL — STAGE BY STAGE
 
 ```
-INVITES  →  QUALITY ATTENDEES  →  PAID AUDITS ($897)  →  CLOSED DEALS ($29K+ LTV)
+INVITES  →  QUALITY ATTENDEES  →  PAID AUDITS ($950)  →  CLOSED DEALS ($29K+ LTV)
    ↑              ↑                      ↑                        ↑
  uncapped     10min+ stay          the pay gate            delivery-constrained
 ```
@@ -53,7 +53,7 @@ INVITES  →  QUALITY ATTENDEES  →  PAID AUDITS ($897)  →  CLOSED DEALS ($29
 - RF's offer is materially **sexier and more differentiated** than QS's
 - **AI offers are hot right now** (qualitative — Lloyd's industry conversations)
 - **Money-back guarantee is deliberately loose**: subjective "didn't see value" → refund on request
-- **Targeting ≥$2.5M recurring run-rate**; to that buyer $897 should read as **trivial** — *conditional on targeting being accurate*
+- **Targeting ≥$2.5M recurring run-rate**; to that buyer $950 should read as **trivial** — *conditional on targeting being accurate*
 
 *Pushing the rate DOWN:*
 - It is **paid at all**. Cash up front, one-time payment. That is real friction the guarantee softens but does not remove.
@@ -73,7 +73,7 @@ INVITES  →  QUALITY ATTENDEES  →  PAID AUDITS ($897)  →  CLOSED DEALS ($29
 ## 2. PRICING & LTV
 
 ### The audit (front door)
-- **$897**, one-time, paid up front
+- **$950**, one-time, paid up front
 - **Guarantee:** subjective — if they don't see value they can request a refund
 - **Function #1: self-liquidates marketing spend.** Makes it worth Lloyd's time to take the call.
 - **Function #2: it is a QUALIFICATION GATE, not just revenue.** It prevents high-volume free bookings flooding the calendar. Lloyd: until sales reps are hired, he *does not want* high call volume — fewer calls at materially higher lead quality is the better outcome.
@@ -200,7 +200,7 @@ Lloyd's words: *"create some sort of HTML document where it's almost a good spre
 - **Follow-up lift ambiguity:** is "+10–15% from email follow-ups" a *relative* lift on total conversion or *absolute* percentage points? (Reads relative.)
 - **Recurring price:** $3K or $4K/mo — undecided. Annual-lockin discount size undecided.
 - **Retention:** 6 months is a deliberate conservative placeholder. Real number unknown.
-- **Audit delegation:** the brain roadmap flags an unresolved question — at $897 with Lloyd personally running deep-dives, the audit doesn't scale and re-inserts Lloyd as the bottleneck. Accept it must be delegatable from day one, or run them himself while volume is low? **STILL NOT RULED.**
+- **Audit delegation:** the brain roadmap flags an unresolved question — at $950 with Lloyd personally running deep-dives, the audit doesn't scale and re-inserts Lloyd as the bottleneck. Accept it must be delegatable from day one, or run them himself while volume is low? **STILL NOT RULED.**
 - **Every conversion rate in the funnel is an estimate.** Lloyd is explicitly fine with this: *"I know that there are so many assumptions built into this… but that's kind of what we need."*
 
 ---

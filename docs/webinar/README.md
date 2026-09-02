@@ -43,9 +43,9 @@ needs this decided before it ships.
 - `webinar-reference.md`: **"~+5–10% close rate together with +10–50% lead volume"**
 
 Materially different promises, both currently live. The guarantee is the risk reversal the whole
-$897 rests on, so this needs a ruling before it goes on a slide.
+$950 rests on, so this needs a ruling before it goes on a slide.
 
-**Settled:** the price is **$897** (Lloyd, 2026-08-25). See `docs/planning/DECISIONS.md` §15.
+**Settled:** the price is **$950** (Lloyd, 2026-08-25). See `docs/planning/DECISIONS.md` §15.
 
 ## Useful when sizing
 

@@ -266,7 +266,7 @@ Recorded because they are the parts most likely to be re-litigated.
 - **The SaaS comparison was the wrong template.** Enterprise SaaS spends 20–30% of revenue on R&D
   and 40–60% on S&M permanently; most run 0–15% EBITDA at scale. RevenueForge's modelled revenue per
   employee is **$594–614k** against an enterprise-SaaS median of $150–250k. Both of its equivalent
-  lines are near zero — no R&D line, and the $897 audit liquidates acquisition at the point of sale.
+  lines are near zero — no R&D line, and the $950 audit liquidates acquisition at the point of sale.
 - **Item count, not a lower upfront**, fixes the revenue mix (§6).
 - **The minimum is not a cliff to engineer around** — clients near it are disqualified (§6).
 - **The three-year price freeze is worthless at a 5% cap** (§7).
@@ -304,12 +304,15 @@ Recorded because they are the parts most likely to be re-litigated.
 
 ---
 
-## 15. Audit price ruling — $897 (Lloyd, 2026-08-25)
+## 15. Audit price ruling — $897 (Lloyd, 2026-08-25) — SUPERSEDED BY §16
 
 **The Revenue Audit is $897, not $497.** Two locked sources had disagreed: the Notion brain said
 $497 in both audit pages, while `docs/webinar/webinar-reference.md` said $897 laddering toward
 ~$1,000. Since the audit is the webinar's single CTA, the contradiction sat in the place it mattered
 most. Lloyd ruled $897; `webinar-reference.md` was the correct source all along.
+
+**Superseded the same day — see §16. The $897 figure below is the record of that first ruling,
+not the live price.**
 
 **Applied to:**
 - Notion *The Revenue Audit — Strategy, Offer & Funnel* (`3bb37653-3f91-81aa-95ab-d635b5c40d5c`) — 16 mentions.
@@ -331,3 +334,42 @@ built or written from them.
 **Still unreconciled:** the guarantee wording. The superseded audit page says *"+10% close rate or
 lead volume"*; `webinar-reference.md` says *"~+5–10% close rate together with +10–50% lead volume"*.
 Different promises, both currently live. Needs a ruling before either goes on a slide.
+
+---
+
+## 16. Audit price — $950 (Lloyd, 2026-08-25, supersedes §15)
+
+**The Revenue Audit is $950.** Ruled hours after §15 set it at $897, and this is the number to build
+everything from.
+
+**Lloyd's reasoning, verbatim in substance:** three digits rather than four is a real psychological
+threshold; it does not sound as scammy as $997; and it is more than $897.
+
+**Why not the alternatives that were considered:**
+
+- **$997** — rejected. It is consumer-funnel grammar in a room full of people who have been burned by
+  funnels. The audit is the *first* transaction and it sets the frame for a $20k conversation; opening
+  on a charm price starts that conversation from "marketer" rather than "operator". It also undercuts
+  the anti-hype stake the webinar spends an hour building.
+- **$1,000 flat** — genuinely arguable and the recommendation at the time. Round numbers are the norm
+  in B2B professional services and read as a statement rather than a negotiation. Lloyd's counter,
+  which carried it: staying in three digits is worth more than the round-number signal.
+- **$897 held** — rejected because `webinar-reference.md` always specified a ladder ("$897, ladders
+  toward ~$1,000"). Moving now completes the planned ladder in a single sweep rather than changing
+  the number twice.
+
+**Note on magnitude.** This is worth roughly $26k/year at full audit capacity — about **0.3% of
+terminal revenue**. It is not a consequential number and should not be revisited on instinct. The
+audit exists to qualify and to liquidate acquisition, not to make money; **every dollar added shaves
+audit volume, and audit volume is the top of the build funnel.** At $2M+ revenue this price does no
+qualification work at all — filtering happens in the audit itself and in the ICP screens.
+
+**Do not move it again until ten audits have produced a real conversion rate.**
+
+**Swept on 2026-08-25:** 36 references across `DECISIONS.md`, `unit-economics-brief.md`,
+`outreach-target-list.md`, `webinar-reference.md`, `webinar-sections-5-6-draft.md`,
+`docs/webinar/README.md` and `project-control/project_state.json`.
+
+**Still carrying $897 and needing the same sweep:** the three Notion pages listed in §15, owned by
+the *Revenueforge Persona and Cal Copy* session. `brain-refactor-roadmap.json` is a frozen historical
+log and is deliberately left alone.

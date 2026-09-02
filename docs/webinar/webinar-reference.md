@@ -10,26 +10,26 @@
 - Old "Revenue Intelligence Audit" page (`33a37653-3f91-8129-819e-d0d88d8990c1`) — superseded by the two above (has a pointer banner).
 
 ## THE BIG PIVOT (X4, locked 2026-08-12): FRONT DOOR = PAID AUDIT
-The webinar no longer sells a free call. Its **single CTA = book the PAID $897 Revenue Audit** (not the build, not a free call). Everything in the talk builds toward making that paid audit feel like the obvious, low-risk next step.
+The webinar no longer sells a free call. Its **single CTA = book the PAID $950 Revenue Audit** (not the build, not a free call). Everything in the talk builds toward making that paid audit feel like the obvious, low-risk next step.
 
 ### The audit model (for webinar copy)
-- **Price:** $897 to start, ladders toward ~$1,000 as positioning strengthens. **Credits 100% toward the build** if they proceed (kills "wasted money").
+- **Price:** $950 to start, ladders toward ~$1,000 as positioning strengthens. **Credits 100% toward the build** if they proceed (kills "wasted money").
 - **Format:** ~2 hrs — ~1 hr live discovery + ~1 hr results-presentation. Pre-work: connect CRM + intake form → automated scan.
 - **Deliverable — the Revenue Gap Report + Build Roadmap (4 parts):**
   1. **Executive Summary** — names their pain in their own words; headline number = total **exec hours saved/week + revenue-upside range**.
   2. **Effort × Impact Matrix** — Quick Wins (high-impact/low-effort, *given away*, the trust anchor) vs Strategic Builds (high-impact/high-effort = the upsell = Fork B).
   3. **Recommendations** — per gap: pain → solution (off-the-shelf for quick wins / our build or net-new for big ones) → cost → complexity → ROI (hrs back or revenue). Lists MORE than they'll buy = the expansion queue.
   4. **4-Day Quick-Start Plan** — ~10 min/day, delivers a felt win in days (e.g. SaneBox day 1).
-- **The GUARANTEE (state explicitly every time):** if the audit can't identify **≥10 hrs/week of exec time to give back**, OR a **credible revenue unlock (~+5–10% close rate together with +10–50% lead volume)** — and we don't believe we can achieve it — **full $897 refund.** Criteria pre-stated in writing → refund is a clean yes/no. Safe to give because the roadmap must be worth $897 even if they never hire us.
+- **The GUARANTEE (state explicitly every time):** if the audit can't identify **≥10 hrs/week of exec time to give back**, OR a **credible revenue unlock (~+5–10% close rate together with +10–50% lead volume)** — and we don't believe we can achieve it — **full $950 refund.** Criteria pre-stated in writing → refund is a clean yes/no. Safe to give because the roadmap must be worth $950 even if they never hire us.
 - **Two forks (both shown; Fork B is the target, kept internal):**
   - **Fork A — DIY:** take the roadmap and deploy it yourself. Direction only (strategy, gaps, sequence, ROI, which machine solves each) — **NOT the build IP** (specs, prompts, playbooks, configured system). Diagnosis is SOLD; construction is RETAINED. This is the trust anchor + proof it wasn't a paid pitch.
   - **Fork B — DFY:** "…or we just build it for you." Faster; they lack the time + technical depth. Where the enterprise value lives.
-- **Why paid, not free (8 reasons, condensed):** filters real buyers · self-liquidating (the $897 repays ad spend → outspend competitors) · first-yes primes the big-yes · inverts power (they hired you, you're the expert not the vendor) · the deliverable sells the build (no pitch) · you sell with their real data · shrinks calendar to only worth-it people · they engage in discovery because they paid for it.
+- **Why paid, not free (8 reasons, condensed):** filters real buyers · self-liquidating (the $950 repays ad spend → outspend competitors) · first-yes primes the big-yes · inverts power (they hired you, you're the expert not the vendor) · the deliverable sells the build (no pitch) · you sell with their real data · shrinks calendar to only worth-it people · they engage in discovery because they paid for it.
 - **Economics:** self-liquidating on-ramp; profit is downstream (build retainer + platform floor). Audit ≈ washes its own cost.
 - **Selling stance:** show both forks; deliver pure diagnosis; let them ARRIVE at "just build it for me." Architected so Fork B is the obvious conclusion.
 
 ## WEBINAR CHANGES THIS FORCES
-1. **Final CTA (old §12/13):** rewrite from "book a free call / free gap report" → **"buy the guaranteed $897 audit."** Lead with the guarantee (risk-reversal) + show both forks (DIY visible = proof it's not a pitch).
+1. **Final CTA (old §12/13):** rewrite from "book a free call / free gap report" → **"buy the guaranteed $950 audit."** Lead with the guarantee (risk-reversal) + show both forks (DIY visible = proof it's not a pitch).
 2. **First CTA (§5B):** retune — it currently implies a free one-on-one call. Point it at the audit as the way in (or soften to "the audit at the end is how you start").
 3. **Kill all "free audit / free gap report" language** everywhere in the script — it's now paid.
 4. **The "stay-to-end bonus" (§3.2)** may be moot or repositioned — the audit + guarantee is the offer.
@@ -57,9 +57,9 @@ Each hero use case told as: the problem *we* had → how *we* fixed it with AI �
 - **D4 — Include the "1% of the potential" DIY-killer bridge to the audit:** "If you had 2 years to obsess over AI + 10 years of martech/coding/API experience, doubling your close rate, halving payroll, getting 50% of your time back, or 2–4x'ing output would be *inevitable*. You don't have those — and you're too busy to get them. That's exactly why you have us audit: we tell you where your gaps are and how to get those gains." Strongest earn-the-paid-audit argument.
 
 ## CTA structure (paid-audit model)
-- The ONE real offer (**buy the $897 audit**) does NOT drop until AFTER the demo (~30 min in). Intentional — filters for high-quality buyers who stuck around, not cheap early clicks.
+- The ONE real offer (**buy the $950 audit**) does NOT drop until AFTER the demo (~30 min in). Intentional — filters for high-quality buyers who stuck around, not cheap early clicks.
 - **Early "CTAs" (incl. §5B) = SOFT loop-openers / retention hooks ONLY** — reveal no offer: "stick around — at the end I'll show you exactly how to get this pointed at your own business, and it's far lower-risk than you'd think."
-- **Sequence:** demo → **CTA #1** (the $897 offer) → audit exposition (what's in it + the guarantee + the two forks) → **CTA #2** (reinforce) → carry into Q&A.
+- **Sequence:** demo → **CTA #1** (the $950 offer) → audit exposition (what's in it + the guarantee + the two forks) → **CTA #2** (reinforce) → carry into Q&A.
 - **§5B is reworked** from a booking ask into a soft loop-opener.
 
 ## Pushbacks accepted (guardrails)

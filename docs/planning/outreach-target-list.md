@@ -1,9 +1,9 @@
 # RevenueForge — Cold Calendar Outreach Target List
 
-*Decided 2026-08-25. Governs list-building for the cold calendar invite → webinar → $897 audit funnel.*
+*Decided 2026-08-25. Governs list-building for the cold calendar invite → webinar → $950 audit funnel.*
 
 **Scope:** US only · $3M hard floor, $5–20M core, $25M soft ceiling · founder-led B2B
-**Mechanism:** cold calendar invite (not a registration email) → webinar → paid $897 Revenue Audit
+**Mechanism:** cold calendar invite (not a registration email) → webinar → paid $950 Revenue Audit
 **Wave 1 is ordered by strength of fit, not list volume** — agencies are the biggest list, enterprise software the best-converting.
 
 **Governing ruling (Lloyd, 2026-08-25):** the **$3M revenue floor governs**. The "B2B SaaS (seed–Series A)" label in the Brain ICP page (`revenueforge_icp`) is STALE — seed-to-Series-A B2B SaaS sits mostly under the floor. Do not build lists off that label.

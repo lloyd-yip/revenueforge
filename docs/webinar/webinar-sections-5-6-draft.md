@@ -75,7 +75,7 @@ Unless — somebody who already *has* the skills, the time, and the system just 
 
 ---
 
-## 6.1 — The offer: the Revenue Audit ($897, guaranteed) — CURRENT (reworked: personal, hyped deliverable, value-before-price, Q&A nudge)
+## 6.1 — The offer: the Revenue Audit ($950, guaranteed) — CURRENT (reworked: personal, hyped deliverable, value-before-price, Q&A nudge)
 
 "So here's exactly what that looks like. It's called a **Revenue Audit** — and it's me doing *for* you the single most valuable thing I talked about tonight: finding the few problems in your business that are actually worth solving.
 
@@ -93,9 +93,9 @@ Now — to be clear about what I'm *not* doing: I'm not trying to sell you some 
 
 **And one more thing** — right after this, I'm running a live Q&A. So if you've got questions about the audit, or you just want to talk through what might be going on in *your* business, stick around and ask — we can even dig into a few of your gaps live, right here.
 
-**So what does all of that cost? $897.** A personal, top-to-bottom diagnosis of your entire revenue engine, plus a complete roadmap to fix it — from someone who's already done exactly this in his own company. [Optional value contrast: a strategy consultant charges $Xk for a fraction of this; a full-time Chief AI Officer is $300k a year.]
+**So what does all of that cost? $950.** A personal, top-to-bottom diagnosis of your entire revenue engine, plus a complete roadmap to fix it — from someone who's already done exactly this in his own company. [Optional value contrast: a strategy consultant charges $Xk for a fraction of this; a full-time Chief AI Officer is $300k a year.]
 
-And it's completely **risk-free.** My guarantee: if we go through that audit and I *can't* show you a credible path to meaningfully more revenue — a real lift in your close rate and lead flow — *plus* at least ten hours a week of executive time we can hand back to you… and if I don't honestly believe we can deliver it… I refund every dollar of the $897, and you keep the report anyway. The only way you lose here is by *not* booking it.
+And it's completely **risk-free.** My guarantee: if we go through that audit and I *can't* show you a credible path to meaningfully more revenue — a real lift in your close rate and lead flow — *plus* at least ten hours a week of executive time we can hand back to you… and if I don't honestly believe we can deliver it… I refund every dollar of the $950, and you keep the report anyway. The only way you lose here is by *not* booking it.
 
 **The link's on the screen. Go book your Revenue Audit — and I'll see you on that call, personally.**"
 
@@ -103,11 +103,11 @@ And it's completely **risk-free.** My guarantee: if we go through that audit and
 
 ## 6.2 — Deeper dive: what you get → the two doors → why now (DRAFT — Lloyd hasn't reviewed yet)
 
-"Let me go a little deeper on what you actually walk away with, so this doesn't sound vague. The report has three parts: an **executive summary** — your biggest problems in plain English, with a single headline number for the total upside on the table; a **prioritized breakdown** — every gap ranked by impact versus effort, so you know exactly what to hit first for the fastest win; and for each one, **what to build, how it works, roughly what it costs, and the return to expect.** By the end you don't just know your problems — you've got a complete, ordered blueprint to fix them. Honestly, even if you never speak to us again, that alone is worth many times the $897 — because knowing exactly where your money's leaking and what to do about it is the most valuable thing a founder can have.
+"Let me go a little deeper on what you actually walk away with, so this doesn't sound vague. The report has three parts: an **executive summary** — your biggest problems in plain English, with a single headline number for the total upside on the table; a **prioritized breakdown** — every gap ranked by impact versus effort, so you know exactly what to hit first for the fastest win; and for each one, **what to build, how it works, roughly what it costs, and the return to expect.** By the end you don't just know your problems — you've got a complete, ordered blueprint to fix them. Honestly, even if you never speak to us again, that alone is worth many times the $950 — because knowing exactly where your money's leaking and what to do about it is the most valuable thing a founder can have.
 
 And here's the honest part, since I said I'd be straight with you. Once you've got that blueprint, you've got two doors. **Door one: take it and run.** It's all in there — what to build, how, in what order. If you've got the technical chops in-house, go build it yourself. No strings. **Door two:** if the opportunity turns out to be big — and for most people it is — and you'd rather not burn six months learning to build it, we can talk about doing it for you. But notice *when* that decision happens — *after* you've seen the map and the numbers, once you actually know it's worth it. Never blind, never before. I'd never ask you to commit to a build you can't yet see the value of.
 
-Last thing — the real stakes, because this isn't only about upside. Remember what we opened with: a wave of AI-native companies is being built right now with all of this baked in from day one. Every month you stay flying blind, running things by hand, guessing at your numbers — they compound their lead on you. In two, three years, that gap won't be small; it'll be the difference between the businesses that make it and the ones that quietly get squeezed out. The audit is how you find out — cheaply, in about a week, at zero risk — exactly where you stand and exactly what to do. The worst outcome here was never spending $897. It's finding out too late that you'd been leaking money and leverage the whole time.
+Last thing — the real stakes, because this isn't only about upside. Remember what we opened with: a wave of AI-native companies is being built right now with all of this baked in from day one. Every month you stay flying blind, running things by hand, guessing at your numbers — they compound their lead on you. In two, three years, that gap won't be small; it'll be the difference between the businesses that make it and the ones that quietly get squeezed out. The audit is how you find out — cheaply, in about a week, at zero risk — exactly where you stand and exactly what to do. The worst outcome here was never spending $950. It's finding out too late that you'd been leaking money and leverage the whole time.
 
 **So — book the audit. The link's right there. Let's go find out what your business is actually capable of.**"
 
@@ -116,9 +116,9 @@ Last thing — the real stakes, because this isn't only about upside. Remember w
 ## OPEN THREADS (so they're not lost on compaction)
 - **6.1** just reworked (personal diagnosis by Lloyd not a sales guy; hyped deliverable; value-before-price; Q&A nudge; guarantee kept). Lloyd may still iterate. Optional value-contrast line + exact guarantee-criteria wording still to tune.
 - **6.2** is a DRAFT Lloyd hasn't reviewed. Chains from 6.1's "diagnose first, build is a separate later conversation." Open: exact report-structure wording; how hard to lean the DIY/DFY "two doors."
-- **Hormozi principle (locked):** make the audit a standalone no-brainer; present the build as the 2nd of two honest doors (service, not upsell); NEVER frame the audit as a tripwire. The "$897 off the top / credit" line was REJECTED by Lloyd — replaced with "we won't propose a build before we even know what's needed; diagnose first, talk separately later."
+- **Hormozi principle (locked):** make the audit a standalone no-brainer; present the build as the 2nd of two honest doors (service, not upsell); NEVER frame the audit as a tripwire. The "$950 off the top / credit" line was REJECTED by Lloyd — replaced with "we won't propose a build before we even know what's needed; diagnose first, talk separately later."
 - **Vigil** rolled into 5.4 (Data & Visibility) as the AI COO agent; end-of-webinar callback keeps the "it's a system" payoff.
-- Full front half (0–5.5) lives in the Google Doc; `webinar_reference.md` holds the locked model (paid $897 audit, guarantee, two forks, levers, etc.).
+- Full front half (0–5.5) lives in the Google Doc; `webinar_reference.md` holds the locked model (paid $950 audit, guarantee, two forks, levers, etc.).
 
 ---
 
@@ -132,7 +132,7 @@ And here's where I know some of you are going: 'sounds great, but… I'm not tec
 
 Now let me be straight about the money — because I know what some of you are quietly thinking: 'the audit's cheap… but I bet the real bill comes later.' Here's the truth. That report is yours. Take it, implement it with your own team for the cost of a few tools, and never pay me another cent. And if you ever do want us to build it for you, that number is always scoped to the ROI we already found and proved — you'd never spend a dollar on a build we haven't first shown pays for itself many times over. No blind commitment. No surprise bill. The only thing you're deciding tonight is whether to get the map — and that's guaranteed, so it costs you nothing to find out. [handles 'is it a trap' + 'the build will cost a fortune']
 
-But here's the real decision — and it was never the $897. It's the cost of doing nothing. Those leaks don't wait for you to get around to them; every month you stay blind, they keep bleeding — margin, deals, hours. And while that happens, a wave of competitors is being built on exactly this leverage, pulling further ahead every month on cost and speed. Five hundred bucks is nothing next to what staying stuck actually costs you. The scariest number in your business isn't $897 — it's the money you're leaking right now and can't even see. [BELIEF 8 — cost of NOT doing > cost of doing]
+But here's the real decision — and it was never the $950. It's the cost of doing nothing. Those leaks don't wait for you to get around to them; every month you stay blind, they keep bleeding — margin, deals, hours. And while that happens, a wave of competitors is being built on exactly this leverage, pulling further ahead every month on cost and speed. Five hundred bucks is nothing next to what staying stuck actually costs you. The scariest number in your business isn't $950 — it's the money you're leaking right now and can't even see. [BELIEF 8 — cost of NOT doing > cost of doing]
 
 And that's why this isn't a 'someday' decision. The cost of waiting doesn't stay flat — it compounds. Every month you put it off, the leaks get bigger, the competitors get further ahead, and the hole gets deeper to climb out of. 'I'll look at this next quarter' is the single most expensive sentence a founder can say right now. The best time to find your leaks was a year ago. The second best is tonight — while it's in front of you, this cheap, and completely risk-free. [BELIEF 9 — act NOW, not later]
 
@@ -157,7 +157,7 @@ PROOF:
 VALUE / TRAP:
 - 🔥 "Is this just bait to upsell me an expensive build?" → take the report and walk; guarantee = you risk nothing. [6.2 money beat]
 - 🔥 "The audit's cheap but the BUILD will cost a fortune." → (THE BIG UNSPOKEN ONE) report stands alone; any build is scoped to already-proven ROI, your call after you see numbers. [6.2 money beat]
-- ⚠️ "$897 for what? What if you find nothing?" → the guarantee.
+- ⚠️ "$950 for what? What if you find nothing?" → the guarantee.
 
 TRUST / URGENCY:
 - 🔥 "Why now? I'll do it later." → leaks + competitors compound monthly; 'later' is the most expensive choice. [6.2 belief-9]
@@ -169,7 +169,7 @@ TRUST / URGENCY:
 - 5: "There IS a solution — fundamentally different" (diagnosis-first, not another course/agency/tool)
 - 6: "This specific solution is proven — it works" (my own P&L + guarantee)
 - 7: "I can see MYSELF succeeding with this" — NOT just 'it works' but 'it works for someone like ME.' Most webinars skip 6→offer and lose here. We use LLOYD as the relatable founder (no client case studies yet — honesty rule).
-- 8: "The cost of NOT doing this is bigger than the cost of doing it" (sell the cost of inaction; $897 is nothing vs. the leak)
+- 8: "The cost of NOT doing this is bigger than the cost of doing it" (sell the cost of inaction; $950 is nothing vs. the leak)
 - 9: "I need to act NOW — not later" (waiting compounds/exponential; there must be a reason delay costs them)
 
 ---
@@ -220,13 +220,13 @@ That's the trap — the innovator's dilemma. The companies that get destroyed ar
 
 The only question that matters is which side of that story you're on. The one who saw it coming and moved — or the one who was doing just fine, right up until they weren't.
 
-That's why this was never about $897. The decision that actually matters is what happens if you tell yourself 'interesting' tonight and go right back to what you were doing. Nothing changes — which means everything quietly gets worse. Those leaks don't wait; they bleed, every single day. Deals you lose. Margin you never see. Hours of your one life poured into work a machine should be doing. $897 was never the risk. That is.
+That's why this was never about $950. The decision that actually matters is what happens if you tell yourself 'interesting' tonight and go right back to what you were doing. Nothing changes — which means everything quietly gets worse. Those leaks don't wait; they bleed, every single day. Deals you lose. Margin you never see. Hours of your one life poured into work a machine should be doing. $950 was never the risk. That is.
 
 So no — this isn't a 'let me think about it.' Thinking about it is a decision, and it's the wrong one. Every month you wait, the hole gets deeper and the climb gets steeper. The best time to plug your leaks and start compounding your advantage instead of theirs was a year ago. The second-best time is tonight — while it's right in front of you, this cheap, and completely risk-free.
 
 So book your AI Revenue Teardown. The link's on the screen right now. Come find out exactly what your business is capable of — and I'll see you on that call, personally. Then stick around: I'm going straight into live Q&A, and I want to hear what's really going on in your world.
 
 ## STILL OPEN (post-6.2)
-- 6.1: thread the name "AI Revenue Teardown" into the [NAME] placeholder; add the $2k price anchor ("worth way more than $897…").
+- 6.1: thread the name "AI Revenue Teardown" into the [NAME] placeholder; add the $2k price anchor ("worth way more than $950…").
 - §2 credibility: optional light seed of the "CRO + real engineering team" positioning early (full version now lives in 6.2 S2).
 - Front half (0–5.5) lives in the Google Doc.
